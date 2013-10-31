@@ -38,6 +38,28 @@ OS X.
 
 > a key-value object store backed by sqlite3 for ios
 
+## Test Automation
+
+* [Frank](https://github.com/moredip/Frank)
+
+> Automated acceptance tests for native iOS apps.
+
+## Command-line tools
+
+* [iphonesim](https://github.com/jhaynie/iphonesim)
+
+> Command Line Launcher for the iPhone Simulator.
+
+* [Sim-Launcher](https://github.com/moredip/Sim-Launcher)
+
+> tiny little sinatra app to allow launching an iOS app in the simulator via HTTP
+
+## Analytics
+
+[AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
+
+> Analytics framework for iOS
+
 ## UI
 
 ### Maps
