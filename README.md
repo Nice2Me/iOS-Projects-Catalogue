@@ -22,14 +22,21 @@ OS X.
 
 ### Key-value store
 
+* [YapDatabase](https://github.com/yaptv/YapDatabase)
+ 
+> YapDatabase is a "key/value store and MORE" built atop sqlite for iOS & Mac.
+
 * [NyaruDB](https://github.com/kelp404/NyaruDB)
 
-> A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS
-and OS X.
+> A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS and OS X.
 
 * [NULevelDB](https://github.com/nulayer/NULevelDB)
 
 > Objective-C interface to Google's LevelDB key/value embedded database
+
+* [kvdb](https://github.com/colinyoung/kvdb)
+
+> a key-value object store backed by sqlite3 for ios
 
 ## UI
 
