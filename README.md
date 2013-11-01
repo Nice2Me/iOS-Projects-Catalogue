@@ -1,6 +1,16 @@
 iOS-Projects-Catalogue
 ======================
 
+## Objective-C and Cocoa
+
+* [GNUstep](https://github.com/gnustep/gnustep-base)
+
+> GNUstep is a mature Framework, suited both for advanced GUI desktop applications as well as server applications. The framework closely follows Apple's Cocoa (formerly NeXT's OpenStep) APIs but is portable to a variety of platforms and architectures.
+
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+
+> A framework for composing and transforming streams of values
+
 ## Networking
 
 ### Socket libraries
@@ -59,6 +69,10 @@ OS X.
 [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
 
 > Analytics framework for iOS
+
+[ARAnalytics](https://github.com/orta/ARAnalytics)
+
+> Simplify your iOS analytics
 
 ## UI
 
