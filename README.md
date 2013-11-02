@@ -137,6 +137,9 @@ OS X.
 
 * [calabash-ios](https://github.com/calabash/calabash-ios)
 
+> Calabash is an automated testing technology for Android and iOS native
+and hybrid applications.
+
 ### Stubbing tools
 
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
