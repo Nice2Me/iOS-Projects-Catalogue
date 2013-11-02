@@ -189,7 +189,7 @@ design and content of your passes, or generate one-offs on the fly.
 
   * [Venice](https://github.com/nomad/venice)
 
-  > Secure your In-App-Purchases by verifying App Store purchase
+    > Secure your In-App-Purchases by verifying App Store purchase
 receipts, and retrieving the information associated with receipt data.
 
   * [Shenzhen](https://github.com/nomad/shenzhen)
