@@ -11,6 +11,16 @@ iOS-Projects-Catalogue
 
 > A framework for composing and transforming streams of values
 
+### Conventions / Style guides
+
+* [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
+
+> Coding conventions for Objective-C projects.
+
+* [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
+
+> The New York Times Mobile Team’s Objective-C Style Guide.
+
 ## Networking
 
 ### Socket libraries
@@ -29,6 +39,20 @@ iOS-Projects-Catalogue
 OS X.
 
 ## Database layer
+
+### SQLite-based projects / Alternatives to CoreData
+
+* [FMDB](https://github.com/ccgus/fmdb)
+
+> A Cocoa / Objective-C wrapper around SQLite
+
+* [FCModel](https://github.com/marcoarment/FCModel)
+
+> An alternative to Core Data for people who like having direct SQL access.
+
+* [iActiveRecord](https://github.com/AlexDenisov/iActiveRecord)
+
+> ActiveRecord for iOS without CoreData, only SQLite.
 
 ### Key-value store
 
