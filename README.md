@@ -1,7 +1,15 @@
 iOS-Projects-Catalogue
 ======================
 
-## Objective-C and Cocoa
+This is my collection of iOS/Objective-C Open Source projects. I prefer keeping it in a separate repository to have a fast access to any projects I recently Github-starred or explored.
+
+It will grow as fast as it is possible with my ability to add new projects I am already aware of and my ability to explore new projects around the net, Github, etc.
+
+If you liked it, feel free to suggest any new projects that are not present in the current list.
+
+Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md. After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
+
+ ## Objective-C and Cocoa
 
 * [GNUstep](https://github.com/gnustep/gnustep-base)
 
