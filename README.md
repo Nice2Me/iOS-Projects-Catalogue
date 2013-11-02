@@ -184,9 +184,19 @@ credentials, construct your message, and 3...2...1... blastoff.
 
   * [Dubai](https://github.com/nomad/dubai)
 
+    > Generate Passbook .pkpass files with ease. Rapidly iterate on the
+design and content of your passes, or generate one-offs on the fly.
+
   * [Venice](https://github.com/nomad/venice)
 
+  > Secure your In-App-Purchases by verifying App Store purchase
+receipts, and retrieving the information associated with receipt data.
+
   * [Shenzhen](https://github.com/nomad/shenzhen)
+
+    > Create development builds and then distribute their .ipa files over
+TestFlight, HockeyApp, Amazon S3, or FTP. Get new builds out to testers
+and enterprises in seconds.
 
 * [iphonesim](https://github.com/jhaynie/iphonesim)
 
