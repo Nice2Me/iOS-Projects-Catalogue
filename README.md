@@ -9,7 +9,7 @@ If you liked it, feel free to suggest any new projects that are not present in t
 
 Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md. After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
- ## Objective-C and Cocoa
+## Objective-C and Cocoa
 
 * [GNUstep](https://github.com/gnustep/gnustep-base)
 
