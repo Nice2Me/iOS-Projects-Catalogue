@@ -50,6 +50,12 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 > RestKit is a framework for consuming and modeling RESTful web resources
 on iOS and OS X 
 
+### Network logging
+
+* [AFNetworking Extension for HTTP Request Logging](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
+
+> AFNetworking Extension for HTTP Request Logging
+
 ### Socket libraries
 
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
@@ -80,6 +86,10 @@ OS X.
 * [FCModel](https://github.com/marcoarment/FCModel)
 
 > An alternative to Core Data for people who like having direct SQL access.
+
+* [ObjectiveRecord](https://github.com/mneorr/ObjectiveRecord)
+
+> A lightweight Active Record - style of managing CoreData objects.
 
 * [iActiveRecord](https://github.com/AlexDenisov/iActiveRecord)
 
@@ -138,7 +148,26 @@ OS X.
 > Testing HTTP requests has never been easier. Nocilla: Stunning HTTP
 stubbing for iOS and Mac OS X.
 
+### VCR tools
+
+* [VCRURLConnection](https://github.com/dstnbrkr/VCRURLConnection)
+
+> VCRURLConnection is an iOS and OSX API to record and replay HTTP
+interactions, inspired by VCR for ruby
+
+## Deployment
+
+* [Air-Test](https://github.com/rjyo/Air-Test)
+
+> A tool that will make a lot of iPhone/iPad developers' life easier. It
+shares your app over-the-air in a WiFi network. Bonjour is used and no
+configuration is needed.
+
 ## Command-line tools
+
+* [xctool](https://github.com/facebook/xctool)
+
+> xctool is a replacement for Apple's xcodebuild that makes it easier to build and test iOS and Mac projects.
 
 * [iphonesim](https://github.com/jhaynie/iphonesim)
 
