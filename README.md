@@ -169,6 +169,25 @@ configuration is needed.
 
 > xctool is a replacement for Apple's xcodebuild that makes it easier to build and test iOS and Mac projects.
 
+* [nomad-cli](http://nomad-cli.com/)
+
+> world-class command line utilities for iOS development
+
+  * [Cupertino](https://github.com/nomad/cupertino)
+    
+    > Automate administrative tasks that you would normally have to do
+through the Apple Dev Center website. Life's too short to manage device
+identifiers by hand!
+    
+  * [Houston](https://github.com/nomad/houston)
+
+> Send push notifications from the command line. Simply provide your
+credentials, construct your message, and 3...2...1... blastoff.
+
+  * [Dubai](https://github.com/nomad/dubai)
+  * [Venice](https://github.com/nomad/venice)
+  * [Shenzhen](https://github.com/nomad/shenzhen)
+
 * [iphonesim](https://github.com/jhaynie/iphonesim)
 
 > Command Line Launcher for the iPhone Simulator.
