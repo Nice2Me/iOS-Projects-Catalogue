@@ -33,6 +33,15 @@ iOS-Projects-Catalogue
 
 ## Networking
 
+* [AFNetworking](http://afnetworking.com/)
+
+> A delightful networking framework for iOS and OSX
+
+* [RestKit](https://github.com/RestKit/RestKit)
+
+> RestKit is a framework for consuming and modeling RESTful web resources
+on iOS and OS X 
+
 ### Socket libraries
 
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
@@ -95,6 +104,8 @@ OS X.
 * [KIF](https://github.com/kif-framework/KIF)
 
 > Keep It Functional - An iOS Functional Testing Framework
+
+* [calabash-ios](https://github.com/calabash/calabash-ios)
 
 ### Stubbing tools
 
