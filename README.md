@@ -176,9 +176,12 @@ configuration is needed.
   > Automate administrative tasks that you would normally have to do
 through the Apple Dev Center website. Life's too short to manage device
 identifiers by hand!
+  
   * [Houston](https://github.com/nomad/houston)
-> Send push notifications from the command line. Simply provide your
+  
+  > Send push notifications from the command line. Simply provide your
 credentials, construct your message, and 3...2...1... blastoff.
+
   * [Dubai](https://github.com/nomad/dubai)
   * [Venice](https://github.com/nomad/venice)
   * [Shenzhen](https://github.com/nomad/shenzhen)
