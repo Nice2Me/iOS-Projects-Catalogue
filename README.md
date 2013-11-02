@@ -172,7 +172,7 @@ configuration is needed.
 * [nomad-cli](http://nomad-cli.com/)
 > world-class command line utilities for iOS development
   * [Cupertino](https://github.com/nomad/cupertino)
-    > Automate administrative tasks that you would normally have to do
+  > Automate administrative tasks that you would normally have to do
 through the Apple Dev Center website. Life's too short to manage device
 identifiers by hand!
   * [Houston](https://github.com/nomad/houston)
