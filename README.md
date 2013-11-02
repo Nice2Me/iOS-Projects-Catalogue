@@ -86,11 +86,26 @@ OS X.
 
 > a key-value object store backed by sqlite3 for ios
 
-## Test Automation
+## Testing and Test Automation
 
 * [Frank](https://github.com/moredip/Frank)
 
 > Automated acceptance tests for native iOS apps.
+
+* [KIF](https://github.com/kif-framework/KIF)
+
+> Keep It Functional - An iOS Functional Testing Framework
+
+### Stubbing tools
+
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
+
+> Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
+
+* [Nocilla](https://github.com/luisobo/Nocilla)
+
+> Testing HTTP requests has never been easier. Nocilla: Stunning HTTP
+stubbing for iOS and Mac OS X.
 
 ## Command-line tools
 
