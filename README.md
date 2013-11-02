@@ -7,7 +7,7 @@ It will grow as fast as it is possible with my ability to add new projects I am 
 
 If you liked it, feel free to suggest any new projects that are not present in the current list.
 
-Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
+Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/CANDIDATES.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
 ## Objective-C and Cocoa
 
@@ -52,7 +52,7 @@ on iOS and OS X
 
 ### Network logging
 
-* [AFNetworking Extension for HTTP Request Logging](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
+* [AFHTTPRequestOperationLogger](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
 
 > AFNetworking Extension for HTTP Request Logging
 
