@@ -95,7 +95,19 @@ OS X.
 
 > a key-value object store backed by sqlite3 for ios
 
-## Testing and Test Automation
+## Testing
+
+### Testing frameworks
+
+* [Kiwi](https://github.com/allending/Kiwi)
+
+> BDD for iOS
+
+* [Cedar](https://github.com/pivotal/cedar)
+
+> BDD-style testing using Objective-C
+
+### Test Automation
 
 * [Frank](https://github.com/moredip/Frank)
 
