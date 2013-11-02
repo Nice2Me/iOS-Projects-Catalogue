@@ -11,6 +11,16 @@ iOS-Projects-Catalogue
 
 > A framework for composing and transforming streams of values
 
+### Extensions for Objective-C and Cocoa frameworks
+
+* [libextobjc](https://github.com/jspahrsummers/libextobjc)
+
+> A Cocoa library to extend the Objective-C programming language.
+
+* [ObjectiveSugar](https://github.com/mneorr/ObjectiveSugar)
+
+> ObjectiveC additions for humans. Ruby style.
+
 ### Conventions / Style guides
 
 * [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
@@ -38,7 +48,11 @@ iOS-Projects-Catalogue
 > A fast, synchronous Objective-C wrapper around BSD sockets for iOS and
 OS X.
 
-## Database layer
+## Data layer
+
+* [github/Mantle](https://github.com/github/Mantle)
+
+> Model framework for Cocoa and Cocoa Touch
 
 ### SQLite-based projects / Alternatives to CoreData
 
@@ -102,9 +116,15 @@ OS X.
 
 ### Maps
 
+#### Clustering
+
 * [kingpin](https://github.com/itsbonczek/kingpin)
 
 > A drop-in MapKit/MKAnnotation pin clustering library for MKMapView on
 iOS
+
+* [OCMapView](https://github.com/yinkou/OCMapView)
+
+> Simple and easy to use clustering mapView for iOS
 
 
