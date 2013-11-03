@@ -201,9 +201,9 @@ receipts, and retrieving the information associated with receipt data.
 TestFlight, HockeyApp, Amazon S3, or FTP. Get new builds out to testers
 and enterprises in seconds.
 
-* [iphonesim](https://github.com/jhaynie/iphonesim)
+* [phonegap/ios-sim](https://github.com/phonegap/ios-sim)
 
-> Command Line Launcher for the iPhone Simulator.
+> Command Line Launcher for the iOS Simulator.
 
 * [Sim-Launcher](https://github.com/moredip/Sim-Launcher)
 
