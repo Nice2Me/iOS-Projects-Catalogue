@@ -19,6 +19,10 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 
 > A framework for composing and transforming streams of values
 
+* [CocoaPort](https://github.com/chrisdevereux/CocoaPort)
+
+> An asynchronous, futures-based distributed objects library for Objective-C
+
 ### Extensions for Objective-C and Cocoa frameworks
 
 * [libextobjc](https://github.com/jspahrsummers/libextobjc)
