@@ -213,6 +213,11 @@ and enterprises in seconds.
 
 > tiny little sinatra app to allow launching an iOS app in the simulator via HTTP
 
+* [fruitstrap](https://github.com/ghughes/fruitstrap/)
+
+> Install and debug iPhone apps from the command line, without using
+Xcode
+
 ## Analytics
 
 [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
