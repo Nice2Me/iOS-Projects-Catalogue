@@ -50,11 +50,12 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 > RestKit is a framework for consuming and modeling RESTful web resources
 on iOS and OS X 
 
-### Network logging
+### HTTP servers
 
-* [AFHTTPRequestOperationLogger](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
+* [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
 
-> AFNetworking Extension for HTTP Request Logging
+> A small, lightweight, embeddable HTTP server for Mac OS X or iOS
+applications
 
 ### Socket libraries
 
@@ -74,6 +75,12 @@ OS X.
 * [CocoaPort](https://github.com/chrisdevereux/CocoaPort)
 
 > An asynchronous, futures-based distributed objects library for Objective-C
+
+### Network logging
+
+* [AFHTTPRequestOperationLogger](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
+
+> AFNetworking Extension for HTTP Request Logging
 
 ## Data layer
 
