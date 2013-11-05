@@ -117,6 +117,16 @@ OS X.
 
 > a key-value object store backed by sqlite3 for ios
 
+## Logging tools
+
+* [NSLogger](https://github.com/fpillet/NSLogger)
+
+> A modern, flexible logging tool
+
+* [CocoaLumberjack](https://github.com/robbiehanson/CocoaLumberjack)
+
+> A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+
 ## Testing
 
 ### Testing frameworks
