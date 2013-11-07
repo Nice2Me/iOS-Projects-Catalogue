@@ -15,10 +15,6 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 
 > GNUstep is a mature Framework, suited both for advanced GUI desktop applications as well as server applications. The framework closely follows Apple's Cocoa (formerly NeXT's OpenStep) APIs but is portable to a variety of platforms and architectures.
 
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-
-> A framework for composing and transforming streams of values
-
 ### Extensions for Objective-C and Cocoa frameworks
 
 * [libextobjc](https://github.com/jspahrsummers/libextobjc)
@@ -28,6 +24,16 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 * [ObjectiveSugar](https://github.com/mneorr/ObjectiveSugar)
 
 > ObjectiveC additions for humans. Ruby style.
+
+### Libraries implementing Promises pattern
+
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+
+> A framework for composing and transforming streams of values
+
+* [RXPromise](https://github.com/couchdeveloper/RXPromise)
+
+> An Objective-C Class which implements the Promises/A+ specification.
 
 ### Conventions / Style guides
 

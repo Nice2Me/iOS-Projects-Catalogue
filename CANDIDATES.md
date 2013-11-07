@@ -11,10 +11,6 @@ Candidates for iOS-Projects-Catalogue
 
 > Framework for building network clients and servers, includes a simple HTTP server out of the box
 
-* [RXPromise](https://github.com/couchdeveloper/RXPromise)
-
-> An Objective-C Class which implements the Promises/A+ specification.
-
 * [OAPromise](https://github.com/oleganza/OAPromise)
 
 > OAPromise is an API separating async operations and their callbacks,
