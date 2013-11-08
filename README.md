@@ -21,6 +21,10 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 
 > A framework for composing and transforming streams of values
 
+* [NimbusKit](http://nimbuskit.info/)
+
+> Nimbus is a toolkit for experienced iOS software designers. It provides well-documented, modular components that solve a number of common iOS software requirements. This includes: a rich text label with hyperlinks; a web view controller; a simple approach to table models, radio groups, and table actions; standardized interapp communication, and powerful debugging tools, amongst many other features.
+
 ### Extensions for Objective-C and Cocoa frameworks
 
 * [libextobjc](https://github.com/jspahrsummers/libextobjc)
