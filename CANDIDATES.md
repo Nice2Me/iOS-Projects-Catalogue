@@ -47,4 +47,7 @@ ability.
 > iAsync is an utility module which provides straight-forward, powerful
 functions for working with asynchronous ObjectiveC.
 
+* [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)
+
+> A fast single-producer, single-consumer lock-free queue for C++
 
