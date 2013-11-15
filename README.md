@@ -17,6 +17,15 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 
 > GNUstep is a mature Framework, suited both for advanced GUI desktop applications as well as server applications. The framework closely follows Apple's Cocoa (formerly NeXT's OpenStep) APIs but is portable to a variety of platforms and architectures.
 
+* [AFNetworking](http://afnetworking.com/)
+
+> A delightful networking framework for iOS and OSX
+
+* [RestKit](https://github.com/RestKit/RestKit)
+
+> RestKit is a framework for consuming and modeling RESTful web resources
+on iOS and OS X 
+
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
 > A framework for composing and transforming streams of values
@@ -52,15 +61,6 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
 ## Networking
-
-* [AFNetworking](http://afnetworking.com/)
-
-> A delightful networking framework for iOS and OSX
-
-* [RestKit](https://github.com/RestKit/RestKit)
-
-> RestKit is a framework for consuming and modeling RESTful web resources
-on iOS and OS X 
 
 ### HTTP servers
 
