@@ -3,6 +3,10 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [simlaunch](https://github.com/landonf/simlaunch)
+
+> GUI Mac Wrapper for iPhone Simulator Binaries.
+
 * [gh-kit](https://github.com/gabriel/gh-kit)
 
 > Utilities and categories for Objective-C
