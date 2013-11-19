@@ -259,6 +259,13 @@ Xcode
 
 ## UI
 
+### UIKit extensions
+
+* [UIImage-Categories](https://github.com/mbcharbonneau/UIImage-Categories)
+   
+> An fork of Trevor Harmon's UIImage category methods, updated for the
+latest versions of iOS.
+
 ### Maps
 
 #### Clustering
