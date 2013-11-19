@@ -259,6 +259,10 @@ Xcode
 
 ## UI
 
+* [ADTransitionController](https://github.com/applidium/ADTransitionController)
+
+> UINavigationController with custom transitions
+
 ### UIKit extensions
 
 * [UIImage-Categories](https://github.com/mbcharbonneau/UIImage-Categories)
