@@ -3,6 +3,10 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [AudioModem](https://github.com/applidium/AudioModem)
+
+> Transfer data using microphone/speaker on iOS devices
+
 * [simlaunch](https://github.com/landonf/simlaunch)
 
 > GUI Mac Wrapper for iPhone Simulator Binaries.
