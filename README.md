@@ -272,11 +272,13 @@ latest versions of iOS.
 
 * [kingpin](https://github.com/itsbonczek/kingpin)
 
-> A drop-in MapKit/MKAnnotation pin clustering library for MKMapView on
-iOS
+> A drop-in MapKit/MKAnnotation pin clustering library for MKMapView on iOS
+
+* [ADClusterMapView](https://github.com/applidium/ADClusterMapView)
+
+> MKMapView with clustering
 
 * [OCMapView](https://github.com/yinkou/OCMapView)
 
 > Simple and easy to use clustering mapView for iOS
-
 
