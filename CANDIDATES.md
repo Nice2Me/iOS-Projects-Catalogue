@@ -3,6 +3,10 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [mttrb/BeaconOSX](https://github.com/mttrb/BeaconOSX)
+
+> Use a Bluetooth 4 enabled Mac running Mavericks as an iBeacon
+
 * [NSTree](https://github.com/carlinyuen/NSTree)
  
 > Tree data structure implementation for iOS without using CFTree.
