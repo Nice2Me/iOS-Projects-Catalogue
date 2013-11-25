@@ -136,7 +136,14 @@ OS X.
 
 > a key-value object store backed by sqlite3 for ios
 
-## Logging tools
+## Debugging tools
+
+* [VMInstrumenter](https://github.com/vittoriom/VMInstrumenter)
+
+> A simple Objective-C singleton to instrument, protect, trace, and
+suppress selectors at runtime
+
+### Logging
 
 * [NSLogger](https://github.com/fpillet/NSLogger)
 
