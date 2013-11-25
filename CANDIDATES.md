@@ -72,3 +72,11 @@ functions for working with asynchronous ObjectiveC.
 
 > A fast single-producer, single-consumer lock-free queue for C++
 
+* [GCDProducerConsumer](https://github.com/ipmcc/GCDProducerConsumer)
+
+> An example for http://stackoverflow.com/questions/18319520/nsoperation-or-gcd-threading-with-animations
+
+* [SafeDispatch](https://github.com/jspahrsummers/SafeDispatch)
+
+> A Cocoa framework to make Grand Central Dispatch safer (deprecated).
+
