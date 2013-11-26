@@ -80,3 +80,7 @@ functions for working with asynchronous ObjectiveC.
 
 > A Cocoa framework to make Grand Central Dispatch safer (deprecated).
 
+* [superdb](https://github.com/Shopify/superdb)
+
+> The Super Debugger, a realtime wireless debugger for iOS
+
