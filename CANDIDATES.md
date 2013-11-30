@@ -32,6 +32,10 @@ Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
 > Framework for building network clients and servers, includes a simple HTTP server out of the box
 
+* [MAFuture](https://github.com/mikeash/MAFuture)
+
+> Proxying futures library for Objective-C
+
 * [OAPromise](https://github.com/oleganza/OAPromise)
 
 > OAPromise is an API separating async operations and their callbacks,
