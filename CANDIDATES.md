@@ -88,3 +88,9 @@ functions for working with asynchronous ObjectiveC.
 
 > The Super Debugger, a realtime wireless debugger for iOS
 
+* [Bravo](https://github.com/iOSCowboy/Bravo)
+
+> Bravo is an Objective-C library to simplify the extraction of metadata
+from JPEG files.
+
+
