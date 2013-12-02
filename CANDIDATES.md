@@ -93,4 +93,7 @@ functions for working with asynchronous ObjectiveC.
 > Bravo is an Objective-C library to simplify the extraction of metadata
 from JPEG files.
 
+* [mach_inject](https://github.com/rentzsch/mach_inject)
+
+> interprocess code injection for Mac OS X
 
