@@ -161,6 +161,10 @@ suppress selectors at runtime
 
 > A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 
+* [JRLog](https://github.com/rentzsch/JRLog)
+
+> Simple but flexible Log4J-like logging system for Objective-C
+
 ----
 
 ## Testing
