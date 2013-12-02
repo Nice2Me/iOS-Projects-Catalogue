@@ -311,6 +311,15 @@ latest versions of iOS.
 
 > Simple and easy to use clustering mapView for iOS
 
+---- 
+
+## Graphics
+
+* [SVGKit](https://github.com/SVGKit/SVGKit)
+
+> Display and interact with SVG Images on iOS / OS X, using native
+rendering (CoreAnimation)
+
 ----
 
 ## Applications
