@@ -301,4 +301,8 @@ latest versions of iOS.
 
 > Vector illustration app for the iPad.
 
+* [Brushes](https://github.com/sprang/Brushes)
+
+> Painting app for the iPhone and iPad.
+
 
