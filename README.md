@@ -52,6 +52,13 @@ on iOS and OS X
 
 > An Objective-C Class which implements the Promises/A+ specification.
 
+### Macros utilities
+
+* [JREnum](https://github.com/rentzsch/JREnum)
+
+> macros that automate vending an NSString given an enum value (f.x.
+MyEnumToString(value))
+
 ### Conventions / Style guides
 
 * [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
