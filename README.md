@@ -9,6 +9,8 @@ If you liked it, feel free to suggest any new projects that are not present in t
 
 Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/CANDIDATES.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
+----
+
 ## Objective-C and Cocoa
 
 ### Frameworks
@@ -60,6 +62,8 @@ on iOS and OS X
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
+----
+
 ## Networking
 
 ### HTTP servers
@@ -93,6 +97,8 @@ OS X.
 * [AFHTTPRequestOperationLogger](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
 
 > AFNetworking Extension for HTTP Request Logging
+
+----
 
 ## Data layer
 
@@ -136,6 +142,8 @@ OS X.
 
 > a key-value object store backed by sqlite3 for ios
 
+----
+
 ## Debugging tools
 
 * [VMInstrumenter](https://github.com/vittoriom/VMInstrumenter)
@@ -152,6 +160,8 @@ suppress selectors at runtime
 * [CocoaLumberjack](https://github.com/robbiehanson/CocoaLumberjack)
 
 > A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+
+----
 
 ## Testing
 
@@ -198,6 +208,8 @@ stubbing for iOS and Mac OS X.
 > VCRURLConnection is an iOS and OSX API to record and replay HTTP
 interactions, inspired by VCR for ruby
 
+----
+
 ## Deployment
 
 * [Air-Test](https://github.com/rjyo/Air-Test)
@@ -205,6 +217,8 @@ interactions, inspired by VCR for ruby
 > A tool that will make a lot of iPhone/iPad developers' life easier. It
 shares your app over-the-air in a WiFi network. Bonjour is used and no
 configuration is needed.
+
+----
 
 ## Command-line tools
 
@@ -254,6 +268,8 @@ and enterprises in seconds.
 > Install and debug iPhone apps from the command line, without using
 Xcode
 
+----
+
 ## Analytics
 
 [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
@@ -263,6 +279,8 @@ Xcode
 [ARAnalytics](https://github.com/orta/ARAnalytics)
 
 > Simplify your iOS analytics
+
+----
 
 ## UI
 
