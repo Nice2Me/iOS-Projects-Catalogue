@@ -293,3 +293,12 @@ latest versions of iOS.
 
 > Simple and easy to use clustering mapView for iOS
 
+----
+
+## Applications
+
+* [Inkpad](https://github.com/sprang/Inkpad)
+
+> Vector illustration app for the iPad.
+
+
