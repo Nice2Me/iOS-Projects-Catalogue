@@ -176,6 +176,10 @@ suppress selectors at runtime
 
 > A powerful and flexible logging utility for Mac/iOS apps
 
+* [MTLog](https://github.com/icanzilb/MTLog)
+
+> NSLog replacement for coders!
+
 ----
 
 ## Testing
