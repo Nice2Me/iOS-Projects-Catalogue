@@ -172,6 +172,10 @@ suppress selectors at runtime
 
 > Simple but flexible Log4J-like logging system for Objective-C
 
+* [UrbanApps/UALogger](https://github.com/UrbanApps/UALogger)
+
+> A powerful and flexible logging utility for Mac/iOS apps
+
 ----
 
 ## Testing
