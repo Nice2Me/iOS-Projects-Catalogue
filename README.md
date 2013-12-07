@@ -69,6 +69,12 @@ MyEnumToString(value))
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
+### Uncategorized yet
+
+* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
+ 
+> EKAlgorithms contains some well known CS algorithms and other stuff.
+
 ----
 
 ## Networking
