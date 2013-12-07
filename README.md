@@ -291,13 +291,23 @@ Xcode
 
 ## Analytics
 
-[AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
+* [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
 
 > Analytics framework for iOS
 
-[ARAnalytics](https://github.com/orta/ARAnalytics)
+* [ARAnalytics](https://github.com/orta/ARAnalytics)
 
 > Simplify your iOS analytics
+
+----
+
+## iOS7
+
+* [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
+
+> Repo containing the sample projects associated with the iOS7 Day-by-Day
+blog series
+
 
 ----
 
