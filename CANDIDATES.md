@@ -101,3 +101,7 @@ from JPEG files.
 
 > interprocess code injection for Mac OS X
 
+* [MacMapKit](https://github.com/Oomph/MacMapKit)
+ 
+> MapKit Framework for the Mac
+
