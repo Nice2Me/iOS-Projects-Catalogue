@@ -309,6 +309,11 @@ Xcode
 
 ### UIKit extensions
 
+* [hfossli/AGGeometryKit](https://github.com/hfossli/AGGeometryKit)
+
+> A bundle of small classes which enriches your possibilities with UIKit
+and CoreAnimation.
+
 * [UIImage-Categories](https://github.com/mbcharbonneau/UIImage-Categories)
    
 > An fork of Trevor Harmon's UIImage category methods, updated for the
