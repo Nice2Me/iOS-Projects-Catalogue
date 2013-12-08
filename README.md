@@ -233,6 +233,13 @@ stubbing for iOS and Mac OS X.
 > VCRURLConnection is an iOS and OSX API to record and replay HTTP
 interactions, inspired by VCR for ruby
 
+### Other
+
+* [neilco/RedGreen](https://github.com/neilco/RedGreen)
+
+> RedGreen is an extension library for SenTestKit that makes the test
+output easier to parse by humans.
+
 ----
 
 ## Deployment
