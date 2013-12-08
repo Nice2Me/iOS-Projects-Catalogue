@@ -105,3 +105,7 @@ from JPEG files.
  
 > MapKit Framework for the Mac
 
+* [neilco/EventSource](https://github.com/neilco/EventSource)
+
+> Server-Sent Events for iOS and Mac
+
