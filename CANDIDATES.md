@@ -105,3 +105,7 @@ from JPEG files.
 
 > Server-Sent Events for iOS and Mac
 
+* [RNCryptor](https://github.com/rnapier/RNCryptor)
+
+> CCCryptor (AES encryption) wrappers for iOS and Mac
+
