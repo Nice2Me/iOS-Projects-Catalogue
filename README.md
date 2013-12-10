@@ -69,6 +69,16 @@ MyEnumToString(value))
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
+### Low-level utilities
+
+* [rentzsch/mach_inject](https://github.com/rentzsch/mach_inject)
+
+> interprocess code injection for Mac OS X
+
+* [rentzsch/mach_override](https://github.com/rentzsch/mach_override)
+
+> runtime function overriding for Mac OS X
+
 ### Uncategorized yet
 
 * [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
