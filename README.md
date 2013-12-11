@@ -254,6 +254,10 @@ interactions, inspired by VCR for ruby
 > RedGreen is an extension library for SenTestKit that makes the test
 output easier to parse by humans.
 
+* [mneorr/XCPretty](https://github.com/mneorr/XCPretty)
+
+> Flexible and fast xcodebuild formatter
+
 ----
 
 ## Deployment
