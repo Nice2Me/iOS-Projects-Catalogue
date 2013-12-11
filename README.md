@@ -58,6 +58,10 @@ on iOS and OS X
 
 ### Macros utilities
 
+* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
+
+> A variety of utilities for the C preprocessor.
+
 * [JREnum](https://github.com/rentzsch/JREnum)
 
 > macros that automate vending an NSString given an enum value (f.x.
