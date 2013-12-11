@@ -40,6 +40,10 @@ Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
 > Proxying futures library for Objective-C
 
+* [robrix/RXFutures](https://github.com/robrix/RXFutures)
+
+> Race-free completion and cancellation of asynchronous work.
+
 * [OAPromise](https://github.com/oleganza/OAPromise)
 
 > OAPromise is an API separating async operations and their callbacks,

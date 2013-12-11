@@ -50,7 +50,7 @@ on iOS and OS X
 
 > ObjectiveC additions for humans. Ruby style.
 
-### Libraries implementing Promises pattern
+### Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
 
