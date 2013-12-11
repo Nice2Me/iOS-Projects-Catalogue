@@ -50,13 +50,17 @@ on iOS and OS X
 
 > ObjectiveC additions for humans. Ruby style.
 
-### Libraries implementing Promises pattern
+### Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
 
 > An Objective-C Class which implements the Promises/A+ specification.
 
 ### Macros utilities
+
+* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
+
+> A variety of utilities for the C preprocessor.
 
 * [JREnum](https://github.com/rentzsch/JREnum)
 
@@ -253,6 +257,10 @@ interactions, inspired by VCR for ruby
 
 > RedGreen is an extension library for SenTestKit that makes the test
 output easier to parse by humans.
+
+* [mneorr/XCPretty](https://github.com/mneorr/XCPretty)
+
+> Flexible and fast xcodebuild formatter
 
 ----
 
