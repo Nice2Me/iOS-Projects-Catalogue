@@ -12,10 +12,6 @@ Candidates for iOS-Projects-Catalogue
 > Tree data structure implementation for iOS without using CFTree.
 Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
-* [AudioModem](https://github.com/applidium/AudioModem)
-
-> Transfer data using microphone/speaker on iOS devices
-
 * [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
 
 > A simple, fast circular buffer implementation
