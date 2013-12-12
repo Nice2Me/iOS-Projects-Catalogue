@@ -338,6 +338,10 @@ Xcode
 
 ## iOS7
 
+* [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
+
+> Code examples for the new functions of iOS 7.
+
 * [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
 
 > Repo containing the sample projects associated with the iOS7 Day-by-Day
