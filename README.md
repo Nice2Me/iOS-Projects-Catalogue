@@ -391,6 +391,14 @@ rendering (CoreAnimation)
 
 ----
 
+## Audio
+
+* [AudioModem](https://github.com/applidium/AudioModem)
+
+> Transfer data using microphone/speaker on iOS devices
+
+----
+
 ## Applications
 
 * [Inkpad](https://github.com/sprang/Inkpad)
