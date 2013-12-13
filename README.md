@@ -413,6 +413,10 @@ rendering (CoreAnimation)
 
 > Painting app for the iPhone and iPad.
 
+* [mtigas/iOS-OnionBrowser](https://github.com/mtigas/iOS-OnionBrowser)
+
+> An open-source, privacy-enhancing web browser for iOS, utilizing the
+Tor anonymity network
 
 
 
