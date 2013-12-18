@@ -11,7 +11,7 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 
 ----
 
-## <a name="Objective-C-And-Cocoa"></a>Objective-C and Cocoa
+## <a name="Objective-C-And-Cocoa"></a> Objective-C and Cocoa
 
 ### Frameworks
 
@@ -185,14 +185,14 @@ for NSCoding and NSCopying to every object.
 
 ----
 
-## <a name="DebuggingTools"> Debugging tools
+## <a name="DebuggingTools"></a> Debugging tools
 
 * [VMInstrumenter](https://github.com/vittoriom/VMInstrumenter)
 
 > A simple Objective-C singleton to instrument, protect, trace, and
 suppress selectors at runtime
 
-### <a name="DebuggingTools/Logging"> Logging
+### <a name="DebuggingTools/Logging"></a> Logging
 
 * [NSLogger](https://github.com/fpillet/NSLogger)
 
