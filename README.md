@@ -137,6 +137,16 @@ OS X.
 
 > Model framework for Cocoa and Cocoa Touch
 
+* [nicklockwood/FastCoding](https://github.com/nicklockwood/FastCoding)
+
+> A faster and more flexible binary file format replacement for Property
+Lists and JSON
+
+* [nicklockwood/AutoCoding](https://github.com/nicklockwood/AutoCoding)
+
+> AutoCoding is a category on NSObject that provides automatic support
+for NSCoding and NSCopying to every object.
+
 ### SQLite-based projects / Alternatives to CoreData
 
 * [FMDB](https://github.com/ccgus/fmdb)
