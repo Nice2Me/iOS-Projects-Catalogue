@@ -344,6 +344,12 @@ Xcode
 
 > Simplify your iOS analytics
 
+### Analytics providers
+
+* [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
+
+> Countly Mobile Analytics - iOS SDK http://count.ly
+
 ----
 
 ## iOS7
