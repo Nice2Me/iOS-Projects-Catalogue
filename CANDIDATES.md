@@ -113,3 +113,8 @@ from JPEG files.
 
 > PureMVC Standard Framework for Objective C
 
+* [NSArray-LongestCommonSubsequence](https://github.com/khanlou/NSArray-LongestCommonSubsequence)
+
+> This is a category on NSArray that finds the indexes of the longest
+common subsequence with another array.
+
