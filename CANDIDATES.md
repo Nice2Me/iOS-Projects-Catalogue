@@ -109,3 +109,12 @@ from JPEG files.
 
 > CCCryptor (AES encryption) wrappers for iOS and Mac
 
+* [PureMVC/puremvc-objectivec-standard-framework](https://github.com/PureMVC/puremvc-objectivec-standard-framework)
+
+> PureMVC Standard Framework for Objective C
+
+* [NSArray-LongestCommonSubsequence](https://github.com/khanlou/NSArray-LongestCommonSubsequence)
+
+> This is a category on NSArray that finds the indexes of the longest
+common subsequence with another array.
+

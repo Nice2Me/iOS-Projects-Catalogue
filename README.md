@@ -11,7 +11,7 @@ Also I keep another catalogue of projects: it contains [the list of candidates f
 
 ----
 
-## Objective-C and Cocoa
+## <a name="Objective-C-And-Cocoa"></a> Objective-C and Cocoa
 
 ### Frameworks
 
@@ -50,7 +50,7 @@ on iOS and OS X
 
 > ObjectiveC additions for humans. Ruby style.
 
-### Libraries implementing Promises (Futures) pattern
+### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
 
@@ -191,14 +191,14 @@ for NSCoding and NSCopying to every object.
 
 ----
 
-## Debugging tools
+## <a name="DebuggingTools"></a> Debugging tools
 
 * [VMInstrumenter](https://github.com/vittoriom/VMInstrumenter)
 
 > A simple Objective-C singleton to instrument, protect, trace, and
 suppress selectors at runtime
 
-### Logging
+### <a name="DebuggingTools/Logging"></a> Logging
 
 * [NSLogger](https://github.com/fpillet/NSLogger)
 
@@ -350,9 +350,19 @@ Xcode
 
 > Simplify your iOS analytics
 
+### Analytics providers
+
+* [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
+
+> Countly Mobile Analytics - iOS SDK http://count.ly
+
 ----
 
 ## iOS7
+
+* [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
+
+> Code examples for the new functions of iOS 7.
 
 * [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
 
@@ -368,6 +378,10 @@ blog series
 
 > UINavigationController with custom transitions
 
+* [nicklockwood/FXImageView](https://github.com/nicklockwood/FXImageView)
+
+> FXImageView is a class designed to simplify the application of common visual effects such as reflections and drop-shadows to images, and also to help the performance of image loading by handling it on a background thread.
+ 
 ### UIKit extensions
 
 * [hfossli/AGGeometryKit](https://github.com/hfossli/AGGeometryKit)
@@ -429,6 +443,10 @@ rendering (CoreAnimation)
 
 > Painting app for the iPhone and iPad.
 
+* [mtigas/iOS-OnionBrowser](https://github.com/mtigas/iOS-OnionBrowser)
+
+> An open-source, privacy-enhancing web browser for iOS, utilizing the
+Tor anonymity network
 
 
 
