@@ -129,6 +129,12 @@ OS X.
 
 > AFNetworking Extension for HTTP Request Logging
 
+### Uncategorized
+
+* [CocoaSPDY](https://github.com/twitter/CocoaSPDY)
+
+> SPDY for iOS and OS X
+
 ----
 
 ## Data layer
