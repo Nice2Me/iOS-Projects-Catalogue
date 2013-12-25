@@ -403,6 +403,10 @@ rendering (CoreAnimation)
 
 ## Audio
 
+* [novocaine](https://github.com/alexbw/novocaine)
+
+> Painless high-performance audio on iOS and Mac OS X. http://alexbw.github.com/novocaine/
+
 * [AudioModem](https://github.com/applidium/AudioModem)
 
 > Transfer data using microphone/speaker on iOS devices
