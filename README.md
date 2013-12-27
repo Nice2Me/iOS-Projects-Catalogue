@@ -352,6 +352,10 @@ Xcode
 
 ### Analytics providers
 
+* [mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone)
+
+> iPhone tracking library for Mixpanel Analytics. http://mixpanel.com
+
 * [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
 
 > Countly Mobile Analytics - iOS SDK http://count.ly
