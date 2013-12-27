@@ -131,6 +131,11 @@ OS X.
 
 ### Uncategorized
 
+* [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
+
+> ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in
+replacement for Apple Reachability
+
 * [CocoaSPDY](https://github.com/twitter/CocoaSPDY)
 
 > SPDY for iOS and OS X
