@@ -89,7 +89,7 @@ MyEnumToString(value))
 
 > runtime function overriding for Mac OS X
 
-### Uncategorized yet
+### Other
 
 * [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
  
@@ -131,7 +131,7 @@ OS X.
 
 > AFNetworking Extension for HTTP Request Logging
 
-### Uncategorized
+### Other
 
 * [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
 
