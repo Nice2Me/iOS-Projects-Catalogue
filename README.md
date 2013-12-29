@@ -9,6 +9,8 @@ If you liked it, feel free to suggest any new projects that are not present in t
 
 Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/CANDIDATES.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
+Note! This catalogue also includes a number of projects which are not open-source but are still somehow related to a development of iOS/Objective-C applications.
+
 ----
 
 ## <a name="Objective-C-And-Cocoa"></a> Objective-C and Cocoa
@@ -356,6 +358,10 @@ Xcode
 > Simplify your iOS analytics
 
 ### Analytics providers
+
+* [Flurry](http://www.flurry.com)
+
+> INDUSTRY-LEADING APP ANALYTICS FOR FREE
 
 * [mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone)
 
