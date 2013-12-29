@@ -444,6 +444,8 @@ rendering (CoreAnimation)
 
 ## Applications
 
+### Graphics
+
 * [Inkpad](https://github.com/sprang/Inkpad)
 
 > Vector illustration app for the iPad.
@@ -451,6 +453,12 @@ rendering (CoreAnimation)
 * [Brushes](https://github.com/sprang/Brushes)
 
 > Painting app for the iPhone and iPad.
+
+### Other
+
+* [mbus](https://github.com/jonahgrant/mbus)
+
+> iOS implementation of the University of Michigan's bus dispatch system
 
 * [mtigas/iOS-OnionBrowser](https://github.com/mtigas/iOS-OnionBrowser)
 
