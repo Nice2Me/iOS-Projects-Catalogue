@@ -442,6 +442,10 @@ rendering (CoreAnimation)
 
 ## Audio
 
+* [EZAudio](https://github.com/syedhali/EZAudio)
+
+> An iOS and OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
+
 * [novocaine](https://github.com/alexbw/novocaine)
 
 > Painless high-performance audio on iOS and Mac OS X. http://alexbw.github.com/novocaine/
