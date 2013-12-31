@@ -52,6 +52,10 @@ on iOS and OS X
 
 > ObjectiveC additions for humans. Ruby style.
 
+* [QSKit](https://github.com/quartermaster/QSKit)
+
+> Q Branch’s collection of Cocoa categories and utilities.
+
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
