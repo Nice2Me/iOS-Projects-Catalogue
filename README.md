@@ -154,6 +154,15 @@ replacement for Apple Reachability
 
 > Model framework for Cocoa and Cocoa Touch
 
+* [RestKit/RKValueTransformers](https://github.com/RestKit/RKValueTransformers)
+
+> A powerful value transformation API extracted from RestKit
+
+* [mattt/TransformerKit](https://github.com/mattt/TransformerKit)
+
+> A block-based API for NSValueTransformer, with a growing collection of
+useful examples.
+
 * [nicklockwood/FastCoding](https://github.com/nicklockwood/FastCoding)
 
 > A faster and more flexible binary file format replacement for Property
