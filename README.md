@@ -52,6 +52,10 @@ on iOS and OS X
 
 > ObjectiveC additions for humans. Ruby style.
 
+* [pandamonia/BlocksKit](https://github.com/pandamonia/BlocksKit)
+
+> The Objective-C block utilities you always wish you had.
+
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
