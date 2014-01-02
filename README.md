@@ -56,6 +56,10 @@ on iOS and OS X
 
 > The Objective-C block utilities you always wish you had.
 
+* [QSKit](https://github.com/quartermaster/QSKit)
+
+> Q Branch’s collection of Cocoa categories and utilities.
+
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
@@ -93,7 +97,7 @@ MyEnumToString(value))
 
 > runtime function overriding for Mac OS X
 
-### Uncategorized yet
+### Other
 
 * [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
  
@@ -135,7 +139,7 @@ OS X.
 
 > AFNetworking Extension for HTTP Request Logging
 
-### Uncategorized
+### Other
 
 * [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
 
@@ -451,6 +455,10 @@ rendering (CoreAnimation)
 
 ## Audio
 
+* [EZAudio](https://github.com/syedhali/EZAudio)
+
+> An iOS and OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
+
 * [novocaine](https://github.com/alexbw/novocaine)
 
 > Painless high-performance audio on iOS and Mac OS X. http://alexbw.github.com/novocaine/
@@ -463,6 +471,8 @@ rendering (CoreAnimation)
 
 ## Applications
 
+### Graphics
+
 * [Inkpad](https://github.com/sprang/Inkpad)
 
 > Vector illustration app for the iPad.
@@ -470,6 +480,12 @@ rendering (CoreAnimation)
 * [Brushes](https://github.com/sprang/Brushes)
 
 > Painting app for the iPhone and iPad.
+
+### Other
+
+* [mbus](https://github.com/jonahgrant/mbus)
+
+> iOS implementation of the University of Michigan's bus dispatch system
 
 * [mtigas/iOS-OnionBrowser](https://github.com/mtigas/iOS-OnionBrowser)
 
