@@ -87,7 +87,11 @@ MyEnumToString(value))
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
-### Low-level utilities
+### Low-level
+
+* [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch)
+
+> Linux port of Apple's open-source concurrency library
 
 * [rentzsch/mach_inject](https://github.com/rentzsch/mach_inject)
 
