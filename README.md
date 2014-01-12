@@ -277,6 +277,16 @@ suppress selectors at runtime
 > Calabash is an automated testing technology for Android and iOS native
 and hybrid applications.
 
+* [ios-driver](http://ios-driver.github.io/ios-driver/index.html)
+
+> IOS automation for native, hybrid and mobile web.
+
+> Test any IOS native, hybrid, or mobile web application using the
+Selenium / Webdriver API. IOS automation is as easy as automation for a
+browser, due to reuse of the well known API. You can reuse the helper
+classes from your web tests to i.e. create data, and follow the same
+design patterns you're used to (Page Object etc.). 
+
 ### Stubbing tools
 
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
