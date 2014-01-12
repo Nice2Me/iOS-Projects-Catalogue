@@ -384,6 +384,10 @@ Xcode
 
 > INDUSTRY-LEADING APP ANALYTICS FOR FREE
 
+* [Crashlytics](https://github.com/crashlytics)
+
+> ...the most powerful, yet lightest weight crash reporting solution.
+
 * [mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone)
 
 > iPhone tracking library for Mixpanel Analytics. http://mixpanel.com
