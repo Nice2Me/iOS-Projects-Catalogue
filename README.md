@@ -444,6 +444,10 @@ blog series
 
 > Push/Pop transition for entire UINavigationController views.
 
+* [steipete/PSPDFTextView](https://github.com/steipete/PSPDFTextView)
+
+> A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
+
 ### UIKit extensions
 
 * [hfossli/AGGeometryKit](https://github.com/hfossli/AGGeometryKit)
