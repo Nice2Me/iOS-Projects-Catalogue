@@ -408,6 +408,14 @@ Xcode
 
 ----
 
+## Xcode plugins
+
+* [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
+  
+> Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang
+
+----
+
 ## iOS7
 
 * [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
