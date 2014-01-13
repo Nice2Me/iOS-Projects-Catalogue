@@ -3,6 +3,11 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [marcoarment/FCOfflineQueue](https://github.com/marcoarment/FCOfflineQueue)
+
+> A serial iOS operation queue that pauses when offline and persists
+unfinished operations between launches.
+
 * [BDKKit](https://github.com/kreeger/BDKKit)
 
 > An abstraction full of categories and other helpers I've come to use
