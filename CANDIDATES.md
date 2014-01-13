@@ -3,6 +3,11 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [BDKKit](https://github.com/kreeger/BDKKit)
+
+> An abstraction full of categories and other helpers I've come to use
+between iOS / OS X projects.
+
 * [mttrb/BeaconOSX](https://github.com/mttrb/BeaconOSX)
 
 > Use a Bluetooth 4 enabled Mac running Mavericks as an iBeacon
