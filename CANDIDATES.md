@@ -3,6 +3,8 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [mschmulen/ios7-javascript-bridge](https://github.com/mschmulen/ios7-javascript-bridge)
+
 * [marcoarment/FCOfflineQueue](https://github.com/marcoarment/FCOfflineQueue)
 
 > A serial iOS operation queue that pauses when offline and persists
