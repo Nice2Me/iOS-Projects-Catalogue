@@ -480,6 +480,10 @@ latest versions of iOS.
 
 > Simple and easy to use clustering mapView for iOS
 
+* [MarcoSero/MSMapClustering](https://github.com/MarcoSero/MSMapClustering)
+
+> A subclass of MKMapView to cluster annotations.
+
 ---- 
 
 ## Graphics
