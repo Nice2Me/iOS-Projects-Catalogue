@@ -468,6 +468,10 @@ latest versions of iOS.
 
 > A drop-in MapKit/MKAnnotation pin clustering library for MKMapView on iOS
 
+* [thoughtbot/TBAnnotationClustering](https://github.com/thoughtbot/TBAnnotationClustering)
+
+> Example App: How To Efficiently Display Large Amounts of Data on iOS Maps, http://robots.thoughtbot.com/how-to-handle-large-amounts-of-data-on-maps/
+
 * [ADClusterMapView](https://github.com/applidium/ADClusterMapView)
 
 > MKMapView with clustering
