@@ -27,11 +27,15 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 * [Networking](#Networking)
   * [Servers](#Networking/Servers)
-  * [Sockets](#Networking/Socket-Libraries)
+  * [Sockets](#Networking/Sockets)
   * [Logging](#Networking/Logging)
   * [Other](#Networking/Other)
 
 
+* [Data](#Data)
+  * [Core Data](#Data/Core-Data)
+  * [SQLite-based](#Data/SQLite-based)
+  * [Key-Value stores](#Networking/Key-Value-Stores)
 
 ### <a name="Objective-C-And-Cocoa/Frameworks"></a> Frameworks
 
@@ -174,7 +178,7 @@ replacement for Apple Reachability
 
 ----
 
-## Data layer
+## <a name="Data"></a> Data
 
 * [github/Mantle](https://github.com/github/Mantle)
 
@@ -199,7 +203,13 @@ Lists and JSON
 > AutoCoding is a category on NSObject that provides automatic support
 for NSCoding and NSCopying to every object.
 
-### SQLite-based projects / Alternatives to CoreData
+### <a name="Data/Core-Data"></a> Core Data
+
+* [ObjectiveRecord](https://github.com/mneorr/ObjectiveRecord)
+
+> A lightweight Active Record - style of managing CoreData objects.
+
+### <a name="Data/SQLite-based"></a> SQLite-based 
 
 * [FMDB](https://github.com/ccgus/fmdb)
 
@@ -209,15 +219,11 @@ for NSCoding and NSCopying to every object.
 
 > An alternative to Core Data for people who like having direct SQL access.
 
-* [ObjectiveRecord](https://github.com/mneorr/ObjectiveRecord)
-
-> A lightweight Active Record - style of managing CoreData objects.
-
 * [iActiveRecord](https://github.com/AlexDenisov/iActiveRecord)
 
 > ActiveRecord for iOS without CoreData, only SQLite.
 
-### Key-value store
+### <a name="Data/Key-Value-Store"></a> Key-Value Store
 
 * [YapDatabase](https://github.com/yaptv/YapDatabase)
  
