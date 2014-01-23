@@ -69,6 +69,9 @@ Note! This catalogue also includes a number of projects which are not open-sourc
   * [UIKit extensions](#UI/UIKit-Extensions)
 
 
+* [Social](#Social)
+
+
 * [Maps](#Maps)
   * [Clustering](#Maps/Clustering)
 
@@ -531,9 +534,16 @@ and CoreAnimation.
 > An fork of Trevor Harmon's UIImage category methods, updated for the
 latest versions of iOS.
 
-### Maps
 
-#### Clustering
+## <a name="Social"></a> Social
+
+* [calebd/SimpleAuth](https://github.com/calebd/SimpleAuth)
+
+> Simple social authentication for iOS. http://simpleauth.io
+
+## Maps
+
+### Clustering
 
 * [kingpin](https://github.com/itsbonczek/kingpin)
 
