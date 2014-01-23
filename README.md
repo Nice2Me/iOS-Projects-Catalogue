@@ -19,6 +19,8 @@ Note! This catalogue also includes a number of projects which are not open-sourc
   * [Frameworks](#Objective-C-And-Cocoa/Frameworks)
   * [Extensions](#Objective-C-And-Cocoa/Extensions)
   * [Promises](#Objective-C-And-Cocoa/Promises)
+  * [Macros utilities](#Objective-C-And-Cocoa/Macros-Utilities)
+  * [Conventions and Style guides](#Objective-C-And-Cocoa/Conventions-And-Styleguides)
 
 ## <a name="Objective-C-And-Cocoa"></a> Objective-C and Cocoa
 
@@ -73,7 +75,7 @@ on iOS and OS X
 
 > An Objective-C Class which implements the Promises/A+ specification.
 
-### Macros utilities
+### <a name="Objective-C-And-Cocoa/Macros-utilities"></a> Macros utilities
 
 * [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
 
@@ -84,7 +86,7 @@ on iOS and OS X
 > macros that automate vending an NSString given an enum value (f.x.
 MyEnumToString(value))
 
-### Conventions / Style guides
+### <a name="Objective-C-And-Cocoa/Conventions-And-Styleguides"></a> Conventions / Style guides
 
 * [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
 
