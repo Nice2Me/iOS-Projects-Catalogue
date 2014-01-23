@@ -34,8 +34,55 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 * [Data](#Data)
   * [Core Data](#Data/Core-Data)
-  * [SQLite-based](#Data/SQLite-based)
   * [Key-Value stores](#Networking/Key-Value-Stores)
+  * [SQLite-based](#Data/SQLite-based)
+
+* [Debugging](#Debugging)
+  * [Logging](#Debugging/Logging)
+
+
+* [Testing](#Testing)
+  * [Frameworks](#Testing/Frameworks)
+  * [Automation](#Testing/Automation)
+  * [Stubbing-tools](#Testing/Stubbing-Tools)
+  * [VCR-tools](#Testing/VCR-Tools)
+  * [Other](#Testing/Other)
+
+
+* [Deployment](#Deployment)
+
+
+* [Command-line](#Command-Line)
+
+
+* [Analytics](#Analytics)
+  * [Providers](#Analytics/Providers)
+
+
+* [Xcode](#Xcode)
+
+ 
+* [iOS7](#iOS7)
+
+
+* [UI](#UI)
+  * [UIKit extensions](#UI/UIKit-Extensions)
+
+
+* [Maps](#Maps)
+  * [Clustering](#Maps/Clustering)
+
+
+* [Graphics](#Graphics)
+
+
+* [Audio](#Audio)
+
+
+* [Apps](#Apps)
+  * [Graphics](#Apps/Graphics)
+  * [Other](#Apps/Other)
+  
 
 ### <a name="Objective-C-And-Cocoa/Frameworks"></a> Frameworks
 
@@ -223,7 +270,7 @@ for NSCoding and NSCopying to every object.
 
 > ActiveRecord for iOS without CoreData, only SQLite.
 
-### <a name="Data/Key-Value-Store"></a> Key-Value Store
+### <a name="Data/Key-Value-Stores"></a> Key-Value stores
 
 * [YapDatabase](https://github.com/yaptv/YapDatabase)
  
