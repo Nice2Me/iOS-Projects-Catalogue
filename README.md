@@ -16,11 +16,13 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 ## Contents
 
 * [Objective-C-And-Cocoa](#Objective-C-And-Cocoa)
-  * [Frameworks](#Objective-C-And-Cocoa-Frameworks)
+  * [Frameworks](#Objective-C-And-Cocoa/Frameworks)
+  * [Extensions](#Objective-C-And-Cocoa/Extensions)
+  * [Promises](#Objective-C-And-Cocoa/Promises)
 
 ## <a name="Objective-C-And-Cocoa"></a> Objective-C and Cocoa
 
-### <a name="Objective-C-And-Cocoa-Frameworks"></a> Frameworks
+### <a name="Objective-C-And-Cocoa/Frameworks"></a> Frameworks
 
 * [GNUstep](https://github.com/gnustep/gnustep-base)
 
@@ -47,7 +49,7 @@ on iOS and OS X
 
 > ROAD - Rapid Objective-C Applications Development
  
-### Extensions for Objective-C and Cocoa frameworks
+### <a name="Objective-C-And-Cocoa/Extensions"></a> Extensions for Objective-C and Cocoa frameworks
 
 * [libextobjc](https://github.com/jspahrsummers/libextobjc)
 
