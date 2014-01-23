@@ -504,11 +504,15 @@ blog series
 
 ----
 
-## UI
+## <a name="UI"></a> UI
 
 * [ADTransitionController](https://github.com/applidium/ADTransitionController)
 
 > UINavigationController with custom transitions
+
+* [pkluz/PKRevealController](https://github.com/pkluz/PKRevealController)
+
+> PKRevealController (ex. ZUUIRevealController) is a delightful view controller container for iOS, enabling you to present multiple controllers on top of one another.
 
 * [nicklockwood/FXImageView](https://github.com/nicklockwood/FXImageView)
 
