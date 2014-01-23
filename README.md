@@ -15,14 +15,23 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 ## Contents
 
-* [Objective-C-And-Cocoa](#Objective-C-And-Cocoa)
+* [Objective-C and Cocoa](#Objective-C-And-Cocoa)
   * [Frameworks](#Objective-C-And-Cocoa/Frameworks)
   * [Extensions](#Objective-C-And-Cocoa/Extensions)
   * [Promises](#Objective-C-And-Cocoa/Promises)
   * [Macros utilities](#Objective-C-And-Cocoa/Macros-Utilities)
   * [Conventions and Style guides](#Objective-C-And-Cocoa/Conventions-And-Styleguides)
+  * [Low level](#Objective-C-And-Cocoa/Low-level)
+  * [Other](#Objective-C-And-Cocoa/Other)
 
-## <a name="Objective-C-And-Cocoa"></a> Objective-C and Cocoa
+
+* [Networking](#Networking)
+  * [Servers](#Networking/Servers)
+  * [Sockets](#Networking/Socket-Libraries)
+  * [Logging](#Networking/Logging)
+  * [Other](#Networking/Other)
+
+
 
 ### <a name="Objective-C-And-Cocoa/Frameworks"></a> Frameworks
 
@@ -96,7 +105,7 @@ MyEnumToString(value))
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
-### Low-level
+### <a name="Objective-C-And-Cocoa/Low-level"></a> Low level
 
 * [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch)
 
@@ -110,7 +119,7 @@ MyEnumToString(value))
 
 > runtime function overriding for Mac OS X
 
-### Other
+### <a name="Objective-C-And-Cocoa/Other"></a> Other
 
 * [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
  
@@ -120,14 +129,14 @@ MyEnumToString(value))
 
 ## Networking
 
-### HTTP servers
+### <a name="Networking/Servers"></a> Servers
 
 * [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
 
 > A small, lightweight, embeddable HTTP server for Mac OS X or iOS
 applications
 
-### Socket libraries
+### <a name="Networking/Sockets"></a> Sockets
 
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
 
@@ -146,13 +155,13 @@ OS X.
 
 > An asynchronous, futures-based distributed objects library for Objective-C
 
-### Network logging
+### <a name="Networking/Logging"></a> Logging
 
 * [AFHTTPRequestOperationLogger](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
 
 > AFNetworking Extension for HTTP Request Logging
 
-### Other
+### <a name="Networking/Other"></a> Other 
 
 * [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
 
