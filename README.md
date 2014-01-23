@@ -324,9 +324,9 @@ suppress selectors at runtime
 
 ----
 
-## Testing
+## <a name="Testing"></a> Testing
 
-### Testing frameworks
+### <a name="Testing/Frameworks"></a> Testing frameworks
 
 * [Kiwi](https://github.com/allending/Kiwi)
 
@@ -336,7 +336,7 @@ suppress selectors at runtime
 
 > BDD-style testing using Objective-C
 
-### Test Automation
+### <a name="Testing/Automation"></a> Test Automation
 
 * [Frank](https://github.com/moredip/Frank)
 
@@ -392,7 +392,7 @@ output easier to parse by humans.
 
 ----
 
-## Deployment
+## <a name="Deployment"></a> Deployment
 
 * [Air-Test](https://github.com/rjyo/Air-Test)
 
@@ -402,7 +402,7 @@ configuration is needed.
 
 ----
 
-## Command-line tools
+## <a name="Command-Line"></a> Command-line tools
 
 * [xctool](https://github.com/facebook/xctool)
 
@@ -452,7 +452,7 @@ Xcode
 
 ----
 
-## Analytics
+## <a name="Analytics"></a> Analytics
 
 * [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
 
@@ -462,7 +462,7 @@ Xcode
 
 > Simplify your iOS analytics
 
-### Analytics providers
+### Providers
 
 * [Flurry](http://www.flurry.com)
 
@@ -482,7 +482,7 @@ Xcode
 
 ----
 
-## Xcode plugins
+## <a name="Xcode"></a> Xcode plugins
 
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
   
@@ -490,7 +490,7 @@ Xcode
 
 ----
 
-## iOS7
+## <a name="iOS7"></a> iOS7
 
 * [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
 
@@ -526,7 +526,7 @@ blog series
 
 > A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
 
-### UIKit extensions
+### <a name="UI/UIKit-Extensions"></a> UIKit extensions
 
 * [hfossli/AGGeometryKit](https://github.com/hfossli/AGGeometryKit)
 
@@ -545,9 +545,9 @@ latest versions of iOS.
 
 > Simple social authentication for iOS. http://simpleauth.io
 
-## Maps
+## <a name="Maps"></a> Maps
 
-### Clustering
+### <a name="Maps/Clustering"></a> Clustering
 
 * [kingpin](https://github.com/itsbonczek/kingpin)
 
@@ -571,7 +571,7 @@ latest versions of iOS.
 
 ---- 
 
-## Graphics
+## <a name="Graphics"></a> Graphics
 
 * [SVGKit](https://github.com/SVGKit/SVGKit)
 
@@ -580,7 +580,7 @@ rendering (CoreAnimation)
 
 ----
 
-## Audio
+## <a name="Audio"></a> Audio
 
 * [EZAudio](https://github.com/syedhali/EZAudio)
 
@@ -596,9 +596,9 @@ rendering (CoreAnimation)
 
 ----
 
-## Applications
+## <a name="Apps"></a> Applications
 
-### Graphics
+### <a name="Apps/Graphics"></a> Graphics
 
 * [Inkpad](https://github.com/sprang/Inkpad)
 
