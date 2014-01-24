@@ -134,6 +134,10 @@ on iOS and OS X
 
 > Q Branch’s collection of Cocoa categories and utilities.
 
+* [NNKit](https://github.com/numist/NNKit)
+
+> A Swiss Army Knife for Objective-C developers
+
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
