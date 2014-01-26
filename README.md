@@ -482,6 +482,10 @@ Xcode
 
 > iPhone tracking library for Mixpanel Analytics. http://mixpanel.com
 
+* [bitstadium/HockeySDK-iOS](https://github.com/bitstadium/HockeySDK-iOS)
+
+> The official iOS SDK for the HockeyApp service (Releases are in the master branch, current development in the default develop branch) http://hockeyapp.net/releases
+
 * [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
 
 > Countly Mobile Analytics - iOS SDK http://count.ly
