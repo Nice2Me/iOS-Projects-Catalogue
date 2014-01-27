@@ -134,6 +134,10 @@ on iOS and OS X
 
 > Q Branch’s collection of Cocoa categories and utilities.
 
+* [gh-kit](https://github.com/gabriel/gh-kit)
+
+> Utilities and categories for Objective-C
+
 * [NNKit](https://github.com/numist/NNKit)
 
 > A Swiss Army Knife for Objective-C developers
