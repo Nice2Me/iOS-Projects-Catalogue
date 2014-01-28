@@ -130,6 +130,11 @@ on iOS and OS X
 
 > The Objective-C block utilities you always wish you had.
 
+* [FoundationKit](https://github.com/foundationkit/FoundationKit)
+
+> Everything that really should be in Foundation, but isn't.
+Future-proof with ARC
+
 * [QSKit](https://github.com/quartermaster/QSKit)
 
 > Q Branch’s collection of Cocoa categories and utilities.
