@@ -68,6 +68,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 
 * [UI](#UI)
+  * [Transitions](#UI/Transitions)
   * [UIKit extensions](#UI/UIKit-Extensions)
 
 
@@ -525,9 +526,9 @@ blog series
 
 ## <a name="UI"></a> UI
 
-* [ADTransitionController](https://github.com/applidium/ADTransitionController)
+* [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)
 
-> UINavigationController with custom transitions
+> A lightweight, easy to use, Side Drawer Navigation Controller
 
 * [pkluz/PKRevealController](https://github.com/pkluz/PKRevealController)
 
@@ -537,13 +538,20 @@ blog series
 
 > FXImageView is a class designed to simplify the application of common visual effects such as reflections and drop-shadows to images, and also to help the performance of image loading by handling it on a background thread.
 
+* [steipete/PSPDFTextView](https://github.com/steipete/PSPDFTextView)
+
+> A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
+
+### <a name="UI/Transitions"></a> Transitions 
+
+* [ADTransitionController](https://github.com/applidium/ADTransitionController)
+
+> UINavigationController with custom transitions
+
 * [travisjeffery/TRVSNavigationControllerTransition](https://github.com/travisjeffery/TRVSNavigationControllerTransition)
 
 > Push/Pop transition for entire UINavigationController views.
 
-* [steipete/PSPDFTextView](https://github.com/steipete/PSPDFTextView)
-
-> A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
 
 ### <a name="UI/UIKit-Extensions"></a> UIKit extensions
 
