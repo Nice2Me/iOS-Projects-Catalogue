@@ -13,6 +13,8 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [Web version](http://stanislaw.github.io/iOS-Projects-Catalogue/) of this catalogue are available.
 
+Last update: 2014-01-29.
+
 ----
 
 ## Contents
