@@ -167,6 +167,12 @@ Future-proof with ARC
 > macros that automate vending an NSString given an enum value (f.x.
 MyEnumToString(value))
 
+* [swansontec/map-macro](https://github.com/swansontec/map-macro)
+
+> A recursive C preprocessor macro which performs an operation on each
+element of a list
+
+
 ### <a name="Objective-C-And-Cocoa/Conventions-And-Styleguides"></a> Conventions / Style guides
 
 * [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
