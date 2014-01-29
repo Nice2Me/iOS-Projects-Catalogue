@@ -41,8 +41,8 @@ Last update: 2014-01-29.
   * [Key-Value stores](#Networking/Key-Value-Stores)
   * [SQLite-based](#Data/SQLite-based)
 
-* [Debugging](#Debugging)
-  * [Logging](#Debugging/Logging)
+* [Debugging tools](#DebuggingTools)
+  * [Logging](#DebuggingTools/Logging)
 
 
 * [Testing](#Testing)
@@ -339,6 +339,11 @@ suppress selectors at runtime
 * [MTLog](https://github.com/icanzilb/MTLog)
 
 > NSLog replacement for coders!
+
+* [rabovik/ATLog](https://github.com/rabovik/ATLog)
+
+> Log common structures without boring conversions.
+ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
 
 ----
 
