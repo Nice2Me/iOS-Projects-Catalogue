@@ -3,6 +3,11 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [GRMustache](https://github.com/groue/GRMustache)
+
+> Flexible and production-ready Mustache templates for MacOS Cocoa and
+iOS
+
 * [mschmulen/ios7-javascript-bridge](https://github.com/mschmulen/ios7-javascript-bridge)
 
 * [marcoarment/FCOfflineQueue](https://github.com/marcoarment/FCOfflineQueue)
