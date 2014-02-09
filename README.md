@@ -38,7 +38,8 @@ Last update: 2014-01-29.
 
 * [Data](#Data)
   * [Core Data](#Data/Core-Data)
-  * [Key-Value stores](#Networking/Key-Value-Stores)
+  * [NoSQL](#Data/NoSQL)
+  * [Key-Value stores](#Data/Key-Value-Stores)
   * [SQLite-based](#Data/SQLite-based)
 
 * [Debugging tools](#DebuggingTools)
@@ -297,15 +298,22 @@ for NSCoding and NSCopying to every object.
 
 > ActiveRecord for iOS without CoreData, only SQLite.
 
+### <a name="Data/NoSQL"></a> NoSQL
+
+* [Couchbase Lite](https://github.com/couchbase/couchbase-lite-ios)
+
+> Couchbase Lite is an embedded lightweight, document-oriented (NoSQL),
+syncable database engine.  
+
+* [NyaruDB](https://github.com/kelp404/NyaruDB)
+
+> A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS and OS X.
+
 ### <a name="Data/Key-Value-Stores"></a> Key-Value stores
 
 * [YapDatabase](https://github.com/yaptv/YapDatabase)
  
 > YapDatabase is a "key/value store and MORE" built atop sqlite for iOS & Mac.
-
-* [NyaruDB](https://github.com/kelp404/NyaruDB)
-
-> A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS and OS X.
 
 * [NULevelDB](https://github.com/nulayer/NULevelDB)
 
