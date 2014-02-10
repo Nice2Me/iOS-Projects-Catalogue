@@ -369,6 +369,10 @@ ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
 
 > BDD for iOS
 
+* [specta](https://github.com/specta/specta)
+
+> A light-weight TDD / BDD framework for Objective-C & Cocoa
+
 * [Cedar](https://github.com/pivotal/cedar)
 
 > BDD-style testing using Objective-C
