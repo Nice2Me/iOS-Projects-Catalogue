@@ -5,9 +5,11 @@ This is the catalogue of iOS/Objective-C Open Source projects. I created it to h
 
 It will grow as fast as it is possible with my ability to add/explore new projects around the net, Github, etc.
 
-If you liked it, feel free to suggest any new projects that are not present in the current list.
+If you liked it, feel free to suggest any new projects that are not
+present in the current list. See [Contribution](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Contribution.md).
 
-Also I keep another catalogue of projects: it contains [the list of candidates for this catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/CANDIDATES.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
+Also I keep another catalogue of projects: it contains [the list of candidates for this
+catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
 Note! This catalogue also includes a number of projects which are not open-source but are still somehow related to a development of iOS/Objective-C applications.
 
