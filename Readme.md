@@ -92,6 +92,9 @@ Last update: 2014-02-22.
 * [Audio](#Audio)
 
 
+* [Cross-platform development](#Cross-platform-development)
+
+
 * [Apps](#Apps)
   * [Graphics](#Apps/Graphics)
   * [Other](#Apps/Other)
@@ -658,6 +661,15 @@ rendering (CoreAnimation)
 > Transfer data using microphone/speaker on iOS devices
 
 ----
+
+## <a name="Cross-platform-development"></a> Cross-platform development
+
+* [Xamarin](https://xamarin.com/)
+
+> Create Native iOS, Android, Mac and Windows apps in C#.
+
+----
+
 
 ## <a name="Apps"></a> Applications
 
