@@ -441,6 +441,13 @@ output easier to parse by humans.
 shares your app over-the-air in a WiFi network. Bonjour is used and no
 configuration is needed.
 
+* [iOStream](https://github.com/johnmoore/iOStream)
+
+> Presenting mobile apps is a pain in the ass. So is collaborating
+remotely with mobile developers. Don't let clunky hardware cameras and
+unrealistic simulators get in your way. Introducing iOStream. Mobile
+presentations made easy. Install the SDK and start streaming now.
+
 ----
 
 ## <a name="Command-Line"></a> Command-line tools
