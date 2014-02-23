@@ -249,6 +249,10 @@ OS X.
 
 ### <a name="Networking/Other"></a> Other 
 
+* [socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)
+
+> socket.io v0.7.2+ for iOS devices
+
 * [tonymillion/Reachability](https://github.com/tonymillion/Reachability)
 
 > ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in
