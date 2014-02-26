@@ -17,7 +17,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-02-22.
+Last update: 2014-02-26.
 
 ----
 
