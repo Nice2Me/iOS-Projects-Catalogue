@@ -194,6 +194,12 @@ element of a list
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
+* [iwasrobbed/Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+
+> A quick reference cheat sheet for common, high level topics in
+Objective-C.
+
+
 ### <a name="Objective-C-And-Cocoa/Low-level"></a> Low level
 
 * [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch)
