@@ -17,7 +17,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-02-26.
+Last update: 2014-03-01.
 
 ----
 
@@ -351,6 +351,10 @@ syncable database engine.
 
 > A simple Objective-C singleton to instrument, protect, trace, and
 suppress selectors at runtime
+
+* [dyci-main](https://github.com/DyCI/dyci-main)
+
+> Dynamic code injection Tool
 
 ### <a name="DebuggingTools/Logging"></a> Logging
 
