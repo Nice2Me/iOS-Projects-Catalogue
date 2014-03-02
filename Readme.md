@@ -638,6 +638,10 @@ latest versions of iOS.
 
 ## <a name="Maps"></a> Maps
 
+* [calloutview](https://github.com/nfarina/calloutview)
+
+> A lightweight callout view class for iOS mimicking UICalloutView.
+
 ### <a name="Maps/Clustering"></a> Clustering
 
 * [kingpin](https://github.com/itsbonczek/kingpin)
