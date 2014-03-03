@@ -8,6 +8,8 @@ It will grow as fast as it is possible with my ability to add/explore new projec
 If you liked it, feel free to suggest any new projects that are not
 present in the current list. See [Contribution](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Contribution.md).
 
+You may start watching this repo to receive notifications about new incoming projects. New projects are added via Pull Requests to 'new' branch so all watchers of this repository receive corresponding email notifications.
+
 Also I keep another catalogue of projects: it contains [the list of candidates for this
 catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
 
