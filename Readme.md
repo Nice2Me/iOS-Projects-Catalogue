@@ -563,8 +563,7 @@ and enterprises in seconds.
 
 * [fruitstrap](https://github.com/ghughes/fruitstrap/)
 
-> Install and debug iPhone apps from the command line, without using
-Xcode
+> Install and debug iPhone apps from the command line, without using Xcode
 
 ----
 
@@ -573,6 +572,10 @@ Xcode
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
   
 > Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang
+
+* [https://github.com/questbeat/Lin-Xcode5](https://github.com/questbeat/Lin-Xcode5)
+
+> A Localization Manager for Xcode 5
 
 ----
 
@@ -584,8 +587,7 @@ Xcode
 
 * [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
 
-> Repo containing the sample projects associated with the iOS7 Day-by-Day
-blog series
+> Repo containing the sample projects associated with the iOS7 Day-by-Day blog series
 
 
 ----
