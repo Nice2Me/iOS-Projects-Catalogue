@@ -446,6 +446,10 @@ stubbing for iOS and Mac OS X.
 > VCRURLConnection is an iOS and OSX API to record and replay HTTP
 interactions, inspired by VCR for ruby
 
+* [CCLRequestReplay](https://github.com/cocodelabs/CCLRequestReplay)
+
+> Powerful Objective-C library to replay HTTP responses
+
 ### Other
 
 * [neilco/RedGreen](https://github.com/neilco/RedGreen)
