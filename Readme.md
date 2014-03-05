@@ -100,6 +100,8 @@ Last update: 2014-03-04.
 * [Cross-platform development](#Cross-platform-development)
 
 
+* [Games](#Games)
+
 * [Apps](#Apps)
   * [Graphics](#Apps/Graphics)
   * [Other](#Apps/Other)
@@ -707,6 +709,14 @@ rendering (CoreAnimation)
 
 ----
 
+## <a name="Games"></a> Games
+
+* [FlappyBlock](https://github.com/joeblau/FlappyBlock)
+
+> This is an iOS verion of the "smash hit" Flappy Bird built using
+iOS7's physics engine.
+
+----
 
 ## <a name="Apps"></a> Applications
 
