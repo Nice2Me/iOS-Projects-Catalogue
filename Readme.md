@@ -140,6 +140,10 @@ on iOS and OS X
 
 > A Cocoa library to extend the Objective-C programming language.
 
+* [BloodMagic](https://github.com/railsware/BloodMagic)
+
+> Custom attributes for ObjC properties.
+
 * [ObjectiveSugar](https://github.com/mneorr/ObjectiveSugar)
 
 > ObjectiveC additions for humans. Ruby style.
