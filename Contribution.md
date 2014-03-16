@@ -5,7 +5,7 @@ Feel free to suggest any project that is not currently present in iOS-Projects-C
 - Fork iOS-Projects-Catalogue, clone it.
 - Create branch `new`, switch to it.
 - Add your project.
-- Bump the date of last update (it is on top of the catalogue, at the
+- Bump date of `last update` (it is on top of the catalogue, at the
 end of introductory section).
 - Commit and push this your `new` branch changes to your fork.
 - Make a pull request to `stanislaw:master` branch named "Add Category/Subcategory: YourProject". See [Commits](https://github.com/stanislaw/iOS-Projects-Catalogue/commits/master) for examples.
