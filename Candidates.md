@@ -3,6 +3,10 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [facebook/folly](https://github.com/facebook/folly)
+
+> Folly is an open-source C++ library developed and used at Facebook.
+
 * [EDSunriseSet](https://github.com/erndev/EDSunriseSet)
 
 > Objective-C class to calculate Sunrise/Sunset/Twilight times.
