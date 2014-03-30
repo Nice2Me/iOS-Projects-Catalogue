@@ -32,15 +32,6 @@ between iOS / OS X projects.
 
 > Use a Bluetooth 4 enabled Mac running Mavericks as an iBeacon
 
-* [NSTree](https://github.com/carlinyuen/NSTree)
- 
-> Tree data structure implementation for iOS without using CFTree.
-Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
-
-* [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
-
-> A simple, fast circular buffer implementation
-
 * [simlaunch](https://github.com/landonf/simlaunch)
 
 > GUI Mac Wrapper for iPhone Simulator Binaries.
