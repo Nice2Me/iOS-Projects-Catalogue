@@ -28,6 +28,7 @@ Last update: 2014-03-16.
 * [Objective-C and Cocoa](#Objective-C-And-Cocoa)
   * [Frameworks](#Objective-C-And-Cocoa/Frameworks)
   * [Extensions](#Objective-C-And-Cocoa/Extensions)
+  * [Data structures](#Objective-C-And-Cocoa/Data-Structures)
   * [Promises](#Objective-C-And-Cocoa/Promises)
   * [Macros utilities](#Objective-C-And-Cocoa/Macros-Utilities)
   * [Conventions and Style guides](#Objective-C-And-Cocoa/Conventions-And-Styleguides)
@@ -168,6 +169,16 @@ Future-proof with ARC
 * [NNKit](https://github.com/numist/NNKit)
 
 > A Swiss Army Knife for Objective-C developers
+
+### <a name="Objective-C-And-Cocoa/Data-Structures"></a> Data structures
+
+* [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
+
+> A simple, fast circular buffer implementation
+
+* [NSTree](https://github.com/carlinyuen/NSTree)
+ 
+> Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
