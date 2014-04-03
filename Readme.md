@@ -19,7 +19,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-03-30.
+Last update: 2014-04-03.
 
 ----
 
@@ -220,6 +220,10 @@ Objective-C.
 
 
 ### <a name="Objective-C-And-Cocoa/Low-level"></a> Low level
+
+* [Hopper](http://www.hopperapp.com/index.html)
+
+> Hopper is a reverse engineering tool for OS X, that lets you disassemble, decompile and debug your 32/64bits Intel Mac, Windows and iOS executables!
 
 * [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch)
 
