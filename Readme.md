@@ -36,6 +36,10 @@ Last update: 2014-04-03.
   * [Other](#Objective-C-And-Cocoa/Other)
 
 
+* [Cross-platform development](#Cross-platform-development)
+
+
+
 * [Networking](#Networking)
   * [Servers](#Networking/Servers)
   * [Sockets](#Networking/Sockets)
@@ -96,9 +100,6 @@ Last update: 2014-04-03.
 
 
 * [Audio](#Audio)
-
-
-* [Cross-platform development](#Cross-platform-development)
 
 
 * [Games](#Games)
@@ -242,6 +243,18 @@ Objective-C.
 * [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
  
 > EKAlgorithms contains some well known CS algorithms and other stuff.
+
+----
+
+## <a name="Cross-platform-development"></a> Cross-platform development
+
+* [Apportable](http://www.apportable.com/)
+
+> Objective-C for Android. Write your apps entirely in Objective-C. Share the same code on iOS and Android. 
+
+* [Xamarin](https://xamarin.com/)
+
+> Create Native iOS, Android, Mac and Windows apps in C#.
 
 ----
 
@@ -717,14 +730,6 @@ rendering (CoreAnimation)
 * [AudioModem](https://github.com/applidium/AudioModem)
 
 > Transfer data using microphone/speaker on iOS devices
-
-----
-
-## <a name="Cross-platform-development"></a> Cross-platform development
-
-* [Xamarin](https://xamarin.com/)
-
-> Create Native iOS, Android, Mac and Windows apps in C#.
 
 ----
 
