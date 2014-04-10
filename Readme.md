@@ -694,6 +694,11 @@ latest versions of iOS.
 
 > Example App: How To Efficiently Display Large Amounts of Data on iOS Maps, http://robots.thoughtbot.com/how-to-handle-large-amounts-of-data-on-maps/
 
+* [QTree-objc](https://github.com/blackm00n/QTree-objc)
+
+> Library for location-based clustering of data using Quadtree written
+in Objective-C
+
 * [ADClusterMapView](https://github.com/applidium/ADClusterMapView)
 
 > MKMapView with clustering
