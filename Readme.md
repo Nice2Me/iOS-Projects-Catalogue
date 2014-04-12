@@ -19,7 +19,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-04-03.
+Last update: 2014-04-12.
 
 ----
 
@@ -382,6 +382,10 @@ syncable database engine.
 ----
 
 ## <a name="DebuggingTools"></a> Debugging tools
+
+* [PLCrashReporter](https://www.plcrashreporter.org/)
+
+> Plausible CrashReporter provides an in-process crash reporting framework for use on both iOS and Mac OS X, and powers most of the crash reporting services available for iOS, including HockeyApp, Flurry, and Crittercism. 
 
 * [VMInstrumenter](https://github.com/vittoriom/VMInstrumenter)
 
