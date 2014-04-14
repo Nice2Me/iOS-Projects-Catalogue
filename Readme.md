@@ -267,6 +267,11 @@ Objective-C.
 > A small, lightweight, embeddable HTTP server for Mac OS X or iOS
 applications
 
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer)
+
+> Lightweight GCD based HTTP server for OS X & iOS (includes web based
+uploader & WebDAV server)
+
 ### <a name="Networking/Sockets"></a> Sockets
 
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
