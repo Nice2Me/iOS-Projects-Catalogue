@@ -3,6 +3,14 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [ejecta](http://impactjs.com/ejecta)
+
+> A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
+
+* [DeepBeliefSDK](https://github.com/jetpacapp/DeepBeliefSDK)
+
+> The SDK for Jetpac's iOS Deep Belief image recognition framework
+
 * [facebook/folly](https://github.com/facebook/folly)
 
 > Folly is an open-source C++ library developed and used at Facebook.
