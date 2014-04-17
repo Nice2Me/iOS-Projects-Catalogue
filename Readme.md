@@ -19,7 +19,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-04-12.
+Last update: 2014-04-17.
 
 ----
 
@@ -311,6 +311,10 @@ replacement for Apple Reachability
 * [CocoaSPDY](https://github.com/twitter/CocoaSPDY)
 
 > SPDY for iOS and OS X
+
+* [masscan](https://github.com/robertdavidgraham/masscan)
+
+> TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 
 ----
 
