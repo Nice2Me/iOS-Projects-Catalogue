@@ -3,6 +3,10 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [algorithms](https://github.com/davidreynolds/algorithms)
+
+> Repository of assorted algorithms and data structures.
+
 * [ejecta](http://impactjs.com/ejecta)
 
 > A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
