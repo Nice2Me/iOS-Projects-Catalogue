@@ -19,7 +19,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-04-21.
+Last update: 2014-04-22.
 
 ----
 
@@ -182,6 +182,10 @@ Future-proof with ARC
 > Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
+
+* [PromiseKit](https://github.com/mxcl/PromiseKit)
+
+> A delightful Promises implementation for iOS
 
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
 
@@ -501,7 +505,11 @@ interactions, inspired by VCR for ruby
 
 > Powerful Objective-C library to replay HTTP responses
 
-### Other
+### <a name="Testing/Other"></a> Other
+
+* [OCMockito](https://github.com/jonreid/OCMockito)
+
+> Mockito for Objective-C: creation, verification and stubbing of mock objects
 
 * [neilco/RedGreen](https://github.com/neilco/RedGreen)
 
