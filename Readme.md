@@ -761,6 +761,10 @@ rendering (CoreAnimation)
 
 > Transfer data using microphone/speaker on iOS devices
 
+* [FreeStreamer](https://github.com/muhku/FreeStreamer)
+
+> A low-memory footprint audio streamer for iOS and OS X
+
 ----
 
 ## <a name="Games"></a> Games
