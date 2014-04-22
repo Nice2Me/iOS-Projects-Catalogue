@@ -183,6 +183,10 @@ Future-proof with ARC
 
 ### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
 
+* [PromiseKit](https://github.com/mxcl/PromiseKit)
+
+> A delightful Promises implementation for iOS
+
 * [RXPromise](https://github.com/couchdeveloper/RXPromise)
 
 > An Objective-C Class which implements the Promises/A+ specification.
