@@ -351,6 +351,15 @@ Lists and JSON
 > AutoCoding is a category on NSObject that provides automatic support
 for NSCoding and NSCopying to every object.
 
+* [EasyMapping](https://github.com/lucasmedeirosleite/EasyMapping)
+
+> The easiest way to marshall and unmarshall Dictionary representations
+such as JSON representation
+
+* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping)
+
+> EasyMapping fork. [From JSON to Core Data Fast and Effectively](http://yalantis.com/blog/2014/03/17/from-json-to-core-data-fast-and-effectively/(
+
 ### <a name="Data/Core-Data"></a> Core Data
 
 * [ObjectiveRecord](https://github.com/mneorr/ObjectiveRecord)
@@ -760,6 +769,10 @@ rendering (CoreAnimation)
 * [AudioModem](https://github.com/applidium/AudioModem)
 
 > Transfer data using microphone/speaker on iOS devices
+
+* [FreeStreamer](https://github.com/muhku/FreeStreamer)
+
+> A low-memory footprint audio streamer for iOS and OS X
 
 ----
 
