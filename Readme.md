@@ -19,7 +19,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-04-22.
+Last update: 2014-04-25.
 
 ----
 
@@ -782,6 +782,14 @@ rendering (CoreAnimation)
 
 > This is an iOS verion of the "smash hit" Flappy Bird built using
 iOS7's physics engine.
+
+* [FlapFlap](https://github.com/nathanborror/FlapFlap)
+
+> Flappy Bird Clone for learning purposes—feel free to play along.
+
+* [ScaryFlight](https://github.com/EvgenyKarkan/ScaryFlight)
+
+> Just another yet FlappyBird-style game.
 
 ----
 
