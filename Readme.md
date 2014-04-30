@@ -15,11 +15,11 @@ catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candi
 
 Note! This catalogue also includes a number of projects which are not open-source but are still somehow related to a development of iOS/Objective-C applications.
 
-Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and [Web version](http://stanislaw.github.io/iOS-Projects-Catalogue/) of this catalogue are available.
+Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and this [Web version](http://stanislaw.github.io/iOS-Projects-Catalogue/) of this catalogue are available.
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-04-25.
+Last update: 2014-04-30.
 
 ----
 
@@ -93,6 +93,7 @@ Last update: 2014-04-25.
 
 
 * [Maps](#Maps)
+  * [Geometry](#Maps/Geometry)
   * [Clustering](#Maps/Clustering)
 
 
@@ -103,6 +104,7 @@ Last update: 2014-04-25.
 
 
 * [Games](#Games)
+
 
 * [Apps](#Apps)
   * [Graphics](#Apps/Graphics)
@@ -222,7 +224,6 @@ element of a list
 
 > A quick reference cheat sheet for common, high level topics in
 Objective-C.
-
 
 ### <a name="Objective-C-And-Cocoa/Low-level"></a> Low level
 
@@ -717,6 +718,13 @@ latest versions of iOS.
 * [calloutview](https://github.com/nfarina/calloutview)
 
 > A lightweight callout view class for iOS mimicking UICalloutView.
+
+### <a name="Maps/Geometry"></a> Geometry
+
+* [Archimedes](https://github.com/github/Archimedes)
+
+> Geometry functions for Cocoa and Cocoa Touch
+
 
 ### <a name="Maps/Clustering"></a> Clustering
 
