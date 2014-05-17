@@ -454,6 +454,11 @@ browser, due to reuse of the well known API. You can reuse the helper
 classes from your web tests to i.e. create data, and follow the same
 design patterns you're used to (Page Object etc.). 
 
+* [Appium](http://appium.io/)
+
+> Appium is an open source test automation framework for use with native and hybrid mobile apps.
+It drives iOS and Android apps using the WebDriver JSON wire protocol.
+
 ### Stubbing tools
 
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)
