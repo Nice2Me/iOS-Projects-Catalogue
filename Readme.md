@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-04-30.
+Last update: 2014-05-17.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
