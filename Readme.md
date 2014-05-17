@@ -1,5 +1,4 @@
-iOS-Projects-Catalogue
-======================
+# iOS-Projects-Catalogue
 
 This is the catalogue of iOS/Objective-C Open Source projects. I created it to have a fast access to any Mac/iOS-related projects I recently Github-starred or explored.
 
@@ -21,97 +20,9 @@ Suggestions are welcome! New projects are welcome!
 
 Last update: 2014-04-30.
 
-----
+## Objective-C and Cocoa
 
-## Contents
-
-* [Objective-C and Cocoa](#Objective-C-And-Cocoa)
-  * [Frameworks](#Objective-C-And-Cocoa/Frameworks)
-  * [Extensions](#Objective-C-And-Cocoa/Extensions)
-  * [Data structures](#Objective-C-And-Cocoa/Data-Structures)
-  * [Promises](#Objective-C-And-Cocoa/Promises)
-  * [Macros utilities](#Objective-C-And-Cocoa/Macros-Utilities)
-  * [Conventions and Style guides](#Objective-C-And-Cocoa/Conventions-And-Styleguides)
-  * [Low level](#Objective-C-And-Cocoa/Low-level)
-  * [Other](#Objective-C-And-Cocoa/Other)
-
-
-* [Cross-platform development](#Cross-platform-development)
-
-
-
-* [Networking](#Networking)
-  * [Servers](#Networking/Servers)
-  * [Sockets](#Networking/Sockets)
-  * [Logging](#Networking/Logging)
-  * [Other](#Networking/Other)
-
-
-* [Data](#Data)
-  * [Core Data](#Data/Core-Data)
-  * [NoSQL](#Data/NoSQL)
-  * [Key-Value stores](#Data/Key-Value-Stores)
-  * [SQLite-based](#Data/SQLite-based)
-
-* [Debugging tools](#DebuggingTools)
-  * [Logging](#DebuggingTools/Logging)
-
-
-* [Testing](#Testing)
-  * [Frameworks](#Testing/Frameworks)
-  * [Automation](#Testing/Automation)
-  * [Stubbing-tools](#Testing/Stubbing-Tools)
-  * [VCR-tools](#Testing/VCR-Tools)
-  * [Other](#Testing/Other)
-
-
-* [Deployment](#Deployment)
-
-
-* [Beta testing](#Beta-testing)
-
-
-* [Analytics](#Analytics)
-  * [Providers](#Analytics/Providers)
-
-
-* [Command-line](#Command-Line)
-
-
-* [Xcode](#Xcode)
-
- 
-* [iOS7](#iOS7)
-
-
-* [UI](#UI)
-  * [Transitions](#UI/Transitions)
-  * [UIKit extensions](#UI/UIKit-Extensions)
-
-
-* [Social](#Social)
-
-
-* [Maps](#Maps)
-  * [Geometry](#Maps/Geometry)
-  * [Clustering](#Maps/Clustering)
-
-
-* [Graphics](#Graphics)
-
-
-* [Audio](#Audio)
-
-
-* [Games](#Games)
-
-
-* [Apps](#Apps)
-  * [Graphics](#Apps/Graphics)
-  * [Other](#Apps/Other)
-  
-
-### <a name="Objective-C-And-Cocoa/Frameworks"></a> Frameworks
+### Frameworks
 
 * [GNUstep](https://github.com/gnustep/gnustep-base)
 
@@ -138,7 +49,7 @@ on iOS and OS X
 
 > ROAD - Rapid Objective-C Applications Development
  
-### <a name="Objective-C-And-Cocoa/Extensions"></a> Extensions for Objective-C and Cocoa frameworks
+### Extensions for Objective-C and Cocoa frameworks
 
 * [libextobjc](https://github.com/jspahrsummers/libextobjc)
 
@@ -173,7 +84,7 @@ Future-proof with ARC
 
 > A Swiss Army Knife for Objective-C developers
 
-### <a name="Objective-C-And-Cocoa/Data-Structures"></a> Data structures
+### Data structures
 
 * [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
 
@@ -183,7 +94,7 @@ Future-proof with ARC
  
 > Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
-### <a name="Objective-C-And-Cocoa/Promises"></a> Libraries implementing Promises (Futures) pattern
+### Libraries implementing Promises (Futures) pattern
 
 * [PromiseKit](https://github.com/mxcl/PromiseKit)
 
@@ -193,7 +104,7 @@ Future-proof with ARC
 
 > An Objective-C Class which implements the Promises/A+ specification.
 
-### <a name="Objective-C-And-Cocoa/Macros-utilities"></a> Macros utilities
+### Macros utilities
 
 * [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
 
@@ -210,7 +121,7 @@ MyEnumToString(value))
 element of a list
 
 
-### <a name="Objective-C-And-Cocoa/Conventions-And-Styleguides"></a> Conventions / Style guides
+### Conventions / Style guides
 
 * [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
 
@@ -225,7 +136,7 @@ element of a list
 > A quick reference cheat sheet for common, high level topics in
 Objective-C.
 
-### <a name="Objective-C-And-Cocoa/Low-level"></a> Low level
+### Low level
 
 * [Hopper](http://www.hopperapp.com/index.html)
 
@@ -247,7 +158,7 @@ Objective-C.
 
 > runtime function overriding for Mac OS X
 
-### <a name="Objective-C-And-Cocoa/Other"></a> Other
+### Other
 
 * [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
  
@@ -255,7 +166,7 @@ Objective-C.
 
 ----
 
-## <a name="Cross-platform-development"></a> Cross-platform development
+## Cross-platform development
 
 * [Apportable](http://www.apportable.com/)
 
@@ -269,7 +180,7 @@ Objective-C.
 
 ## Networking
 
-### <a name="Networking/Servers"></a> Servers
+### Servers
 
 * [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
 
@@ -281,7 +192,7 @@ applications
 > Lightweight GCD based HTTP server for OS X & iOS (includes web based
 uploader & WebDAV server)
 
-### <a name="Networking/Sockets"></a> Sockets
+### Sockets
 
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
 
@@ -300,13 +211,13 @@ OS X.
 
 > An asynchronous, futures-based distributed objects library for Objective-C
 
-### <a name="Networking/Logging"></a> Logging
+### Logging
 
 * [AFHTTPRequestOperationLogger](https://github.com/AFNetworking/AFHTTPRequestOperationLogger)
 
 > AFNetworking Extension for HTTP Request Logging
 
-### <a name="Networking/Other"></a> Other 
+### Other 
 
 * [socket.IO-objc](https://github.com/pkyeck/socket.IO-objc)
 
@@ -327,7 +238,7 @@ replacement for Apple Reachability
 
 ----
 
-## <a name="Data"></a> Data
+## Data
 
 * [github/Mantle](https://github.com/github/Mantle)
 
@@ -361,13 +272,13 @@ such as JSON representation
 
 > EasyMapping fork. [From JSON to Core Data Fast and Effectively](http://yalantis.com/blog/2014/03/17/from-json-to-core-data-fast-and-effectively/(
 
-### <a name="Data/Core-Data"></a> Core Data
+### Core Data
 
 * [ObjectiveRecord](https://github.com/mneorr/ObjectiveRecord)
 
 > A lightweight Active Record - style of managing CoreData objects.
 
-### <a name="Data/SQLite-based"></a> SQLite-based 
+### SQLite-based 
 
 * [FMDB](https://github.com/ccgus/fmdb)
 
@@ -381,7 +292,7 @@ such as JSON representation
 
 > ActiveRecord for iOS without CoreData, only SQLite.
 
-### <a name="Data/NoSQL"></a> NoSQL
+### NoSQL
 
 * [Couchbase Lite](https://github.com/couchbase/couchbase-lite-ios)
 
@@ -392,7 +303,7 @@ syncable database engine.
 
 > A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS and OS X.
 
-### <a name="Data/Key-Value-Stores"></a> Key-Value stores
+### Key-Value stores
 
 * [YapDatabase](https://github.com/yaptv/YapDatabase)
  
@@ -408,7 +319,7 @@ syncable database engine.
 
 ----
 
-## <a name="DebuggingTools"></a> Debugging tools
+## Debugging tools
 
 * [PLCrashReporter](https://www.plcrashreporter.org/)
 
@@ -423,7 +334,7 @@ suppress selectors at runtime
 
 > Dynamic code injection Tool
 
-### <a name="DebuggingTools/Logging"></a> Logging
+### Logging
 
 * [NSLogger](https://github.com/fpillet/NSLogger)
 
@@ -452,9 +363,9 @@ ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
 
 ----
 
-## <a name="Testing"></a> Testing
+## Testing
 
-### <a name="Testing/Frameworks"></a> Testing frameworks
+### Testing frameworks
 
 * [Kiwi](https://github.com/allending/Kiwi)
 
@@ -468,7 +379,7 @@ ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
 
 > BDD-style testing using Objective-C
 
-### <a name="Testing/Automation"></a> Test Automation
+### Test Automation
 
 * [Frank](https://github.com/moredip/Frank)
 
@@ -515,7 +426,7 @@ interactions, inspired by VCR for ruby
 
 > Powerful Objective-C library to replay HTTP responses
 
-### <a name="Testing/Other"></a> Other
+### Other
 
 * [OCMockito](https://github.com/jonreid/OCMockito)
 
@@ -532,7 +443,7 @@ output easier to parse by humans.
 
 ----
 
-## <a name="Deployment"></a> Deployment
+## Deployment
 
 * [Air-Test](https://github.com/rjyo/Air-Test)
 
@@ -549,7 +460,7 @@ presentations made easy. Install the SDK and start streaming now.
 
 ----
 
-## <a name="Beta-testing"></a> Beta testing
+## Beta testing
 
 * [Ubertesters](http://ubertesters.com/)
 
@@ -557,7 +468,7 @@ presentations made easy. Install the SDK and start streaming now.
 
 ----
 
-## <a name="Analytics"></a> Analytics
+## Analytics
 
 * [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
 
@@ -591,7 +502,7 @@ presentations made easy. Install the SDK and start streaming now.
 
 ----
 
-## <a name="Command-Line"></a> Command-line tools
+## Command-line tools
 
 * [xctool](https://github.com/facebook/xctool)
 
@@ -640,7 +551,7 @@ and enterprises in seconds.
 
 ----
 
-## <a name="Xcode"></a> Xcode plugins
+## Xcode plugins
 
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
   
@@ -652,7 +563,7 @@ and enterprises in seconds.
 
 ----
 
-## <a name="iOS7"></a> iOS7
+## iOS7
 
 * [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
 
@@ -665,7 +576,7 @@ and enterprises in seconds.
 
 ----
 
-## <a name="UI"></a> UI
+## UI
 
 * [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)
 
@@ -683,7 +594,7 @@ and enterprises in seconds.
 
 > A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
 
-### <a name="UI/Transitions"></a> Transitions 
+### Transitions 
 
 * [ADTransitionController](https://github.com/applidium/ADTransitionController)
 
@@ -694,7 +605,7 @@ and enterprises in seconds.
 > Push/Pop transition for entire UINavigationController views.
 
 
-### <a name="UI/UIKit-Extensions"></a> UIKit extensions
+### UIKit extensions
 
 * [hfossli/AGGeometryKit](https://github.com/hfossli/AGGeometryKit)
 
@@ -707,26 +618,26 @@ and CoreAnimation.
 latest versions of iOS.
 
 
-## <a name="Social"></a> Social
+## Social
 
 * [calebd/SimpleAuth](https://github.com/calebd/SimpleAuth)
 
 > Simple social authentication for iOS. http://simpleauth.io
 
-## <a name="Maps"></a> Maps
+## Maps
 
 * [calloutview](https://github.com/nfarina/calloutview)
 
 > A lightweight callout view class for iOS mimicking UICalloutView.
 
-### <a name="Maps/Geometry"></a> Geometry
+### Geometry
 
 * [Archimedes](https://github.com/github/Archimedes)
 
 > Geometry functions for Cocoa and Cocoa Touch
 
 
-### <a name="Maps/Clustering"></a> Clustering
+### Clustering
 
 * [kingpin](https://github.com/itsbonczek/kingpin)
 
@@ -755,7 +666,7 @@ in Objective-C
 
 ---- 
 
-## <a name="Graphics"></a> Graphics
+## Graphics
 
 * [SVGKit](https://github.com/SVGKit/SVGKit)
 
@@ -764,7 +675,7 @@ rendering (CoreAnimation)
 
 ----
 
-## <a name="Audio"></a> Audio
+## Audio
 
 * [EZAudio](https://github.com/syedhali/EZAudio)
 
@@ -784,7 +695,7 @@ rendering (CoreAnimation)
 
 ----
 
-## <a name="Games"></a> Games
+## Games
 
 * [FlappyBlock](https://github.com/joeblau/FlappyBlock)
 
@@ -801,9 +712,9 @@ iOS7's physics engine.
 
 ----
 
-## <a name="Apps"></a> Applications
+## Applications
 
-### <a name="Apps/Graphics"></a> Graphics
+### Graphics
 
 * [Inkpad](https://github.com/sprang/Inkpad)
 
