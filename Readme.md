@@ -1,4 +1,4 @@
-# iOS-Projects-Catalogue
+# iOS Projects Catalogue
 
 This is the catalogue of iOS/Objective-C Open Source projects. I created it to have a fast access to any Mac/iOS-related projects I recently Github-starred or explored.
 
@@ -26,7 +26,7 @@ Last update: 2014-05-17.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [iOS Projects Catalogue](#ios-projects-catalogue)
+- [Contents](#contents)
   - [Objective-C and Cocoa](#objective-c-and-cocoa)
     - [Frameworks](#frameworks)
     - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
@@ -78,7 +78,7 @@ Last update: 2014-05-17.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# iOS Projects Catalogue
+# Contents
 
 ## Objective-C and Cocoa
 
