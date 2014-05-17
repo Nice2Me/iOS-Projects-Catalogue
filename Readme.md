@@ -12,44 +12,32 @@
     - [Conventions / Style guides](#conventions--style-guides)
     - [Low level](#low-level)
     - [Other](#other)
-  - [](#)
   - [Cross-platform development](#cross-platform-development)
-  - [](#-1)
   - [Networking](#networking)
     - [Servers](#servers)
     - [Sockets](#sockets)
     - [Logging](#logging)
     - [Other](#other-1)
-  - [](#-2)
   - [Data](#data)
     - [Core Data](#core-data)
     - [SQLite-based](#sqlite-based)
     - [NoSQL](#nosql)
     - [Key-Value stores](#key-value-stores)
-  - [](#-3)
   - [Debugging tools](#debugging-tools)
     - [Logging](#logging-1)
-  - [](#-4)
   - [Testing](#testing)
     - [Testing frameworks](#testing-frameworks)
     - [Test Automation](#test-automation)
     - [Stubbing tools](#stubbing-tools)
     - [VCR tools](#vcr-tools)
     - [Other](#other-2)
-  - [](#-5)
   - [Deployment](#deployment)
-  - [](#-6)
   - [Beta testing](#beta-testing)
-  - [](#-7)
   - [Analytics](#analytics)
     - [Providers](#providers)
-  - [](#-8)
   - [Command-line tools](#command-line-tools)
-  - [](#-9)
   - [Xcode plugins](#xcode-plugins)
-  - [](#-10)
   - [iOS7](#ios7)
-  - [](#-11)
   - [UI](#ui)
     - [Transitions](#transitions)
     - [UIKit extensions](#uikit-extensions)
@@ -57,13 +45,9 @@
   - [Maps](#maps)
     - [Geometry](#geometry)
     - [Clustering](#clustering)
-  - [](#-12)
   - [Graphics](#graphics)
-  - [](#-13)
   - [Audio](#audio)
-  - [](#-14)
   - [Games](#games)
-  - [](#-15)
   - [Applications](#applications)
     - [Graphics](#graphics-1)
     - [Other](#other-3)
@@ -236,8 +220,6 @@ Objective-C.
  
 > EKAlgorithms contains some well known CS algorithms and other stuff.
 
-----
-
 ## Cross-platform development
 
 * [Apportable](http://www.apportable.com/)
@@ -247,8 +229,6 @@ Objective-C.
 * [Xamarin](https://xamarin.com/)
 
 > Create Native iOS, Android, Mac and Windows apps in C#.
-
-----
 
 ## Networking
 
@@ -307,8 +287,6 @@ replacement for Apple Reachability
 * [masscan](https://github.com/robertdavidgraham/masscan)
 
 > TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-
-----
 
 ## Data
 
@@ -389,8 +367,6 @@ syncable database engine.
 
 > a key-value object store backed by sqlite3 for ios
 
-----
-
 ## Debugging tools
 
 * [PLCrashReporter](https://www.plcrashreporter.org/)
@@ -432,8 +408,6 @@ suppress selectors at runtime
 
 > Log common structures without boring conversions.
 ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
-
-----
 
 ## Testing
 
@@ -513,8 +487,6 @@ output easier to parse by humans.
 
 > Flexible and fast xcodebuild formatter
 
-----
-
 ## Deployment
 
 * [Air-Test](https://github.com/rjyo/Air-Test)
@@ -530,15 +502,11 @@ remotely with mobile developers. Don't let clunky hardware cameras and
 unrealistic simulators get in your way. Introducing iOStream. Mobile
 presentations made easy. Install the SDK and start streaming now.
 
-----
-
 ## Beta testing
 
 * [Ubertesters](http://ubertesters.com/)
 
 > Complete mobile beta testing solution. One platform to orchestrate your entire mobile testing process. 
-
-----
 
 ## Analytics
 
@@ -571,8 +539,6 @@ presentations made easy. Install the SDK and start streaming now.
 * [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
 
 > Countly Mobile Analytics - iOS SDK http://count.ly
-
-----
 
 ## Command-line tools
 
@@ -621,8 +587,6 @@ and enterprises in seconds.
 
 > Install and debug iPhone apps from the command line, without using Xcode
 
-----
-
 ## Xcode plugins
 
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
@@ -633,8 +597,6 @@ and enterprises in seconds.
 
 > A Localization Manager for Xcode 5
 
-----
-
 ## iOS7
 
 * [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
@@ -644,9 +606,6 @@ and enterprises in seconds.
 * [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
 
 > Repo containing the sample projects associated with the iOS7 Day-by-Day blog series
-
-
-----
 
 ## UI
 
@@ -736,16 +695,12 @@ in Objective-C
 
 > A subclass of MKMapView to cluster annotations.
 
----- 
-
 ## Graphics
 
 * [SVGKit](https://github.com/SVGKit/SVGKit)
 
 > Display and interact with SVG Images on iOS / OS X, using native
 rendering (CoreAnimation)
-
-----
 
 ## Audio
 
@@ -765,8 +720,6 @@ rendering (CoreAnimation)
 
 > A low-memory footprint audio streamer for iOS and OS X
 
-----
-
 ## Games
 
 * [FlappyBlock](https://github.com/joeblau/FlappyBlock)
@@ -781,8 +734,6 @@ iOS7's physics engine.
 * [ScaryFlight](https://github.com/EvgenyKarkan/ScaryFlight)
 
 > Just another yet FlappyBird-style game.
-
-----
 
 ## Applications
 
