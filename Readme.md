@@ -377,6 +377,14 @@ syncable database engine.
 
 > Plausible CrashReporter provides an in-process crash reporting framework for use on both iOS and Mac OS X, and powers most of the crash reporting services available for iOS, including HockeyApp, Flurry, and Crittercism. 
 
+* [facebook/chisel](https://github.com/facebook/chisel)
+
+> Chisel is a collection of LLDB commands to assist debugging iOS apps.
+
+* [heardrwt/RHObjectiveBeagle](https://github.com/heardrwt/RHObjectiveBeagle/)
+
+> Beagle is an Objective C debugging tool that can sniff out class instances on the heap.
+
 * [VMInstrumenter](https://github.com/vittoriom/VMInstrumenter)
 
 > A simple Objective-C singleton to instrument, protect, trace, and
@@ -533,10 +541,6 @@ presentations made easy. Install the SDK and start streaming now.
 
 > INDUSTRY-LEADING APP ANALYTICS FOR FREE
 
-* [Crashlytics](https://github.com/crashlytics)
-
-> ...the most powerful, yet lightest weight crash reporting solution.
-
 * [mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone)
 
 > iPhone tracking library for Mixpanel Analytics. http://mixpanel.com
@@ -548,6 +552,20 @@ presentations made easy. Install the SDK and start streaming now.
 * [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
 
 > Countly Mobile Analytics - iOS SDK http://count.ly
+
+#### Crash reporting tools
+
+* [Crashlytics](https://github.com/crashlytics)
+
+> ...the most powerful, yet lightest weight crash reporting solution.
+
+* [bugsnag-cocoa](https://github.com/bugsnag/bugsnag-cocoa)
+
+> Bugsnag notifier for iOS and OSX apps, https://bugsnag.com/
+
+* [KSCrash](https://github.com/kstenerud/KSCrash)
+
+> The Ultimate iOS Crash Reporter
 
 ## Command-line tools
 
