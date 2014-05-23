@@ -59,7 +59,7 @@ Last update: 2014-05-17.
   - [Beta testing](#beta-testing)
   - [Analytics](#analytics)
     - [Providers](#providers)
-      - [Crash reporting tools](#crash-reporting-tools)
+    - [Crash reporting tools](#crash-reporting-tools)
   - [Command-line tools](#command-line-tools)
   - [Xcode plugins](#xcode-plugins)
   - [iOS7](#ios7)
@@ -554,7 +554,7 @@ presentations made easy. Install the SDK and start streaming now.
 
 > Countly Mobile Analytics - iOS SDK http://count.ly
 
-#### Crash reporting tools
+### Crash reporting tools
 
 * [Crashlytics](https://github.com/crashlytics)
 
