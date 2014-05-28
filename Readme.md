@@ -615,6 +615,12 @@ and enterprises in seconds.
 
 > Install and debug iPhone apps from the command line, without using Xcode
 
+## Device information
+
+* [GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo)
+
+> Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.
+
 ## Xcode plugins
 
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
