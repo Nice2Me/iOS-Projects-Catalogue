@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-05-17.
+Last update: 2014-05-28
 
 ----
 
@@ -61,6 +61,7 @@ Last update: 2014-05-17.
     - [Providers](#providers)
     - [Crash reporting tools](#crash-reporting-tools)
   - [Command-line tools](#command-line-tools)
+  - [Device information](#device-information)
   - [Xcode plugins](#xcode-plugins)
   - [iOS7](#ios7)
   - [UI](#ui)
@@ -72,6 +73,7 @@ Last update: 2014-05-17.
     - [Clustering](#clustering)
   - [Graphics](#graphics)
   - [Audio](#audio)
+  - [Video](#video)
   - [Games](#games)
   - [Applications](#applications)
     - [Graphics](#graphics-1)
