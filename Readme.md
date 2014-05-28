@@ -754,6 +754,12 @@ rendering (CoreAnimation)
 
 > A low-memory footprint audio streamer for iOS and OS X
 
+## Video
+
+[XCDYouTubeVideoPlayerViewController](https://github.com/0xced/XCDYouTubeVideoPlayerViewController)
+
+> YouTube video player for iPhone and iPad
+
 ## Games
 
 * [FlappyBlock](https://github.com/joeblau/FlappyBlock)
