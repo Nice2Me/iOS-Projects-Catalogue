@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-05-28
+Last update: 2014-05-31
 
 ----
 
@@ -63,7 +63,6 @@ Last update: 2014-05-28
   - [Command-line tools](#command-line-tools)
   - [Device information](#device-information)
   - [Xcode plugins](#xcode-plugins)
-  - [iOS7](#ios7)
   - [UI](#ui)
     - [Transitions](#transitions)
     - [UIKit extensions](#uikit-extensions)
@@ -78,6 +77,7 @@ Last update: 2014-05-28
   - [Applications](#applications)
     - [Graphics](#graphics-1)
     - [Other](#other-3)
+  - [Code Examples](#code-examples)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -633,16 +633,6 @@ and enterprises in seconds.
 
 > A Localization Manager for Xcode 5
 
-## iOS7
-
-* [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
-
-> Code examples for the new functions of iOS 7.
-
-* [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
-
-> Repo containing the sample projects associated with the iOS7 Day-by-Day blog series
-
 ## UI
 
 * [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)
@@ -800,4 +790,17 @@ iOS7's physics engine.
 > An open-source, privacy-enhancing web browser for iOS, utilizing the
 Tor anonymity network
 
+## Code Examples
+
+* [kharrison/CodeExamples](https://github.com/kharrison/CodeExamples)
+
+> Code Examples http://useyourloaf.com
+
+* [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
+
+> Code examples for the new functions of iOS 7.
+
+* [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
+
+> Repo containing the sample projects associated with the iOS7 Day-by-Day blog series
 
