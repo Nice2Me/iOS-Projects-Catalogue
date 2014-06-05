@@ -485,6 +485,10 @@ It drives iOS and Android apps using the WebDriver JSON wire protocol.
 > Testing HTTP requests has never been easier. Nocilla: Stunning HTTP
 stubbing for iOS and Mac OS X.
 
+* [objc-mocktail](https://github.com/square/objc-mocktail)
+
+> A simple(r) way to stub out HTTP servers in your Objective-C app.
+
 ### VCR tools
 
 * [VCRURLConnection](https://github.com/dstnbrkr/VCRURLConnection)
