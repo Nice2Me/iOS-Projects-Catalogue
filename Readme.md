@@ -305,6 +305,10 @@ replacement for Apple Reachability
 
 > A powerful value transformation API extracted from RestKit
 
+* [etoile/CoreObject](https://github.com/etoile/CoreObject)
+
+> Distributed version control + object persistence framework http://coreobject.org
+
 * [mattt/TransformerKit](https://github.com/mattt/TransformerKit)
 
 > A block-based API for NSValueTransformer, with a growing collection of
