@@ -78,6 +78,7 @@ Last update: 2014-06-05
     - [Graphics](#graphics-1)
     - [Other](#other-3)
   - [Code Examples](#code-examples)
+    - [Low-level](#low-level)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -811,4 +812,15 @@ Tor anonymity network
 * [ShinobiControls/iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
 
 > Repo containing the sample projects associated with the iOS7 Day-by-Day blog series
+
+### Low-level
+
+* [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly)
+
+> An iOS app in assembly
+
+* [richardjrossiii/CBasediOSApp](https://github.com/richardjrossiii/CBasediOSApp)
+
+> Creating an iOS app in pure C
+
 
