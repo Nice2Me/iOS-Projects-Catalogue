@@ -817,6 +817,10 @@ Tor anonymity network
 
 > Repo containing the sample projects associated with the iOS7 Day-by-Day blog series
 
+* [CustomSegue](https://github.com/Phillipus/CustomSegue)
+
+> iOS Custom Segue and Unwind Segue with animation
+
 ### Low-level
 
 * [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly)
