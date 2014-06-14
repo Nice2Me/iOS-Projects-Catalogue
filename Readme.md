@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-06-05
+Last update: 2014-06-14
 
 ----
 
@@ -820,6 +820,10 @@ Tor anonymity network
 * [CustomSegue](https://github.com/Phillipus/CustomSegue)
 
 > iOS Custom Segue and Unwind Segue with animation
+
+* [iOSUnwindSegueProgramatically](https://github.com/bradley/iOSUnwindSegueProgramatically)
+
+> Basic example of calling and unwinding a segue programatically.
 
 ### Low-level
 
