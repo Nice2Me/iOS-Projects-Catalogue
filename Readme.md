@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-06-14
+Last update: 2014-06-20
 
 ----
 
@@ -35,13 +35,12 @@ Last update: 2014-06-14
     - [Macros utilities](#macros-utilities)
     - [Conventions / Style guides](#conventions--style-guides)
     - [Low level](#low-level)
-    - [Other](#other)
   - [Cross-platform development](#cross-platform-development)
   - [Networking](#networking)
     - [Servers](#servers)
     - [Sockets](#sockets)
     - [Logging](#logging)
-    - [Other](#other-1)
+    - [Other](#other)
   - [Data](#data)
     - [Core Data](#core-data)
     - [SQLite-based](#sqlite-based)
@@ -54,7 +53,7 @@ Last update: 2014-06-14
     - [Test Automation](#test-automation)
     - [Stubbing tools](#stubbing-tools)
     - [VCR tools](#vcr-tools)
-    - [Other](#other-2)
+    - [Other](#other-1)
   - [Deployment](#deployment)
   - [Beta testing](#beta-testing)
   - [Analytics](#analytics)
@@ -76,9 +75,10 @@ Last update: 2014-06-14
   - [Games](#games)
   - [Applications](#applications)
     - [Graphics](#graphics-1)
-    - [Other](#other-3)
+    - [Other](#other-2)
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
+  - [Algorithms](#algorithms)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
