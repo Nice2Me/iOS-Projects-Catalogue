@@ -222,12 +222,6 @@ Objective-C.
 
 > runtime function overriding for Mac OS X
 
-### Other
-
-* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
- 
-> EKAlgorithms contains some well known CS algorithms and other stuff.
-
 ## Cross-platform development
 
 * [Apportable](http://www.apportable.com/)
@@ -834,5 +828,15 @@ Tor anonymity network
 * [richardjrossiii/CBasediOSApp](https://github.com/richardjrossiii/CBasediOSApp)
 
 > Creating an iOS app in pure C
+
+## Algorithms
+
+* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
+
+> EKAlgorithms contains some well known CS algorithms and other stuff.
+
+* [Dijkstra-swift](https://github.com/juliengomes/Dijkstra-swift)
+
+> A swift based implementation of the Dijkstra algorithm
 
 
