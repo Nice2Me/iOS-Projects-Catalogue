@@ -658,6 +658,10 @@ and enterprises in seconds.
 
 > Makes transitioning between storyboards possible. [Using Multiple Storyboards in iOS Development](http://spin.atomicobject.com/2014/02/18/ios-storyboards-xcode5/)
 
+* [TOMSMorphingLabel](https://github.com/TomKnig/TOMSMorphingLabel)
+
+> Configurable morphing transitions between text values of a label.
+
 ### Transitions 
 
 * [ADTransitionController](https://github.com/applidium/ADTransitionController)
