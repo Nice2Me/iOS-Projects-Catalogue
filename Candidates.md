@@ -3,6 +3,14 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [tether](https://github.com/rickfarmer/tether)
+
+> Internet tether proxy for iOS and Android. Internet connection sharing
+for iPhone, iPad, and Android. Share your phones internet connection
+with other devices including your PC or Mac. This is a simplified,
+cross-platform implementation of a wi-fi tethering web proxy for sharing
+internet connections from your iOS or Android devices.
+
 * [algorithms](https://github.com/davidreynolds/algorithms)
 
 > Repository of assorted algorithms and data structures.
