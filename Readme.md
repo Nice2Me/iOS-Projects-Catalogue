@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-06-20
+Last update: 2014-07-01
 
 ----
 
@@ -63,6 +63,7 @@ Last update: 2014-06-20
   - [Device information](#device-information)
   - [Xcode plugins](#xcode-plugins)
   - [UI](#ui)
+    - [Stylesheets](#stylesheets)
     - [Transitions](#transitions)
     - [UIKit extensions](#uikit-extensions)
   - [Social](#social)
@@ -665,6 +666,16 @@ and enterprises in seconds.
 * [TOMSMorphingLabel](https://github.com/TomKnig/TOMSMorphingLabel)
 
 > Configurable morphing transitions between text values of a label.
+
+### Stylesheets
+
+* [UISS](https://github.com/robertwijas/UISS)
+
+> UIAppearance Stylesheets
+
+* [nui](https://github.com/tombenner/nui)
+
+> Style iOS apps with a stylesheet, similar to CSS
 
 ### Transitions 
 
