@@ -758,6 +758,10 @@ in Objective-C
 
 > A subclass of MKMapView to cluster annotations.
 
+* [map_index](https://github.com/poteryaysya/map_index)
+
+> Fast map clusterization build on top of Region QuadTree.
+
 ## Graphics
 
 * [SVGKit](https://github.com/SVGKit/SVGKit)
