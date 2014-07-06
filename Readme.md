@@ -845,6 +845,11 @@ Tor anonymity network
 
 > Basic example of calling and unwinding a segue programatically.
 
+* [TableViewCellWithAutoLayoutiOS8](https://github.com/smileyborg/TableViewCellWithAutoLayoutiOS8)
+
+> Sample project demonstrating self-sizing table view cells in iOS 8
+using Swift and Objective-C.
+
 ### Low-level
 
 * [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly)
