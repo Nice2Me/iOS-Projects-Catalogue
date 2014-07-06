@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-07-01
+Last update: 2014-07-06
 
 ----
 
@@ -65,6 +65,7 @@ Last update: 2014-07-01
   - [UI](#ui)
     - [Stylesheets](#stylesheets)
     - [Transitions](#transitions)
+    - [Auto Layout](#auto-layout)
     - [UIKit extensions](#uikit-extensions)
   - [Social](#social)
   - [Maps](#maps)
@@ -687,6 +688,12 @@ and enterprises in seconds.
 
 > Push/Pop transition for entire UINavigationController views.
 
+### Auto Layout
+
+* [PureLayout](https://github.com/smileyborg/PureLayout)
+
+> The ultimate API for iOS & OS X Auto Layout — impressively simple,
+immensely powerful.
 
 ### UIKit extensions
 
