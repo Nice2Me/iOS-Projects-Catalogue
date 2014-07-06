@@ -170,6 +170,10 @@ Future-proof with ARC
 
 > An Objective-C Class which implements the Promises/A+ specification.
 
+* [objc-promise](https://github.com/mproberts/objc-promise)
+
+> Objective-C Promises in the CommonJS style
+
 ### Macros utilities
 
 * [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
