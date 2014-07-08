@@ -46,6 +46,7 @@ Last update: 2014-07-06
     - [SQLite-based](#sqlite-based)
     - [NoSQL](#nosql)
     - [Key-Value stores](#key-value-stores)
+    - [Encryption](#encryption)
   - [Debugging tools](#debugging-tools)
     - [Logging](#logging-1)
   - [Testing](#testing)
@@ -382,6 +383,12 @@ syncable database engine.
 * [kvdb](https://github.com/colinyoung/kvdb)
 
 > a key-value object store backed by sqlite3 for ios
+
+### Encryption
+
+* [SQLCipher](https://github.com/sqlcipher/sqlcipher)
+
+> SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.  http://sqlcipher.net/
 
 ## Debugging tools
 
