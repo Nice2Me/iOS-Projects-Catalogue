@@ -18,7 +18,7 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-07-06
+Last update: 2014-07-09
 
 ----
 
@@ -652,6 +652,12 @@ and enterprises in seconds.
 * [https://github.com/questbeat/Lin-Xcode5](https://github.com/questbeat/Lin-Xcode5)
 
 > A Localization Manager for Xcode 5
+
+* [XcodeColors](https://github.com/robbiehanson/XcodeColors)
+
+> XcodeColors allows you to use colors in the Xcode debugging console.
+It's designed to aid in the debugging process.
+
 
 ## UI
 
