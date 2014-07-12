@@ -33,7 +33,7 @@ Last update: 2014-07-09
     - [Data structures](#data-structures)
     - [Libraries implementing Promises (Futures) pattern](#libraries-implementing-promises-futures-pattern)
     - [Macros utilities](#macros-utilities)
-    - [Conventions / Style guides](#conventions--style-guides)
+    - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
     - [Low level](#low-level)
   - [Cross-platform development](#cross-platform-development)
   - [Networking](#networking)
@@ -192,7 +192,7 @@ MyEnumToString(value))
 element of a list
 
 
-### Conventions / Style guides
+### Conventions / Style guides / Best practices
 
 * [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
 
@@ -201,6 +201,10 @@ element of a list
 * [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
+
+* [objc-zen-book](https://github.com/objc-zen/objc-zen-book)
+
+> Zen and the Art of the Objective-C Craftsmanship
 
 * [iwasrobbed/Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 
