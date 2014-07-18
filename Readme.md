@@ -654,7 +654,7 @@ and enterprises in seconds.
 
 ## Xcode. Tools and Plugins
 
-[Alcatraz](https://github.com/supermarin/Alcatraz) :+1:
+* [Alcatraz](https://github.com/supermarin/Alcatraz) :+1:
 
 > Package manager for Xcode http://alcatraz.io/
 
