@@ -18,7 +18,9 @@ Both [Github version](https://github.com/stanislaw/iOS-Projects-Catalogue) and t
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2014-07-09
+:+1: Emoji badges :+1:. Recently I started adding badges like :+1: to mention the projects which I think are definitely worth attention. This is especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else other than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
+
+Last update: 2014-07-18
 
 ----
 
