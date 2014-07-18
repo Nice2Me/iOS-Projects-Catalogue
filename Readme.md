@@ -82,6 +82,8 @@ Last update: 2014-07-09
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
   - [Algorithms](#algorithms)
+  - [OSX](#osx)
+    - [Auto-updating OS X apps](#auto-updating-os-x-apps)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -895,4 +897,15 @@ using Swift and Objective-C.
 
 > A swift based implementation of the Dijkstra algorithm
 
+## OSX
+
+### Auto-updating OS X apps
+
+[Squirrel.Mac](https://github.com/Squirrel/Squirrel.Mac)
+
+> :shipit: Cocoa framework for updating OS X apps :shipit:
+
+[Sparkle](https://github.com/sparkle-project/Sparkle)
+
+> A software update framework for OS X. http://sparkle-project.org/
 
