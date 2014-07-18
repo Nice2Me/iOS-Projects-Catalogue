@@ -181,7 +181,7 @@ Future-proof with ARC
 
 ### Macros utilities
 
-* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
+* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing) :+1:
 
 > A variety of utilities for the C preprocessor.
 
@@ -531,7 +531,7 @@ interactions, inspired by VCR for ruby
 > RedGreen is an extension library for SenTestKit that makes the test
 output easier to parse by humans.
 
-* [mneorr/XCPretty](https://github.com/mneorr/XCPretty)
+* [mneorr/XCPretty](https://github.com/mneorr/XCPretty) :+1:
 
 > Flexible and fast xcodebuild formatter
 
@@ -627,7 +627,7 @@ design and content of your passes, or generate one-offs on the fly.
     > Secure your In-App-Purchases by verifying App Store purchase
 receipts, and retrieving the information associated with receipt data.
 
-  * [Shenzhen](https://github.com/nomad/shenzhen)
+  * [Shenzhen](https://github.com/nomad/shenzhen) :+1:
 
     > Create development builds and then distribute their .ipa files over
 TestFlight, HockeyApp, Amazon S3, or FTP. Get new builds out to testers
@@ -891,7 +891,7 @@ using Swift and Objective-C.
 
 ## Algorithms
 
-* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
+* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) :+1:
 
 > EKAlgorithms contains some well known CS algorithms and other stuff.
 
