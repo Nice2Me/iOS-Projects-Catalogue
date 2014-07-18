@@ -93,22 +93,22 @@ Last update: 2014-07-09
 
 ### Frameworks
 
-* [GNUstep](https://github.com/gnustep/gnustep-base)
-
-> GNUstep is a mature Framework, suited both for advanced GUI desktop applications as well as server applications. The framework closely follows Apple's Cocoa (formerly NeXT's OpenStep) APIs but is portable to a variety of platforms and architectures.
-
-* [AFNetworking](http://afnetworking.com/)
+* [AFNetworking](http://afnetworking.com/) :+1:
 
 > A delightful networking framework for iOS and OSX
 
-* [RestKit](https://github.com/RestKit/RestKit)
+* [RestKit](https://github.com/RestKit/RestKit) :+1:
 
 > RestKit is a framework for consuming and modeling RESTful web resources
 on iOS and OS X 
 
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) :+1:
 
 > A framework for composing and transforming streams of values
+
+* [GNUstep](https://github.com/gnustep/gnustep-base)
+
+> GNUstep is a mature Framework, suited both for advanced GUI desktop applications as well as server applications. The framework closely follows Apple's Cocoa (formerly NeXT's OpenStep) APIs but is portable to a variety of platforms and architectures.
 
 * [NimbusKit](http://nimbuskit.info/)
 
@@ -120,7 +120,7 @@ on iOS and OS X
  
 ### Extensions for Objective-C and Cocoa frameworks
 
-* [libextobjc](https://github.com/jspahrsummers/libextobjc)
+* [libextobjc](https://github.com/jspahrsummers/libextobjc) :+1:
 
 > A Cocoa library to extend the Objective-C programming language.
 
@@ -196,7 +196,7 @@ element of a list
 
 ### Conventions / Style guides / Best practices
 
-* [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
+* [github/objective-c-conventions](https://github.com/github/objective-c-conventions) :+1:
 
 > Coding conventions for Objective-C projects.
 
@@ -204,7 +204,7 @@ element of a list
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
-* [objc-zen-book](https://github.com/objc-zen/objc-zen-book)
+* [objc-zen-book](https://github.com/objc-zen/objc-zen-book) :+1:
 
 > Zen and the Art of the Objective-C Craftsmanship
 
@@ -309,7 +309,7 @@ replacement for Apple Reachability
 
 ## Data
 
-* [github/Mantle](https://github.com/github/Mantle)
+* [github/Mantle](https://github.com/github/Mantle) :+1:
 
 > Model framework for Cocoa and Cocoa Touch
 
@@ -560,7 +560,7 @@ presentations made easy. Install the SDK and start streaming now.
 
 > Analytics framework for iOS
 
-* [ARAnalytics](https://github.com/orta/ARAnalytics)
+* [ARAnalytics](https://github.com/orta/ARAnalytics) :+1:
 
 > Simplify your iOS analytics
 
