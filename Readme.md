@@ -64,7 +64,8 @@ Last update: 2014-07-18
     - [Crash reporting tools](#crash-reporting-tools)
   - [Command-line tools](#command-line-tools)
   - [Device information](#device-information)
-  - [Xcode plugins](#xcode-plugins)
+  - [Xcode. Tools and Plugins](#xcode-tools-and-plugins)
+    - [Plugins](#plugins)
   - [UI](#ui)
     - [Stylesheets](#stylesheets)
     - [Transitions](#transitions)
@@ -651,7 +652,13 @@ and enterprises in seconds.
 
 > Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.
 
-## Xcode plugins
+## Xcode. Tools and Plugins
+
+[Alcatraz](https://github.com/supermarin/Alcatraz) :+1:
+
+> Package manager for Xcode http://alcatraz.io/
+
+### Plugins
 
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)
   
