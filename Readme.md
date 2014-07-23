@@ -203,6 +203,10 @@ element of a list
 
 > Coding conventions for Objective-C projects.
 
+* [swift-style-guide](https://github.com/github/swift-style-guide)
+
+> Style guide & coding conventions for Swift projects
+
 * [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
