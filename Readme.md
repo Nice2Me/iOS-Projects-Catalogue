@@ -413,6 +413,10 @@ syncable database engine.
 
 > Chisel is a collection of LLDB commands to assist debugging iOS apps.
 
+* [FLEX](https://github.com/Flipboard/FLEX)
+
+> An in-app debugging and exploration tool for iOS
+
 * [heardrwt/RHObjectiveBeagle](https://github.com/heardrwt/RHObjectiveBeagle/)
 
 > Beagle is an Objective C debugging tool that can sniff out class instances on the heap.
