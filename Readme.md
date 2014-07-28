@@ -352,6 +352,10 @@ such as JSON representation
 
 > EasyMapping fork. [From JSON to Core Data Fast and Effectively](http://yalantis.com/blog/2014/03/17/from-json-to-core-data-fast-and-effectively/(
 
+* [pegkit](https://github.com/itod/pegkit)
+
+> 'Parsing Expression Grammar' toolkit for Cocoa/Objective-C
+
 * [ParseKit](https://github.com/itod/parsekit/)
 
 > Objective-C Tokenizer and Parser Generator. Supports Grammars.
