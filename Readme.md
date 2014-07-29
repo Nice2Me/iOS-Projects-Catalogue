@@ -902,6 +902,12 @@ Tor anonymity network
 > Sample project demonstrating self-sizing table view cells in iOS 8
 using Swift and Objective-C.
 
+* [UITableViewController-Containment-Demo](https://github.com/rnystrom/UITableViewController-Containment-Demo)
+
+> This is a sample project showing how to contain a
+UITableViewController in another VC with a Search Bar + Display
+Controller working as if it were all in a UITableViewController.
+
 ### Low-level
 
 * [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly)
