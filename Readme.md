@@ -20,7 +20,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-07-18
+Last update: 2014-07-29
 
 ----
 
@@ -901,6 +901,12 @@ Tor anonymity network
 
 > Sample project demonstrating self-sizing table view cells in iOS 8
 using Swift and Objective-C.
+
+* [UITableViewController-Containment-Demo](https://github.com/rnystrom/UITableViewController-Containment-Demo)
+
+> This is a sample project showing how to contain a
+UITableViewController in another VC with a Search Bar + Display
+Controller working as if it were all in a UITableViewController.
 
 ### Low-level
 
