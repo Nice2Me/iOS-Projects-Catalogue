@@ -601,6 +601,10 @@ presentations made easy. Install the SDK and start streaming now.
 
 > Countly Mobile Analytics - iOS SDK http://count.ly
 
+* [ZeoInsight](http://zeoinsight.com/)
+
+> Intelligent Analytics for your Mac, Windows, Android, iOS, Unity, Action Script apps 
+
 ### Crash reporting tools
 
 * [Crashlytics](https://github.com/crashlytics)
