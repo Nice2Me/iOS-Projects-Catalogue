@@ -20,7 +20,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-08-06
+Last update: 2014-08-09
 
 ----
 
@@ -116,6 +116,10 @@ on iOS and OS X
 * [NimbusKit](http://nimbuskit.info/)
 
 > Nimbus is a toolkit for experienced iOS software designers. It provides well-documented, modular components that solve a number of common iOS software requirements. This includes: a rich text label with hyperlinks; a web view controller; a simple approach to table models, radio groups, and table actions; standardized interapp communication, and powerful debugging tools, amongst many other features.
+
+* [Sparrow-Framework](https://github.com/Gamua/Sparrow-Framework)
+
+> The Open Source Game Engine for iOS http://www.sparrow-framework.org/
 
 * [epam/road-ios-framework](https://github.com/epam/road-ios-framework)
 
