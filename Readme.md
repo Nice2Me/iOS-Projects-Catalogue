@@ -18,7 +18,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-08-09
+Last update: 2014-08-13
 
 ----
 
@@ -727,6 +727,10 @@ It's designed to aid in the debugging process.
 
 > Configurable morphing transitions between text values of a label.
 
+* [BFWindow](https://github.com/beefon/BFWindow)
+
+> NSWindow subclass that allows you to apply Core Animation effects.
+
 ### Stylesheets
 
 * [UISS](https://github.com/robertwijas/UISS)
@@ -819,10 +823,16 @@ in Objective-C
 
 ## Graphics
 
+### SVG
+
 * [SVGKit](https://github.com/SVGKit/SVGKit)
 
 > Display and interact with SVG Images on iOS / OS X, using native
 rendering (CoreAnimation)
+
+* [PocketSVG](https://github.com/arielelkin/PocketSVG)
+
+> Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierCurves.
 
 ## Audio
 
