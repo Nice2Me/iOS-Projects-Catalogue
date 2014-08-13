@@ -727,6 +727,10 @@ It's designed to aid in the debugging process.
 
 > Configurable morphing transitions between text values of a label.
 
+* [BFWindow](https://github.com/beefon/BFWindow)
+
+> NSWindow subclass that allows you to apply Core Animation effects.
+
 ### Stylesheets
 
 * [UISS](https://github.com/robertwijas/UISS)
