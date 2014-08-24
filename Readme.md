@@ -18,7 +18,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-08-13
+Last update: 2014-08-24
 
 ----
 
@@ -243,6 +243,10 @@ Objective-C.
 * [rentzsch/mach_override](https://github.com/rentzsch/mach_override)
 
 > runtime function overriding for Mac OS X
+
+* [RDInjectionWizard](https://github.com/rodionovd/RDInjectionWizard)
+
+> Painless code injection for OS X
 
 ## Cross-platform development
 
