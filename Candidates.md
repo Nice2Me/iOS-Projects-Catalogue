@@ -3,6 +3,11 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [wadl2objc](https://github.com/dzhurov/wadl2objc)
+
+> This is a project I'm going to make generator Objective-C entities and
+services described in WADL file.
+
 * [DataUsage](https://github.com/pkjmesra/DataUsage)
 
 > A plain simple demo PoC to show the usage of some of the APIs to
