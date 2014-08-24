@@ -777,6 +777,10 @@ latest versions of iOS.
 
 > Simple social authentication for iOS. http://simpleauth.io
 
+* [overshare-kit](https://github.com/overshare/overshare-kit)
+
+> A soup-to-nuts sharing library for iOS.
+
 ## Maps
 
 * [calloutview](https://github.com/nfarina/calloutview)
