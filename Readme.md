@@ -937,6 +937,10 @@ using Swift and Objective-C.
 UITableViewController in another VC with a Search Bar + Display
 Controller working as if it were all in a UITableViewController.
 
+* [intentions](https://github.com/chriseidhof/intentions)
+
+> From "Intentions: An experiment in Ultralight View Controllers" http://chris.eidhof.nl/posts/intentions.html
+
 ### Low-level
 
 * [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly)
