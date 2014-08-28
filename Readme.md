@@ -18,7 +18,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-08-24
+Last update: 2014-08-28
 
 ----
 
@@ -443,6 +443,10 @@ suppress selectors at runtime
 * [dyci-main](https://github.com/DyCI/dyci-main)
 
 > Dynamic code injection Tool
+
+* [Xtrace](https://github.com/johnno1962/Xtrace)
+
+> Trace Objective-C method calls by class or instance)
 
 ### Logging
 
