@@ -549,6 +549,10 @@ interactions, inspired by VCR for ruby
 
 ### Other
 
+* [xctasks](https://github.com/layerhq/xctasks)
+
+> Simple project automation for the sophisticated Xcode hacker
+
 * [OCMockito](https://github.com/jonreid/OCMockito)
 
 > Mockito for Objective-C: creation, verification and stubbing of mock objects
