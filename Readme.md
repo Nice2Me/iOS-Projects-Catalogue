@@ -444,7 +444,7 @@ suppress selectors at runtime
 
 > Dynamic code injection Tool
 
-* [Xtrace](https://github.com/johnno1962/Xtrace)
+* [Xtrace](https://github.com/johnno1962/Xtrace) :+1:
 
 > Trace Objective-C method calls by class or instance)
 
