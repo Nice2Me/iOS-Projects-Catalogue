@@ -47,8 +47,9 @@ Last update: 2014-08-28
     - [NoSQL](#nosql)
     - [Key-Value stores](#key-value-stores)
     - [Encryption](#encryption)
-  - [Debugging tools](#debugging-tools)
+  - [Debugging](#debugging)
     - [Logging](#logging-1)
+    - [Core Data](#core-data-1)
   - [Testing](#testing)
     - [Testing frameworks](#testing-frameworks)
     - [Test Automation](#test-automation)
@@ -74,6 +75,7 @@ Last update: 2014-08-28
     - [Geometry](#geometry)
     - [Clustering](#clustering)
   - [Graphics](#graphics)
+    - [SVG](#svg)
   - [Audio](#audio)
   - [Video](#video)
   - [Games](#games)
@@ -417,7 +419,7 @@ syncable database engine.
 
 > SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.  http://sqlcipher.net/
 
-## Debugging tools
+## Debugging
 
 * [PLCrashReporter](https://www.plcrashreporter.org/)
 
@@ -474,6 +476,14 @@ suppress selectors at runtime
 
 > Log common structures without boring conversions.
 ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
+
+### Core Data
+
+* [GDCoreDataConcurrencyDebugging](https://github.com/GrahamDennis/GDCoreDataConcurrencyDebugging)
+
+> GDCoreDataConcurrencyDebugging helps you find cases where
+NSManagedObject's are being called on the wrong thread or dispatch
+queue.
 
 ## Testing
 
