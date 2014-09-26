@@ -36,6 +36,7 @@ Last update: 2014-09-26
     - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
     - [Low level](#low-level)
   - [Cross-platform development](#cross-platform-development)
+  - [Application Platforms](#application-platforms)
   - [Networking](#networking)
     - [Servers](#servers)
     - [Sockets](#sockets)
@@ -263,6 +264,16 @@ Objective-C.
 * [Marmalade Juice](https://www.madewithmarmalade.com/products/juice)
 
 > Marmalade Juice is a new and innovative technology which gives developers the ability to recompile their iOS projects natively for Android. And, because there is no need for laborious re-writing, you can focus on making your game the best it can be. 
+
+## Application Platforms
+
+* [Parse](https://parse.com/)
+
+> The complete mobile app platform Focus on creating unique & engaging apps on any platform. We take care of everything else your app needs, from the core of your app to analytics and push notifications.
+
+* [C2Call](https://www.c2call.com/en/)
+
+> C2Call empowers your apps' communication with its cutting-edge, cross-platform 7-way Group Video Calling, Voice and Instant Messaging featured technology for Mobiles, Tablets and Desktops.
 
 ## Networking
 
