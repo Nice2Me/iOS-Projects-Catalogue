@@ -18,7 +18,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-09-26
+Last update: 2014-10-29
 
 ----
 
@@ -132,13 +132,19 @@ on iOS and OS X
 
 > A Cocoa library to extend the Objective-C programming language.
 
-* [BloodMagic](https://github.com/railsware/BloodMagic)
-
-> Custom attributes for ObjC properties.
-
 * [ObjectiveSugar](https://github.com/mneorr/ObjectiveSugar)
 
 > ObjectiveC additions for humans. Ruby style.
+
+* [Underscore.m](https://github.com/robb/Underscore.m)
+
+> Underscore.m is a small utility library to facilitate working with common data structures in Objective-C.
+It tries to encourage chaining by eschewing the square bracket]]]]]].
+It is inspired by the awesome underscore.js.
+
+* [BloodMagic](https://github.com/railsware/BloodMagic)
+
+> Custom attributes for ObjC properties.
 
 * [pandamonia/BlocksKit](https://github.com/pandamonia/BlocksKit)
 
