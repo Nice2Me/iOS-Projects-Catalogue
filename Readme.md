@@ -924,6 +924,10 @@ rendering (CoreAnimation)
 
 > A low-memory footprint audio streamer for iOS and OS X
 
+* [AudioKit](https://github.com/audiokit/AudioKit) 
+
+> Open-source audio synthesis, processing, & analysis platform. http://audiokit.io/
+
 ## Video
 
 [XCDYouTubeVideoPlayerViewController](https://github.com/0xced/XCDYouTubeVideoPlayerViewController)
