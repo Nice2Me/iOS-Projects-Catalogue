@@ -30,11 +30,13 @@ Last update: 2014-11-06
   - [Objective-C and Cocoa](#objective-c-and-cocoa)
     - [Frameworks](#frameworks)
     - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
-    - [Data structures](#data-structures)
-    - [Libraries implementing Promises (Futures) pattern](#libraries-implementing-promises-futures-pattern)
     - [Macros utilities](#macros-utilities)
     - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
     - [Low level](#low-level)
+  - [Design Patterns](#design-patterns)
+    - [Promises (Futures)](#promises-futures)
+  - [Algorithms](#algorithms)
+  - [Data structures](#data-structures)
   - [Cross-platform development](#cross-platform-development)
   - [Application Platforms](#application-platforms)
   - [Networking](#networking)
@@ -85,7 +87,6 @@ Last update: 2014-11-06
     - [Other](#other-2)
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
-  - [Algorithms](#algorithms)
   - [OSX](#osx)
     - [Auto-updating OS X apps](#auto-updating-os-x-apps)
 
@@ -167,30 +168,6 @@ Future-proof with ARC
 
 > A Swiss Army Knife for Objective-C developers
 
-### Data structures
-
-* [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
-
-> A simple, fast circular buffer implementation
-
-* [NSTree](https://github.com/carlinyuen/NSTree)
- 
-> Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
-
-### Libraries implementing Promises (Futures) pattern
-
-* [PromiseKit](https://github.com/mxcl/PromiseKit)
-
-> A delightful Promises implementation for iOS
-
-* [RXPromise](https://github.com/couchdeveloper/RXPromise)
-
-> An Objective-C Class which implements the Promises/A+ specification.
-
-* [objc-promise](https://github.com/mproberts/objc-promise)
-
-> Objective-C Promises in the CommonJS style
-
 ### Macros utilities
 
 * [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing) :+1:
@@ -256,6 +233,50 @@ Objective-C.
 * [RDInjectionWizard](https://github.com/rodionovd/RDInjectionWizard)
 
 > Painless code injection for OS X
+
+## Design Patterns
+
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+
+> Design Patterns implemented in Swift
+
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
+> Design pattern samples implemented in Java
+
+### Promises (Futures)
+
+* [PromiseKit](https://github.com/mxcl/PromiseKit)
+
+> A delightful Promises implementation for iOS
+
+* [RXPromise](https://github.com/couchdeveloper/RXPromise)
+
+> An Objective-C Class which implements the Promises/A+ specification.
+
+* [objc-promise](https://github.com/mproberts/objc-promise)
+
+> Objective-C Promises in the CommonJS style
+
+## Algorithms
+
+* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) :+1:
+
+> EKAlgorithms contains some well known CS algorithms and other stuff.
+
+* [Dijkstra-swift](https://github.com/juliengomes/Dijkstra-swift)
+
+> A swift based implementation of the Dijkstra algorithm
+
+## Data structures
+
+* [TPCircularBuffer](https://github.com/michaeltyson/TPCircularBuffer)
+
+> A simple, fast circular buffer implementation
+
+* [NSTree](https://github.com/carlinyuen/NSTree)
+ 
+> Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
 
 ## Cross-platform development
 
@@ -993,16 +1014,6 @@ Controller working as if it were all in a UITableViewController.
 * [richardjrossiii/CBasediOSApp](https://github.com/richardjrossiii/CBasediOSApp)
 
 > Creating an iOS app in pure C
-
-## Algorithms
-
-* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) :+1:
-
-> EKAlgorithms contains some well known CS algorithms and other stuff.
-
-* [Dijkstra-swift](https://github.com/juliengomes/Dijkstra-swift)
-
-> A swift based implementation of the Dijkstra algorithm
 
 ## OSX
 
