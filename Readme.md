@@ -31,12 +31,12 @@ Last update: 2014-11-11
     - [Frameworks](#frameworks)
     - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
     - [Macros utilities](#macros-utilities)
-    - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
     - [Low level](#low-level)
   - [Design Patterns](#design-patterns)
     - [Promises (Futures)](#promises-futures)
   - [Algorithms](#algorithms)
   - [Data structures](#data-structures)
+  - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
   - [Cross-platform development](#cross-platform-development)
   - [Application Platforms](#application-platforms)
   - [Networking](#networking)
@@ -184,30 +184,6 @@ MyEnumToString(value))
 > A recursive C preprocessor macro which performs an operation on each
 element of a list
 
-
-### Conventions / Style guides / Best practices
-
-* [github/objective-c-conventions](https://github.com/github/objective-c-conventions) :+1:
-
-> Coding conventions for Objective-C projects.
-
-* [swift-style-guide](https://github.com/github/swift-style-guide)
-
-> Style guide & coding conventions for Swift projects
-
-* [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
-
-> The New York Times Mobile Team’s Objective-C Style Guide.
-
-* [objc-zen-book](https://github.com/objc-zen/objc-zen-book) :+1:
-
-> Zen and the Art of the Objective-C Craftsmanship
-
-* [iwasrobbed/Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
-
-> A quick reference cheat sheet for common, high level topics in
-Objective-C.
-
 ### Low level
 
 * [Hopper](http://www.hopperapp.com/index.html)
@@ -277,6 +253,28 @@ Objective-C.
 * [NSTree](https://github.com/carlinyuen/NSTree)
  
 > Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
+
+## Conventions / Style guides / Best practices
+
+* [github/objective-c-conventions](https://github.com/github/objective-c-conventions) :+1:
+
+> Coding conventions for Objective-C projects.
+
+* [swift-style-guide](https://github.com/github/swift-style-guide)
+
+> Style guide & coding conventions for Swift projects
+
+* [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
+
+> The New York Times Mobile Team’s Objective-C Style Guide.
+
+* [objc-zen-book](https://github.com/objc-zen/objc-zen-book) :+1:
+
+> Zen and the Art of the Objective-C Craftsmanship
+
+* [iwasrobbed/Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+
+> A quick reference cheat sheet for common, high level topics in Objective-C.
 
 ## Cross-platform development
 
