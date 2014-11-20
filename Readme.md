@@ -18,7 +18,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-11-11
+Last update: 2014-11-20
 
 ----
 
@@ -32,6 +32,7 @@ Last update: 2014-11-11
     - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
     - [Macros utilities](#macros-utilities)
     - [Low level](#low-level)
+  - [Dependency Management](#dependency-management)
   - [Design Patterns](#design-patterns)
     - [Promises (Futures)](#promises-futures)
   - [Algorithms](#algorithms)
@@ -209,6 +210,16 @@ element of a list
 * [RDInjectionWizard](https://github.com/rodionovd/RDInjectionWizard)
 
 > Painless code injection for OS X
+
+## Dependency Management
+
+* [CocoaPods](cocoapods.org/)
+
+> The Dependency Manager for Objective C.
+
+* [Carthage](https://github.com/Carthage/Carthage)
+
+> A simple, decentralized dependency manager for Cocoa
 
 ## Design Patterns
 
