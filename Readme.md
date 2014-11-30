@@ -34,7 +34,7 @@ Last update: 2014-11-20
     - [Low level](#low-level)
   - [Dependency Management](#dependency-management)
   - [Design Patterns](#design-patterns)
-    - [Promises (Futures)](#promises-futures)
+    - [Promises/Futures/Deferred](#promisesfuturesdeferred)
   - [Algorithms](#algorithms)
   - [Data structures](#data-structures)
   - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
@@ -231,7 +231,7 @@ element of a list
 
 > Design pattern samples implemented in Java
 
-### Promises (Futures)
+### Promises/Futures/Deferred
 
 * [PromiseKit](https://github.com/mxcl/PromiseKit)
 
@@ -244,6 +244,10 @@ element of a list
 * [objc-promise](https://github.com/mproberts/objc-promise)
 
 > Objective-C Promises in the CommonJS style
+
+* [deferred](https://github.com/kseebaldt/deferred)
+
+> Async library inspired by CommonJS Promises/A spec
 
 ## Algorithms
 
