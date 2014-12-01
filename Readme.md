@@ -102,6 +102,10 @@ Last update: 2014-11-20
 
 > Set of repositories for different development tasks.
 
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+
+> A collaborative list of awesome swift resources. Feel free to contribute!
+
 ## Objective-C and Cocoa
 
 ### Frameworks
