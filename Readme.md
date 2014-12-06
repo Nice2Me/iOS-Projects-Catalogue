@@ -85,6 +85,7 @@ Last update: 2014-12-06
   - [Video](#video)
   - [Games](#games)
   - [Applications](#applications)
+    - [Browsers](#browsers)
     - [Graphics](#graphics-1)
     - [Other](#other-2)
   - [Code Examples](#code-examples)
