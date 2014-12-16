@@ -527,6 +527,10 @@ suppress selectors at runtime
 
 > A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 
+* [XLFacility](https://github.com/swisspol/XLFacility)
+
+> Elegant and extensive logging facility for OS X & iOS (includes database, Telnet and HTTP servers)
+
 * [JRLog](https://github.com/rentzsch/JRLog)
 
 > Simple but flexible Log4J-like logging system for Objective-C
