@@ -72,6 +72,7 @@ Last update: 2014-12-16
   - [Xcode. Tools and Plugins](#xcode-tools-and-plugins)
     - [Plugins](#plugins)
   - [UI](#ui)
+    - [Storyboards](#storyboards)
     - [Stylesheets](#stylesheets)
     - [Transitions](#transitions)
     - [Auto Layout](#auto-layout)
