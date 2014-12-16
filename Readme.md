@@ -18,7 +18,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-12-06
+Last update: 2014-12-16
 
 ----
 
@@ -68,6 +68,7 @@ Last update: 2014-12-06
     - [Crash reporting tools](#crash-reporting-tools)
   - [Command-line tools](#command-line-tools)
   - [Device information](#device-information)
+  - [Documentation](#documentation)
   - [Xcode. Tools and Plugins](#xcode-tools-and-plugins)
     - [Plugins](#plugins)
   - [UI](#ui)
@@ -775,6 +776,12 @@ and enterprises in seconds.
 * [GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo)
 
 > Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.
+
+## Documentation
+
+* [jazzy](https://github.com/realm/jazzy)
+
+> Soulful docs for Swift & Objective-C
 
 ## Xcode. Tools and Plugins
 
