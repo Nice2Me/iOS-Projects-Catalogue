@@ -823,10 +823,6 @@ It's designed to aid in the debugging process.
 
 > A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
 
-* [rob-brown/RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink)
-
-> Makes transitioning between storyboards possible. [Using Multiple Storyboards in iOS Development](http://spin.atomicobject.com/2014/02/18/ios-storyboards-xcode5/)
-
 * [TOMSMorphingLabel](https://github.com/TomKnig/TOMSMorphingLabel)
 
 > Configurable morphing transitions between text values of a label.
@@ -834,6 +830,12 @@ It's designed to aid in the debugging process.
 * [BFWindow](https://github.com/beefon/BFWindow)
 
 > NSWindow subclass that allows you to apply Core Animation effects.
+
+### Storyboards
+
+* [rob-brown/RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink) :+1:
+
+> Makes transitioning between storyboards possible. [Using Multiple Storyboards in iOS Development](http://spin.atomicobject.com/2014/02/18/ios-storyboards-xcode5/)
 
 ### Stylesheets
 
