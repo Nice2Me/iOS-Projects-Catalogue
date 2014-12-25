@@ -18,7 +18,7 @@ Suggestions are welcome! New projects are welcome!
 
 :+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
 
-Last update: 2014-12-16
+Last update: 2014-12-25
 
 ----
 
@@ -46,12 +46,13 @@ Last update: 2014-12-16
     - [Sockets](#sockets)
     - [Logging](#logging)
     - [Other](#other)
-  - [Data](#data)
+  - [Database](#database)
     - [Core Data](#core-data)
     - [SQLite-based](#sqlite-based)
     - [NoSQL](#nosql)
     - [Key-Value stores](#key-value-stores)
     - [Encryption](#encryption)
+  - [Data](#data)
   - [Debugging](#debugging)
     - [Logging](#logging-1)
     - [Core Data](#core-data-1)
@@ -391,55 +392,15 @@ replacement for Apple Reachability
 
 > TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 
-## Data
-
-* [github/Mantle](https://github.com/github/Mantle) :+1:
-
-> Model framework for Cocoa and Cocoa Touch
+## Database
 
 * [realm-cocoa](https://github.com/realm/realm-cocoa)
 
 > Realm is a mobile database: a replacement for Core Data & SQLite
 
-* [RestKit/RKValueTransformers](https://github.com/RestKit/RKValueTransformers)
-
-> A powerful value transformation API extracted from RestKit
-
 * [etoile/CoreObject](https://github.com/etoile/CoreObject)
 
 > Distributed version control + object persistence framework http://coreobject.org
-
-* [mattt/TransformerKit](https://github.com/mattt/TransformerKit)
-
-> A block-based API for NSValueTransformer, with a growing collection of
-useful examples.
-
-* [nicklockwood/FastCoding](https://github.com/nicklockwood/FastCoding)
-
-> A faster and more flexible binary file format replacement for Property
-Lists and JSON
-
-* [nicklockwood/AutoCoding](https://github.com/nicklockwood/AutoCoding)
-
-> AutoCoding is a category on NSObject that provides automatic support
-for NSCoding and NSCopying to every object.
-
-* [EasyMapping](https://github.com/lucasmedeirosleite/EasyMapping)
-
-> The easiest way to marshall and unmarshall Dictionary representations
-such as JSON representation
-
-* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping)
-
-> EasyMapping fork. [From JSON to Core Data Fast and Effectively](http://yalantis.com/blog/2014/03/17/from-json-to-core-data-fast-and-effectively/(
-
-* [pegkit](https://github.com/itod/pegkit)
-
-> 'Parsing Expression Grammar' toolkit for Cocoa/Objective-C
-
-* [ParseKit](https://github.com/itod/parsekit/)
-
-> Objective-C Tokenizer and Parser Generator. Supports Grammars.
 
 ### Core Data
 
@@ -491,6 +452,49 @@ syncable database engine.
 * [SQLCipher](https://github.com/sqlcipher/sqlcipher)
 
 > SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.  http://sqlcipher.net/
+
+
+## Data
+
+* [github/Mantle](https://github.com/github/Mantle) :+1:
+
+> Model framework for Cocoa and Cocoa Touch
+
+* [RestKit/RKValueTransformers](https://github.com/RestKit/RKValueTransformers)
+
+> A powerful value transformation API extracted from RestKit
+
+* [mattt/TransformerKit](https://github.com/mattt/TransformerKit)
+
+> A block-based API for NSValueTransformer, with a growing collection of
+useful examples.
+
+* [nicklockwood/FastCoding](https://github.com/nicklockwood/FastCoding)
+
+> A faster and more flexible binary file format replacement for Property
+Lists and JSON
+
+* [nicklockwood/AutoCoding](https://github.com/nicklockwood/AutoCoding)
+
+> AutoCoding is a category on NSObject that provides automatic support
+for NSCoding and NSCopying to every object.
+
+* [EasyMapping](https://github.com/lucasmedeirosleite/EasyMapping)
+
+> The easiest way to marshall and unmarshall Dictionary representations
+such as JSON representation
+
+* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping)
+
+> EasyMapping fork. [From JSON to Core Data Fast and Effectively](http://yalantis.com/blog/2014/03/17/from-json-to-core-data-fast-and-effectively/(
+
+* [pegkit](https://github.com/itod/pegkit)
+
+> 'Parsing Expression Grammar' toolkit for Cocoa/Objective-C
+
+* [ParseKit](https://github.com/itod/parsekit/)
+
+> Objective-C Tokenizer and Parser Generator. Supports Grammars.
 
 ## Debugging
 
