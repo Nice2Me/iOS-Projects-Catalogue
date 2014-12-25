@@ -397,6 +397,10 @@ replacement for Apple Reachability
 
 > Model framework for Cocoa and Cocoa Touch
 
+* [realm-cocoa](https://github.com/realm/realm-cocoa)
+
+> Realm is a mobile database: a replacement for Core Data & SQLite
+
 * [RestKit/RKValueTransformers](https://github.com/RestKit/RKValueTransformers)
 
 > A powerful value transformation API extracted from RestKit
