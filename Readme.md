@@ -34,6 +34,7 @@ Last update: 2015-01-09
     - [Macros utilities](#macros-utilities)
     - [Low level](#low-level)
   - [Dependency Management](#dependency-management)
+  - [Auto-updates](#auto-updates)
   - [Design Patterns](#design-patterns)
     - [Promises/Futures/Deferred](#promisesfuturesdeferred)
   - [Algorithms](#algorithms)
@@ -94,7 +95,6 @@ Last update: 2015-01-09
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
   - [OSX](#osx)
-    - [Auto-updating OS X apps](#auto-updating-os-x-apps)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -235,6 +235,20 @@ element of a list
 * [Carthage](https://github.com/Carthage/Carthage)
 
 > A simple, decentralized dependency manager for Cocoa
+
+## Auto-updates
+
+* [Harpy](https://github.com/ArtSabintsev/Harpy) and [Siren](https://github.com/ArtSabintsev/Siren)
+
+> Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
+
+[Squirrel.Mac](https://github.com/Squirrel/Squirrel.Mac)
+
+> :shipit: Cocoa framework for updating OS X apps :shipit:
+
+[Sparkle](https://github.com/sparkle-project/Sparkle)
+
+> A software update framework for OS X. http://sparkle-project.org/
 
 ## Design Patterns
 
@@ -1085,14 +1099,4 @@ Controller working as if it were all in a UITableViewController.
 > Creating an iOS app in pure C
 
 ## OSX
-
-### Auto-updating OS X apps
-
-[Squirrel.Mac](https://github.com/Squirrel/Squirrel.Mac)
-
-> :shipit: Cocoa framework for updating OS X apps :shipit:
-
-[Sparkle](https://github.com/sparkle-project/Sparkle)
-
-> A software update framework for OS X. http://sparkle-project.org/
 
