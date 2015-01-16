@@ -3,6 +3,10 @@ Candidates for iOS-Projects-Catalogue
 
 ## Uncategorized
 
+* [JBBPriorityQueue](https://github.com/jorbsd/JBBPriorityQueue)
+
+> A priority queue for Cocoa based on CFBinaryHeap.
+
 * [wadl2objc](https://github.com/dzhurov/wadl2objc)
 
 > This is a project I'm going to make generator Objective-C entities and
