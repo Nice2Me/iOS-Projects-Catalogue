@@ -623,6 +623,10 @@ queue.
 > Calabash is an automated testing technology for Android and iOS native
 and hybrid applications.
 
+* [Subliminal](https://github.com/inkling/Subliminal)
+
+> An understated approach to iOS integration testing.
+
 * [ios-driver](http://ios-driver.github.io/ios-driver/index.html)
 
 > IOS automation for native, hybrid and mobile web.
