@@ -16,9 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-:+1: Emoji badges :+1:. Recently I started using emoji badges to mention the projects which I think are definitely worth attention. My intention is to make these badges especially useful for newcomers - the folks who just start programming for OSX/iOS platforms. Please note that presence or absence of such badges near a particular project does not point you to anything else than just a personal preference I have for this project - it maybe subjective, it may change later - so please do not be serious about it.
-
-Last update: 2015-01-09
+Last update: 2015-01-23
 
 ----
 
@@ -114,16 +112,16 @@ Last update: 2015-01-09
 
 ### Frameworks
 
-* [AFNetworking](http://afnetworking.com/) :+1:
+* [AFNetworking](http://afnetworking.com/)
 
 > A delightful networking framework for iOS and OSX
 
-* [RestKit](https://github.com/RestKit/RestKit) :+1:
+* [RestKit](https://github.com/RestKit/RestKit)
 
 > RestKit is a framework for consuming and modeling RESTful web resources
 on iOS and OS X 
 
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) :+1:
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 
 > A framework for composing and transforming streams of values
 
@@ -145,7 +143,7 @@ on iOS and OS X
  
 ### Extensions for Objective-C and Cocoa frameworks
 
-* [libextobjc](https://github.com/jspahrsummers/libextobjc) :+1:
+* [libextobjc](https://github.com/jspahrsummers/libextobjc)
 
 > A Cocoa library to extend the Objective-C programming language.
 
@@ -186,7 +184,7 @@ Future-proof with ARC
 
 ### Macros utilities
 
-* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing) :+1:
+* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
 
 > A variety of utilities for the C preprocessor.
 
@@ -280,7 +278,7 @@ element of a list
 
 ## Algorithms
 
-* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) :+1:
+* [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)
 
 > EKAlgorithms contains some well known CS algorithms and other stuff.
 
@@ -300,7 +298,7 @@ element of a list
 
 ## Conventions / Style guides / Best practices
 
-* [github/objective-c-conventions](https://github.com/github/objective-c-conventions) :+1:
+* [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
 
 > Coding conventions for Objective-C projects.
 
@@ -312,7 +310,7 @@ element of a list
 
 > The New York Times Mobile Team’s Objective-C Style Guide.
 
-* [objc-zen-book](https://github.com/objc-zen/objc-zen-book) :+1:
+* [objc-zen-book](https://github.com/objc-zen/objc-zen-book)
 
 > Zen and the Art of the Objective-C Craftsmanship
 
@@ -474,7 +472,7 @@ syncable database engine.
 
 ## Data
 
-* [github/Mantle](https://github.com/github/Mantle) :+1:
+* [github/Mantle](https://github.com/github/Mantle)
 
 > Model framework for Cocoa and Cocoa Touch
 
@@ -541,7 +539,7 @@ suppress selectors at runtime
 
 > Dynamic code injection Tool
 
-* [Xtrace](https://github.com/johnno1962/Xtrace) :+1:
+* [Xtrace](https://github.com/johnno1962/Xtrace)
 
 > Trace Objective-C method calls by class or instance)
 
@@ -683,7 +681,7 @@ interactions, inspired by VCR for ruby
 > RedGreen is an extension library for SenTestKit that makes the test
 output easier to parse by humans.
 
-* [mneorr/XCPretty](https://github.com/mneorr/XCPretty) :+1:
+* [mneorr/XCPretty](https://github.com/mneorr/XCPretty)
 
 > Flexible and fast xcodebuild formatter
 
@@ -719,7 +717,7 @@ presentations made easy. Install the SDK and start streaming now.
 
 > Analytics framework for iOS
 
-* [ARAnalytics](https://github.com/orta/ARAnalytics) :+1:
+* [ARAnalytics](https://github.com/orta/ARAnalytics)
 
 > Simplify your iOS analytics
 
@@ -788,7 +786,7 @@ design and content of your passes, or generate one-offs on the fly.
     > Secure your In-App-Purchases by verifying App Store purchase
 receipts, and retrieving the information associated with receipt data.
 
-  * [Shenzhen](https://github.com/nomad/shenzhen) :+1:
+  * [Shenzhen](https://github.com/nomad/shenzhen)
 
     > Create development builds and then distribute their .ipa files over
 TestFlight, HockeyApp, Amazon S3, or FTP. Get new builds out to testers
@@ -820,7 +818,7 @@ and enterprises in seconds.
 
 ## Xcode. Tools and Plugins
 
-* [Alcatraz](https://github.com/supermarin/Alcatraz) :+1:
+* [Alcatraz](https://github.com/supermarin/Alcatraz)
 
 > Package manager for Xcode http://alcatraz.io/
 
@@ -868,7 +866,7 @@ It's designed to aid in the debugging process.
 
 ### Storyboards
 
-* [rob-brown/RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink) :+1:
+* [rob-brown/RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink)
 
 > Makes transitioning between storyboards possible. [Using Multiple Storyboards in iOS Development](http://spin.atomicobject.com/2014/02/18/ios-storyboards-xcode5/)
 
