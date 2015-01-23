@@ -806,6 +806,10 @@ and enterprises in seconds.
 
 ## Device information
 
+* [RSEnvironment](https://github.com/rabovik/RSEnvironment)
+
+> Most common environment checks in one place: system version, retina support, UI flat mode, device models and so on.
+
 * [GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo)
 
 > Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.
