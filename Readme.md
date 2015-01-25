@@ -1044,6 +1044,10 @@ iOS7's physics engine.
 
 ### Applications
 
+* [artsy/eigen](https://github.com/artsy/eigen)
+
+> The Art World in Your Pocket
+
 * [mbus](https://github.com/jonahgrant/mbus)
 
 > iOS implementation of the University of Michigan's bus dispatch system
