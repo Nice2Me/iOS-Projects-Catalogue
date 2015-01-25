@@ -92,7 +92,6 @@ Last update: 2015-01-23
     - [Applications](#applications-1)
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
-  - [OSX](#osx)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -1108,5 +1107,4 @@ Controller working as if it were all in a UITableViewController.
 
 > Creating an iOS app in pure C
 
-## OSX
 
