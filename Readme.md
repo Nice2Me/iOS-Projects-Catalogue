@@ -89,7 +89,7 @@ Last update: 2015-01-23
   - [Applications](#applications)
     - [Browsers](#browsers)
     - [Graphics](#graphics-1)
-    - [Other](#other-2)
+    - [Applications](#applications-1)
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
   - [OSX](#osx)
@@ -1042,7 +1042,7 @@ iOS7's physics engine.
 
 > Painting app for the iPhone and iPad.
 
-### Other
+### Applications
 
 * [mbus](https://github.com/jonahgrant/mbus)
 
