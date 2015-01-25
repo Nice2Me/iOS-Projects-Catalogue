@@ -680,6 +680,10 @@ interactions, inspired by VCR for ruby
 > RedGreen is an extension library for SenTestKit that makes the test
 output easier to parse by humans.
 
+* [JPSimulatorHacks](https://github.com/plu/JPSimulatorHacks)
+
+> Automatically grant access to addressbook/photos in your tests (Simulator only)
+
 * [mneorr/XCPretty](https://github.com/mneorr/XCPretty)
 
 > Flexible and fast xcodebuild formatter
