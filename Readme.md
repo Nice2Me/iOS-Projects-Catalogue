@@ -16,7 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-01-23
+Last update: 2015-01-28
 
 ----
 
@@ -1006,6 +1006,10 @@ rendering (CoreAnimation)
 
 > Open-source audio synthesis, processing, & analysis platform. http://audiokit.io/
 
+* [ObjectAL-for-iPhone](https://github.com/kstenerud/ObjectAL-for-iPhone)
+
+> Mac and iOS Audio development, minus the headache. ObjectAL is the easy Objective-C interface to OpenAL, AVAudioPlayer, and audio session management. http://kstenerud.github.com/ObjectAL-for-iPhone
+
 ## Video
 
 [XCDYouTubeVideoPlayerViewController](https://github.com/0xced/XCDYouTubeVideoPlayerViewController)
@@ -1110,5 +1114,4 @@ Controller working as if it were all in a UITableViewController.
 * [richardjrossiii/CBasediOSApp](https://github.com/richardjrossiii/CBasediOSApp)
 
 > Creating an iOS app in pure C
-
 
