@@ -98,13 +98,22 @@ Last update: 2015-01-28
 
 ## Catalogues
 
-* [iOSDevTools](https://github.com/EvgenyKarkan/iOSDevTools)
+* [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
-> Set of repositories for different development tasks.
+> A curated list of awesome iOS frameworks, libraries, tutorials, xcode
+plugins and components.
 
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 
 > A collaborative list of awesome swift resources. Feel free to contribute!
+
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+> Open-Source iOS Apps
+
+* [iOSDevTools](https://github.com/EvgenyKarkan/iOSDevTools)
+
+> Set of repositories for different development tasks.
 
 ## Objective-C and Cocoa
 
