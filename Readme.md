@@ -16,7 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-01-28
+Last update: 2015-03-13
 
 ----
 
@@ -1053,6 +1053,10 @@ iOS7's physics engine.
 
 > An open-source, privacy-enhancing web browser for iOS, utilizing the
 Tor anonymity network
+
+* [irccloud/ios](https://github.com/irccloud/ios)
+
+> IRCCloud iOS App
 
 * [telegram](https://github.com/overtake/telegram)
 
