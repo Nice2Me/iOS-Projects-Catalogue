@@ -89,7 +89,6 @@ Last update: 2015-01-28
   - [Applications](#applications)
     - [Browsers](#browsers)
     - [Graphics](#graphics-1)
-    - [Applications](#applications-1)
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
 
@@ -1033,24 +1032,6 @@ iOS7's physics engine.
 
 ## Applications
 
-### Browsers
-
-* [mozilla/firefox-ios](https://github.com/mozilla/firefox-ios)
-
-> Firefox for iOS
-
-### Graphics
-
-* [Inkpad](https://github.com/sprang/Inkpad)
-
-> Vector illustration app for the iPad.
-
-* [Brushes](https://github.com/sprang/Brushes)
-
-> Painting app for the iPhone and iPad.
-
-### Applications
-
 * [artsy/eigen](https://github.com/artsy/eigen)
 
 > The Art World in Your Pocket
@@ -1067,6 +1048,22 @@ Tor anonymity network
 * [telegram](https://github.com/overtake/telegram)
 
 > Source code of Telegram for OSX  http://telegram.org
+
+### Browsers
+
+* [mozilla/firefox-ios](https://github.com/mozilla/firefox-ios)
+
+> Firefox for iOS
+
+### Graphics
+
+* [Inkpad](https://github.com/sprang/Inkpad)
+
+> Vector illustration app for the iPad.
+
+* [Brushes](https://github.com/sprang/Brushes)
+
+> Painting app for the iPhone and iPad.
 
 ## Code Examples
 
