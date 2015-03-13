@@ -89,7 +89,6 @@ Last update: 2015-01-28
   - [Applications](#applications)
     - [Browsers](#browsers)
     - [Graphics](#graphics-1)
-    - [Applications](#applications-1)
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
 
@@ -99,13 +98,22 @@ Last update: 2015-01-28
 
 ## Catalogues
 
-* [iOSDevTools](https://github.com/EvgenyKarkan/iOSDevTools)
+* [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
-> Set of repositories for different development tasks.
+> A curated list of awesome iOS frameworks, libraries, tutorials, xcode
+plugins and components.
 
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 
 > A collaborative list of awesome swift resources. Feel free to contribute!
+
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+> Open-Source iOS Apps
+
+* [iOSDevTools](https://github.com/EvgenyKarkan/iOSDevTools)
+
+> Set of repositories for different development tasks.
 
 ## Objective-C and Cocoa
 
@@ -1033,24 +1041,6 @@ iOS7's physics engine.
 
 ## Applications
 
-### Browsers
-
-* [mozilla/firefox-ios](https://github.com/mozilla/firefox-ios)
-
-> Firefox for iOS
-
-### Graphics
-
-* [Inkpad](https://github.com/sprang/Inkpad)
-
-> Vector illustration app for the iPad.
-
-* [Brushes](https://github.com/sprang/Brushes)
-
-> Painting app for the iPhone and iPad.
-
-### Applications
-
 * [artsy/eigen](https://github.com/artsy/eigen)
 
 > The Art World in Your Pocket
@@ -1067,6 +1057,22 @@ Tor anonymity network
 * [telegram](https://github.com/overtake/telegram)
 
 > Source code of Telegram for OSX  http://telegram.org
+
+### Browsers
+
+* [mozilla/firefox-ios](https://github.com/mozilla/firefox-ios)
+
+> Firefox for iOS
+
+### Graphics
+
+* [Inkpad](https://github.com/sprang/Inkpad)
+
+> Vector illustration app for the iPad.
+
+* [Brushes](https://github.com/sprang/Brushes)
+
+> Painting app for the iPhone and iPad.
 
 ## Code Examples
 
