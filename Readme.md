@@ -131,6 +131,10 @@ plugins and components.
 
 > A framework for composing and transforming streams of values
 
+* [Mantle](https://github.com/github/Mantle)
+
+> Model framework for Cocoa and Cocoa Touch
+
 * [ComponentKit](http://componentkit.org/)
 
 > A React-Inspired View Framework for iOS
@@ -508,10 +512,6 @@ syncable database engine.
 
 
 ## Data
-
-* [github/Mantle](https://github.com/github/Mantle)
-
-> Model framework for Cocoa and Cocoa Touch
 
 * [RestKit/RKValueTransformers](https://github.com/RestKit/RKValueTransformers)
 
