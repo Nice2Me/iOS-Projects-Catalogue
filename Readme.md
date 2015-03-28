@@ -94,6 +94,7 @@ Last update: 2015-03-28
     - [Graphics](#graphics-1)
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
+  - [Compilers](#compilers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -112,7 +113,7 @@ plugins and components.
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
-> Open-Source iOS Apps
+> Collaborative List of Open-Source iOS Apps
 
 * [iOSDevTools](https://github.com/EvgenyKarkan/iOSDevTools)
 
@@ -295,6 +296,14 @@ element of a list
 * [BIND](https://github.com/markohlebar/BIND)
 
 Data Binding and MVVM for iOS
+
+* [KVOController](https://github.com/facebook/KVOController)
+
+Simple, modern, thread-safe key-value observing for iOS and OS X.
+
+* [Bond](https://github.com/SwiftBond/Bond)
+
+A Swift binding framework
 
 ## Algorithms
 
@@ -1150,3 +1159,8 @@ Controller working as if it were all in a UITableViewController.
 
 > Creating an iOS app in pure C
 
+## Compilers
+
+* [8cc](https://github.com/rui314/8cc)
+
+A Small C Compiler
