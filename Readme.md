@@ -16,7 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-03-16
+Last update: 2015-03-28
 
 ----
 
@@ -34,7 +34,8 @@ Last update: 2015-03-16
   - [Dependency Management](#dependency-management)
   - [Auto-updates](#auto-updates)
   - [Design Patterns](#design-patterns)
-    - [Promises/Futures/Deferred](#promisesfuturesdeferred)
+    - [Promises / Futures / Deferred](#promises--futures--deferred)
+    - [Observer / Binding](#observer--binding)
   - [Algorithms](#algorithms)
   - [Data structures](#data-structures)
   - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
@@ -125,14 +126,18 @@ plugins and components.
 
 > A delightful networking framework for iOS and OSX
 
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+
+> A framework for composing and transforming streams of values
+
+* [ComponentKit](http://componentkit.org/)
+
+> A React-Inspired View Framework for iOS
+
 * [RestKit](https://github.com/RestKit/RestKit)
 
 > RestKit is a framework for consuming and modeling RESTful web resources
 on iOS and OS X 
-
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-
-> A framework for composing and transforming streams of values
 
 * [GNUstep](https://github.com/gnustep/gnustep-base)
 
@@ -267,7 +272,7 @@ element of a list
 
 > Design pattern samples implemented in Java
 
-### Promises/Futures/Deferred
+### Promises / Futures / Deferred
 
 * [PromiseKit](https://github.com/mxcl/PromiseKit)
 
@@ -284,6 +289,12 @@ element of a list
 * [deferred](https://github.com/kseebaldt/deferred)
 
 > Async library inspired by CommonJS Promises/A spec
+
+### Observer / Binding
+
+* [BIND](https://github.com/markohlebar/BIND)
+
+Data Binding and MVVM for iOS
 
 ## Algorithms
 
@@ -671,6 +682,10 @@ stubbing for iOS and Mac OS X.
 * [objc-mocktail](https://github.com/square/objc-mocktail)
 
 > A simple(r) way to stub out HTTP servers in your Objective-C app.
+
+* [URLMock](https://github.com/twotoasters/URLMock)
+
+> A Cocoa framework for mocking and stubbing URL requests and responses.
 
 ### VCR tools
 
