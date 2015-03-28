@@ -58,6 +58,7 @@ Last update: 2015-03-28
   - [Debugging](#debugging)
     - [Logging](#logging-1)
     - [Core Data](#core-data-1)
+  - [Build Tools](#build-tools)
   - [Testing](#testing)
     - [Testing frameworks](#testing-frameworks)
     - [Test Automation](#test-automation)
@@ -618,6 +619,12 @@ ATLog(@"%@",CGPointMake(1,1)); // No need for NSStringFromCGPoint.
 > GDCoreDataConcurrencyDebugging helps you find cases where
 NSManagedObject's are being called on the wrong thread or dispatch
 queue.
+
+## Build Tools
+
+* [bazel](https://github.com/google/bazel)
+
+> Correct, reproducible, and fast builds for everyone.
 
 ## Testing
 
