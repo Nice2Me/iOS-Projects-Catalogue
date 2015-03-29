@@ -26,6 +26,9 @@ Last update: 2015-03-28
 
 - [Contents](#contents)
   - [Catalogues](#catalogues)
+  - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
+    - [Objective-C](#objective-c)
+    - [Swift](#swift)
   - [Objective-C and Cocoa](#objective-c-and-cocoa)
     - [Frameworks](#frameworks)
     - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
@@ -38,9 +41,6 @@ Last update: 2015-03-28
     - [Observer / Binding](#observer--binding)
   - [Algorithms](#algorithms)
   - [Data structures](#data-structures)
-  - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
-    - [Objective-C](#objective-c)
-    - [Swift](#swift)
   - [Cross-platform development](#cross-platform-development)
   - [Application Platforms](#application-platforms)
   - [Networking](#networking)
@@ -119,6 +119,44 @@ plugins and components.
 * [iOSDevTools](https://github.com/EvgenyKarkan/iOSDevTools)
 
 > Set of repositories for different development tasks.
+
+## Conventions / Style guides / Best practices
+
+* [The Power of Ten – Rules for Developing Safety Critical Code](http://pixelscommander.com/wp-content/uploads/2014/12/P10.pdf)
+
+> Jet Propulsion Laboratory – scientific institution making a lot of research and development for NASA. JPL have been developing software for most of unmanned missions in the field of deep space and other planets exploaration. Their portfolio includes such famous missons as Curiosity Mars rover and Voyager probe which left solar system after 25 years of flight and still providing scientific information. High level of automatization and long duration of missions led to superior demands to software quality. As a result of JPL amazing experience a set of code guidelines was developed and published recently.
+
+### Objective-C
+
+* [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
+
+> Coding conventions for Objective-C projects.
+
+* [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
+
+> The New York Times Mobile Team’s Objective-C Style Guide.
+
+* [objc-zen-book](https://github.com/objc-zen/objc-zen-book)
+
+> Zen and the Art of the Objective-C Craftsmanship
+
+* [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0#header-whitespaces)
+
+> Taken from [Objc.io#22: The Art of Code Review: A Dropbox Story](http://www.objc.io/issue-22/dropbox.html)
+
+* [iwasrobbed/Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
+
+> A quick reference cheat sheet for common, high level topics in Objective-C.
+
+### Swift
+
+* [github/swift-style-guide](https://github.com/github/swift-style-guide)
+
+> Style guide & coding conventions for Swift projects
+
+* [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
+
+> The official Swift style guide for raywenderlich.com.
 
 ## Objective-C and Cocoa
 
@@ -329,40 +367,6 @@ A Swift binding framework
 * [NSTree](https://github.com/carlinyuen/NSTree)
  
 > Tree data structure implementation for iOS without using CFTree. Keywords: iOS, tree, algorithms, data structures, binary, b-trees.
-
-## Conventions / Style guides / Best practices
-
-* [The Power of Ten – Rules for Developing Safety Critical Code](http://pixelscommander.com/wp-content/uploads/2014/12/P10.pdf)
-
-> Jet Propulsion Laboratory – scientific institution making a lot of research and development for NASA. JPL have been developing software for most of unmanned missions in the field of deep space and other planets exploaration. Their portfolio includes such famous missons as Curiosity Mars rover and Voyager probe which left solar system after 25 years of flight and still providing scientific information. High level of automatization and long duration of missions led to superior demands to software quality. As a result of JPL amazing experience a set of code guidelines was developed and published recently.
-
-### Objective-C
-
-* [github/objective-c-conventions](https://github.com/github/objective-c-conventions)
-
-> Coding conventions for Objective-C projects.
-
-* [NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
-
-> The New York Times Mobile Team’s Objective-C Style Guide.
-
-* [objc-zen-book](https://github.com/objc-zen/objc-zen-book)
-
-> Zen and the Art of the Objective-C Craftsmanship
-
-* [iwasrobbed/Objective-C-CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
-
-> A quick reference cheat sheet for common, high level topics in Objective-C.
-
-### Swift
-
-* [github/swift-style-guide](https://github.com/github/swift-style-guide)
-
-> Style guide & coding conventions for Swift projects
-
-* [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
-
-> The official Swift style guide for raywenderlich.com.
 
 ## Cross-platform development
 
