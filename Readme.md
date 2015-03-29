@@ -29,11 +29,8 @@ Last update: 2015-03-28
   - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
     - [Objective-C](#objective-c)
     - [Swift](#swift)
-  - [Objective-C and Cocoa](#objective-c-and-cocoa)
-    - [Frameworks](#frameworks)
-    - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
-    - [Macros utilities](#macros-utilities)
-    - [Low level](#low-level)
+  - [Frameworks](#frameworks)
+  - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
   - [Dependency Management](#dependency-management)
   - [Auto-updates](#auto-updates)
   - [Design Patterns](#design-patterns)
@@ -55,6 +52,8 @@ Last update: 2015-03-28
     - [Key-Value stores](#key-value-stores)
     - [Encryption](#encryption)
   - [Data](#data)
+  - [Macros utilities](#macros-utilities)
+  - [Low level](#low-level)
   - [Debugging](#debugging)
     - [Logging](#logging-1)
     - [Core Data](#core-data-1)
@@ -158,9 +157,7 @@ plugins and components.
 
 > The official Swift style guide for raywenderlich.com.
 
-## Objective-C and Cocoa
-
-### Frameworks
+## Frameworks
 
 * [AFNetworking](http://afnetworking.com/)
 
@@ -199,7 +196,7 @@ on iOS and OS X
 
 > ROAD - Rapid Objective-C Applications Development
  
-### Extensions for Objective-C and Cocoa frameworks
+## Extensions for Objective-C and Cocoa frameworks
 
 * [libextobjc](https://github.com/jspahrsummers/libextobjc)
 
@@ -239,48 +236,6 @@ Future-proof with ARC
 * [NNKit](https://github.com/numist/NNKit)
 
 > A Swiss Army Knife for Objective-C developers
-
-### Macros utilities
-
-* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
-
-> A variety of utilities for the C preprocessor.
-
-* [JREnum](https://github.com/rentzsch/JREnum)
-
-> macros that automate vending an NSString given an enum value (f.x.
-MyEnumToString(value))
-
-* [swansontec/map-macro](https://github.com/swansontec/map-macro)
-
-> A recursive C preprocessor macro which performs an operation on each
-element of a list
-
-### Low level
-
-* [Hopper](http://www.hopperapp.com/index.html)
-
-> Hopper is a reverse engineering tool for OS X, that lets you disassemble, decompile and debug your 32/64bits Intel Mac, Windows and iOS executables!
-
-* [RuntimeBrowser](https://github.com/nst/RuntimeBrowser)
-
-> Objective-C Runtime Browser, for Mac OS X and iOS
-
-* [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch)
-
-> Linux port of Apple's open-source concurrency library
-
-* [rentzsch/mach_inject](https://github.com/rentzsch/mach_inject)
-
-> interprocess code injection for Mac OS X
-
-* [rentzsch/mach_override](https://github.com/rentzsch/mach_override)
-
-> runtime function overriding for Mac OS X
-
-* [RDInjectionWizard](https://github.com/rodionovd/RDInjectionWizard)
-
-> Painless code injection for OS X
 
 ## Dependency Management
 
@@ -553,6 +508,48 @@ such as JSON representation
 * [ParseKit](https://github.com/itod/parsekit/)
 
 > Objective-C Tokenizer and Parser Generator. Supports Grammars.
+
+## Macros utilities
+
+* [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
+
+> A variety of utilities for the C preprocessor.
+
+* [JREnum](https://github.com/rentzsch/JREnum)
+
+> macros that automate vending an NSString given an enum value (f.x.
+MyEnumToString(value))
+
+* [swansontec/map-macro](https://github.com/swansontec/map-macro)
+
+> A recursive C preprocessor macro which performs an operation on each
+element of a list
+
+## Low level
+
+* [Hopper](http://www.hopperapp.com/index.html)
+
+> Hopper is a reverse engineering tool for OS X, that lets you disassemble, decompile and debug your 32/64bits Intel Mac, Windows and iOS executables!
+
+* [RuntimeBrowser](https://github.com/nst/RuntimeBrowser)
+
+> Objective-C Runtime Browser, for Mac OS X and iOS
+
+* [nickhutchinson/libdispatch](https://github.com/nickhutchinson/libdispatch)
+
+> Linux port of Apple's open-source concurrency library
+
+* [rentzsch/mach_inject](https://github.com/rentzsch/mach_inject)
+
+> interprocess code injection for Mac OS X
+
+* [rentzsch/mach_override](https://github.com/rentzsch/mach_override)
+
+> runtime function overriding for Mac OS X
+
+* [RDInjectionWizard](https://github.com/rodionovd/RDInjectionWizard)
+
+> Painless code injection for OS X
 
 ## Debugging
 
