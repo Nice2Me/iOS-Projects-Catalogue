@@ -111,6 +111,10 @@ plugins and components.
 
 > A collaborative list of awesome swift resources. Feel free to contribute!
 
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+
+A curated list of awesome iOS UI/UX libraries
+
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 > Collaborative List of Open-Source iOS Apps
