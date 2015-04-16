@@ -16,7 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-03-28
+Last update: 2015-04-16
 
 ----
 
@@ -768,6 +768,11 @@ presentations made easy. Install the SDK and start streaming now.
 
 > Complete mobile beta testing solution. One platform to orchestrate your entire mobile testing process. 
 
+* [Birdflight](https://www.birdflightapp.com/)
+
+> The web-based solution for managing your testers.
+For Android & iOS!
+
 ## Analytics
 
 * [AnalyticsKit](https://github.com/twobitlabs/AnalyticsKit)
@@ -795,6 +800,10 @@ presentations made easy. Install the SDK and start streaming now.
 * [Countly/countly-sdk-ios](https://github.com/Countly/countly-sdk-ios)
 
 > Countly Mobile Analytics - iOS SDK http://count.ly
+
+* [Logentries](https://logentries.com/)
+
+Log Management and Analytics in Real-time
 
 * [ZeoInsight](http://zeoinsight.com/)
 
