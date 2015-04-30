@@ -971,6 +971,10 @@ It's designed to aid in the debugging process.
 > The ultimate API for iOS & OS X Auto Layout — impressively simple,
 immensely powerful.
 
+* [Cartography](https://github.com/robb/Cartography)
+
+>  Declarative Auto Layout in Swift
+
 ### UIKit extensions
 
 * [hfossli/AGGeometryKit](https://github.com/hfossli/AGGeometryKit)
