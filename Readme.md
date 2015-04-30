@@ -16,7 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-04-16
+Last update: 2015-04-30
 
 ----
 
@@ -939,6 +939,10 @@ It's designed to aid in the debugging process.
 * [rob-brown/RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink)
 
 > Makes transitioning between storyboards possible. [Using Multiple Storyboards in iOS Development](http://spin.atomicobject.com/2014/02/18/ios-storyboards-xcode5/)
+
+* [Natalie](https://github.com/krzyzanowskim/Natalie)
+
+>  Natalie - Storyboard Code Generator (for Swift)
 
 ### Stylesheets
 
