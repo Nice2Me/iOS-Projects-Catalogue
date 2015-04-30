@@ -36,6 +36,7 @@ Last update: 2015-04-30
   - [Design Patterns](#design-patterns)
     - [Promises / Futures / Deferred](#promises--futures--deferred)
     - [Observer / Binding](#observer--binding)
+    - [State Machine](#state-machine)
   - [Algorithms](#algorithms)
   - [Data structures](#data-structures)
   - [Cross-platform development](#cross-platform-development)
@@ -306,6 +307,12 @@ Simple, modern, thread-safe key-value observing for iOS and OS X.
 * [Bond](https://github.com/SwiftBond/Bond)
 
 A Swift binding framework
+
+### State Machine
+
+* [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine)
+
+>  Swift µframework for creating state machines
 
 ## Algorithms
 
