@@ -16,7 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-04-30
+Last update: 2015-05-26
 
 ----
 
@@ -114,11 +114,23 @@ plugins and components.
 
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
-A curated list of awesome iOS UI/UX libraries
+> A curated list of awesome iOS UI/UX libraries
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 > Collaborative List of Open-Source iOS Apps
+
+* [awesome-c](https://notabug.org/koz.ross/awesome-c)
+
+> A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+
+>  A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. http://fffaraz.github.io/awesome-cpp/
+
+* [awesome](https://github.com/sindresorhus/awesome)
+
+>  A curated list of awesome lists
 
 * [iOSDevTools](https://github.com/EvgenyKarkan/iOSDevTools)
 
@@ -456,6 +468,10 @@ replacement for Apple Reachability
 
 > Couchbase Lite is an embedded lightweight, document-oriented (NoSQL),
 syncable database engine.  
+
+* [CDTDatastore](https://github.com/cloudant/CDTDatastore)
+
+>  Cloudant Sync iOS datastore library.
 
 * [NyaruDB](https://github.com/kelp404/NyaruDB)
 
@@ -898,6 +914,10 @@ and enterprises in seconds.
 * [Alcatraz](https://github.com/supermarin/Alcatraz)
 
 > Package manager for Xcode http://alcatraz.io/
+
+* [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway)
+
+> Xcode plugin for auto-hiding the debugger once you start typing in the source code editor.
 
 ### Plugins
 
