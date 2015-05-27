@@ -4,15 +4,11 @@ This is the catalogue of iOS/Objective-C Open Source projects. I created it to h
 
 It will grow as fast as it is possible with my ability to add/explore new projects around the net, Github, etc.
 
-If you liked it, feel free to suggest any new projects that are not
-present in the current list. See [Contribution](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Contribution.md).
-
 You may start watching this repo to receive notifications about new incoming projects. New projects are added via Pull Requests to 'new' branch so all watchers of this repository receive corresponding email notifications.
 
-Also I keep another catalogue of projects: it contains [the list of candidates for this
-catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md). After I am sure enough that a particular candidate-project deserves its place here, I move it here from the list of Candidates.
+Feel free to suggest any new projects that are not present in the current list. See [Contribution](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Contribution.md).
 
-Note! This catalogue also includes a number of projects which are not open-source but are still somehow related to a development of iOS/Objective-C applications.
+Note! This catalogue also includes a number of projects that are not open-source but are still somehow related to iOS/OSX applications development.
 
 Suggestions are welcome! New projects are welcome!
 
@@ -97,6 +93,7 @@ Last update: 2015-05-27
   - [Code Examples](#code-examples)
     - [Low-level](#low-level)
   - [Compilers](#compilers)
+  - [Other / Unsorted](#other--unsorted)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -1235,3 +1232,9 @@ Controller working as if it were all in a UITableViewController.
 * [8cc](https://github.com/rui314/8cc)
 
 A Small C Compiler
+
+## Other / Unsorted
+
+* [EDSunriseSet](https://github.com/erndev/EDSunriseSet)
+
+> Objective-C class to calculate Sunrise/Sunset/Twilight times.

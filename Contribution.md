@@ -1,15 +1,13 @@
 # Contribution
 
-Feel free to suggest any project that is not currently present in iOS-Projects-Catalogue:
+Feel free to suggest any project that is not present in iOS-Projects-Catalogue:
 
 - Fork iOS-Projects-Catalogue, clone it.
 - Create branch `new`, switch to it.
 - Add your project.
-- Bump date of `last update` (it is on top of the catalogue, at the end of introductory section).
+- Bump date of `Last update` (it is on top of the catalogue, at the end of introductory section).
 - Commit and push this your `new` branch changes to your fork.
-- Make a pull request to `stanislaw:master` named smth like "Category/Subcategory: add YourProject". See [Commits](https://github.com/stanislaw/iOS-Projects-Catalogue/commits/master) for examples.
-
-If you are not sure about particular project, place it to the list of [Candidates](https://github.com/stanislaw/iOS-Projects-Catalogue/blob/master/Candidates.md) as I do. We can decide later if it deserves its place in the main catalogue.
+- Create a pull request to `stanislaw:master` named something like `Category: YourProject`. See [Commits](https://github.com/stanislaw/iOS-Projects-Catalogue/commits/master) and [Pull requests](https://github.com/stanislaw/iOS-Projects-Catalogue/pulls?q=is%3Apr+is%3Aclosed) for examples.
 
 New projects are welcome!
 
