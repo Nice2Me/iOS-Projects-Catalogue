@@ -1002,6 +1002,10 @@ immensely powerful.
 
 >  Declarative Auto Layout in Swift
 
+* [Parus](https://github.com/DAloG/Parus)
+
+> Parus is simple chain style auto-layout helper for objective-c.
+
 ### UIKit extensions
 
 * [hfossli/AGGeometryKit](https://github.com/hfossli/AGGeometryKit)
