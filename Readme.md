@@ -16,7 +16,7 @@ Note! This catalogue also includes a number of projects which are not open-sourc
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-05-26
+Last update: 2015-05-27
 
 ----
 
@@ -71,6 +71,7 @@ Last update: 2015-05-26
     - [Providers](#providers)
     - [Crash reporting tools](#crash-reporting-tools)
   - [Command-line tools](#command-line-tools)
+    - [Xcode project configuration](#xcode-project-configuration)
   - [Device information](#device-information)
   - [Documentation](#documentation)
   - [Xcode. Tools and Plugins](#xcode-tools-and-plugins)
@@ -892,6 +893,16 @@ and enterprises in seconds.
 * [fruitstrap](https://github.com/ghughes/fruitstrap/)
 
 > Install and debug iPhone apps from the command line, without using Xcode
+
+### Xcode project configuration
+
+* [Xcodeproj](https://github.com/CocoaPods/Xcodeproj)
+
+>  Create and modify Xcode projects from Ruby.
+
+* [liftoff](https://github.com/thoughtbot/liftoff)
+
+>  CLI for creating and configuring new Xcode projects https://thoughtbot.com/open-source
 
 ## Device information
 
