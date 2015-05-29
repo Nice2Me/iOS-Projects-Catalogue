@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-05-27
+Last update: 2015-05-29
 
 ----
 
@@ -25,6 +25,14 @@ Last update: 2015-05-27
   - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
     - [Objective-C](#objective-c)
     - [Swift](#swift)
+  - [Development Tools](#development-tools)
+    - [IDE](#ide)
+    - [Terminals](#terminals)
+    - [Version Control](#version-control)
+    - [Network inspection](#network-inspection)
+    - [Database Browsers](#database-browsers)
+    - [App and Code Analysis Tools](#app-and-code-analysis-tools)
+    - [Unsorted](#unsorted)
   - [Frameworks](#frameworks)
   - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
   - [Dependency Management](#dependency-management)
@@ -172,6 +180,58 @@ plugins and components.
 
 > The official Swift style guide for raywenderlich.com.
 
+## Development Tools
+
+### IDE
+
+* [AppCode](https://www.jetbrains.com/objc/)
+
+> Turn your bright ideas into outstanding iOS/OS X apps with ease and pleasure. Rely on AppCode's intelligent assistance as you code, refactor, debug and test.
+
+### Terminals
+
+* [TotalTerminal](http://totalterminal.binaryage.com/)
+
+> a system-wide terminal available on a hot-key
+
+* [iTerm2](http://iterm2.com/index.html)
+
+> iTerm2 is a terminal emulator for Mac OS X that does amazing things
+
+### Version Control
+
+* [SourceTree](https://www.atlassian.com/software/sourcetree/overview)
+
+> A free Mercurial and Git client for Windows or Mac
+
+* [Github for Mac](https://mac.github.com/)
+
+> The easiest way to use GitHub on Mac.
+
+### Network inspection
+
+* [Charles](http://www.charlesproxy.com/)
+
+> Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information).
+
+### Database Browsers
+
+* [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)
+
+>  Official home of the DB Browser for SQLite project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: http://sqlitebrowser.org
+
+### App and Code Analysis Tools
+
+* [Faux Pas](http://fauxpasapp.com/)
+
+> Find errors in your iOS or Mac project
+
+### Unsorted
+
+* [xScope](http://xscopeapp.com/)
+
+>  A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
+
 ## Frameworks
 
 * [AFNetworking](http://afnetworking.com/)
@@ -206,10 +266,6 @@ on iOS and OS X
 * [Sparrow-Framework](https://github.com/Gamua/Sparrow-Framework)
 
 > The Open Source Game Engine for iOS http://www.sparrow-framework.org/
-
-* [epam/road-ios-framework](https://github.com/epam/road-ios-framework)
-
-> ROAD - Rapid Objective-C Applications Development
  
 ## Extensions for Objective-C and Cocoa frameworks
 
@@ -1238,3 +1294,7 @@ A Small C Compiler
 * [EDSunriseSet](https://github.com/erndev/EDSunriseSet)
 
 > Objective-C class to calculate Sunrise/Sunset/Twilight times.
+
+* [epam/road-ios-framework](https://github.com/epam/road-ios-framework)
+
+> ROAD - Rapid Objective-C Applications Development
