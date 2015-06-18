@@ -57,6 +57,7 @@ Last update: 2015-06-18
     - [Key-Value stores](#key-value-stores)
     - [Encryption](#encryption)
   - [Data](#data)
+  - [Date tools](#date-tools)
   - [Macros utilities](#macros-utilities)
   - [Low level](#low-level)
   - [Debugging](#debugging)
@@ -589,6 +590,12 @@ such as JSON representation
 * [ParseKit](https://github.com/itod/parsekit/)
 
 > Objective-C Tokenizer and Parser Generator. Supports Grammars.
+
+## Date tools
+
+* [DateTools](https://github.com/MatthewYork/DateTools)
+
+>  Dates and times made easy in Objective-C
 
 ## Macros utilities
 
