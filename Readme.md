@@ -597,6 +597,10 @@ such as JSON representation
 
 >  Dates and times made easy in Objective-C
 
+* [EDSunriseSet](https://github.com/erndev/EDSunriseSet)
+
+> Objective-C class to calculate Sunrise/Sunset/Twilight times.
+
 ## Macros utilities
 
 * [robrix/RXPreprocessing](https://github.com/robrix/RXPreprocessing)
@@ -1305,10 +1309,6 @@ Controller working as if it were all in a UITableViewController.
 A Small C Compiler
 
 ## Other / Unsorted
-
-* [EDSunriseSet](https://github.com/erndev/EDSunriseSet)
-
-> Objective-C class to calculate Sunrise/Sunset/Twilight times.
 
 * [epam/road-ios-framework](https://github.com/epam/road-ios-framework)
 
