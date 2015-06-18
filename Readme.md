@@ -1062,6 +1062,10 @@ It's designed to aid in the debugging process.
 > The ultimate API for iOS & OS X Auto Layout — impressively simple,
 immensely powerful.
 
+* [SnapKit](https://github.com/SnapKit/SnapKit)
+
+>  A Swift Autolayout DSL for iOS & OS X http://snapkit.io
+
 * [Cartography](https://github.com/robb/Cartography)
 
 >  Declarative Auto Layout in Swift
