@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-05-29
+Last update: 2015-06-18
 
 ----
 
@@ -1065,6 +1065,10 @@ immensely powerful.
 * [SnapKit](https://github.com/SnapKit/SnapKit)
 
 >  A Swift Autolayout DSL for iOS & OS X http://snapkit.io
+
+* [Masonry](https://github.com/SnapKit/Masonry)
+
+>  Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
 
 * [Cartography](https://github.com/robb/Cartography)
 
