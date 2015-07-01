@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-06-18
+Last update: 2015-07-01
 
 ----
 
@@ -1139,6 +1139,10 @@ latest versions of iOS.
 
 > Library for location-based clustering of data using Quadtree written
 in Objective-C
+
+* [FBAnnotationClustering](https://github.com/infinum/FBAnnotationClustering)
+
+> FBAnnotationClustering is an iOS library for clustering map notifications in an easy and performant way. https://www.infinum.co/the-capsized-eight/articles/a-blazingly-fast-open-source-algorithm-for-poi-clustering-on-ios
 
 * [ADClusterMapView](https://github.com/applidium/ADClusterMapView)
 
