@@ -25,14 +25,14 @@ Last update: 2015-07-01
   - [Conventions / Style guides / Best practices](#conventions--style-guides--best-practices)
     - [Objective-C](#objective-c)
     - [Swift](#swift)
-  - [Development Tools](#development-tools)
+  - [Developer Tools](#developer-tools)
     - [IDE](#ide)
     - [Terminals](#terminals)
     - [Version Control](#version-control)
     - [Network inspection](#network-inspection)
     - [Database Browsers](#database-browsers)
     - [App and Code Analysis Tools](#app-and-code-analysis-tools)
-    - [Unsorted](#unsorted)
+    - [UI Tools](#ui-tools)
   - [Frameworks](#frameworks)
   - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
   - [Dependency Management](#dependency-management)
@@ -181,7 +181,7 @@ plugins and components.
 
 > The official Swift style guide for raywenderlich.com.
 
-## Development Tools
+## Developer Tools
 
 ### IDE
 
@@ -227,11 +227,15 @@ plugins and components.
 
 > Find errors in your iOS or Mac project
 
-### Unsorted
+### UI Tools
 
 * [xScope](http://xscopeapp.com/)
 
 >  A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
+
+* [Pixel Perfect](https://itunes.apple.com/us/app/pixel-perfect/id916097243?mt=12)
+
+> Compare UI mockup and developed result so easy as never before!
 
 ## Frameworks
 
