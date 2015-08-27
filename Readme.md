@@ -962,6 +962,10 @@ and enterprises in seconds.
 
 > Install and debug iPhone apps from the command line, without using Xcode
 
+* [mobileprovision-read](https://github.com/0xc010d/mobileprovision-read)
+
+> .mobileprovision files querying tool
+
 ### Xcode project configuration
 
 * [Xcodeproj](https://github.com/CocoaPods/Xcodeproj)
