@@ -1277,7 +1277,15 @@ Tor anonymity network
 
 > Code Examples http://useyourloaf.com
 
-* [shu223/iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
+* [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler)
+
+>  Code examples for the new features of iOS 9.
+
+* [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler)
+
+>  Code examples for the new features of iOS 8.
+
+* [iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)
 
 > Code examples for the new functions of iOS 7.
 
