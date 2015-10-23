@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-08-27
+Last update: 2015-10-24
 
 ----
 
@@ -750,6 +750,10 @@ queue.
 * [Unity](https://github.com/ThrowTheSwitch/Unity)
 
 > Simple Unit Testing for C http://throwtheswitch.org/
+
+* [Cegta](https://github.com/rodionovd/Cegta)
+
+> A tiny DSL for TDD/BDD written in C
 
 ### Test Automation
 
