@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-10-24
+Last update: 2015-11-24
 
 ----
 
@@ -326,6 +326,10 @@ Future-proof with ARC
 * [Carthage](https://github.com/Carthage/Carthage)
 
 > A simple, decentralized dependency manager for Cocoa
+
+* [Components](https://github.com/AlexDenisov/Components)
+
+> Components is a concept aimed to solve a problem of dependency management for long-running projects http://lowlevelbits.org/components-management/
 
 ## Auto-updates
 
