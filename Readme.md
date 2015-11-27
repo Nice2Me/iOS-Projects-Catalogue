@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-11-24
+Last update: 2015-11-27
 
 ----
 
@@ -33,6 +33,7 @@ Last update: 2015-11-24
     - [Database Browsers](#database-browsers)
     - [App and Code Analysis Tools](#app-and-code-analysis-tools)
     - [UI Tools](#ui-tools)
+    - [Other](#other)
   - [Frameworks](#frameworks)
   - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
   - [Dependency Management](#dependency-management)
@@ -49,7 +50,7 @@ Last update: 2015-11-24
     - [Servers](#servers)
     - [Sockets](#sockets)
     - [Logging](#logging)
-    - [Other](#other)
+    - [Other](#other-1)
   - [Database](#database)
     - [Core Data](#core-data)
     - [SQLite-based](#sqlite-based)
@@ -69,7 +70,7 @@ Last update: 2015-11-24
     - [Test Automation](#test-automation)
     - [Stubbing tools](#stubbing-tools)
     - [VCR tools](#vcr-tools)
-    - [Other](#other-1)
+    - [Other](#other-2)
   - [Deployment](#deployment)
   - [Beta testing](#beta-testing)
   - [Analytics](#analytics)
@@ -240,6 +241,12 @@ plugins and components.
 * [QuartzCode](http://www.quartzcodeapp.com/)
 
 > Fast, lightweight and powerful animation tool
+
+### Other
+
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
+
+> Quick Look plugin for .ipa and .mobileprovision
 
 ## Frameworks
 
