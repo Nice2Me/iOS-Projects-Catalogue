@@ -1331,6 +1331,10 @@ Controller working as if it were all in a UITableViewController.
 
 > From "Intentions: An experiment in Ultralight View Controllers" http://chris.eidhof.nl/posts/intentions.html
 
+* [CocoaProgrammaticHowtoCollection](https://github.com/Eonil/CocoaProgrammaticHowtoCollection)
+
+> A collection of programmatic how-to code examples for each cases to write a Cocoa GUI (AppKit) app and some non GUI stuffs.
+
 ### Low-level
 
 * [richardjrossiii/iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly)
