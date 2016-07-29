@@ -210,7 +210,11 @@ plugins and components.
 
 > The easiest way to use GitHub on Mac.
 
-### Network inspection
+### Network
+
+* [Paw](https://paw.cloud/)
+
+> Paw is a full-featured HTTP client that lets you test the APIs you build or consume. It has a beautiful native OS X interface to compose requests, inspect server responses and generate client code out-of-the-box.
 
 * [Charles](http://www.charlesproxy.com/)
 
