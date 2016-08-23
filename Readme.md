@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2015-11-27
+Last update: 2016-08-23
 
 ----
 
@@ -29,13 +29,13 @@ Last update: 2015-11-27
     - [IDE](#ide)
     - [Terminals](#terminals)
     - [Version Control](#version-control)
-    - [Network inspection](#network-inspection)
+    - [Network](#network)
     - [Database Browsers](#database-browsers)
     - [App and Code Analysis Tools](#app-and-code-analysis-tools)
     - [UI Tools](#ui-tools)
+    - [Productivity](#productivity)
     - [Other](#other)
   - [Frameworks](#frameworks)
-  - [Extensions for Objective-C and Cocoa frameworks](#extensions-for-objective-c-and-cocoa-frameworks)
   - [Dependency Management](#dependency-management)
   - [Auto-updates](#auto-updates)
   - [Design Patterns](#design-patterns)
@@ -245,6 +245,12 @@ plugins and components.
 * [QuartzCode](http://www.quartzcodeapp.com/)
 
 > Fast, lightweight and powerful animation tool
+
+### Productivity
+
+* [Paste](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235?mt=12&ign-mpt=uo%3D6)
+
+> Paste – smart clipboard history & snippets manager
 
 ### Other
 
