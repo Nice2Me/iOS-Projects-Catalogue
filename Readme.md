@@ -12,7 +12,7 @@ Note! This catalogue also includes a number of projects that are not open-source
 
 Suggestions are welcome! New projects are welcome!
 
-Last update: 2016-08-23
+Last update: 2016-09-16
 
 ----
 
