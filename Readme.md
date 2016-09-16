@@ -1046,6 +1046,10 @@ and enterprises in seconds.
 > XcodeColors allows you to use colors in the Xcode debugging console.
 It's designed to aid in the debugging process.
 
+* [Xcode Headers sorter](https://github.com/kudinovdenis/Xcode-headers-sorting)
+
+> Tool to sort #import's and #include's in alphabetical order. Compatible with Xcode 8.
+
 
 ## UI
 
